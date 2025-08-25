@@ -13018,3 +13018,104 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [25Aug2025 02:49:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es mas rapido el esqueleto xd
 [25Aug2025 02:49:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> para domar un caballo no tienes que tener nada en la mano xd
 [25Aug2025 02:50:07.244] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[25Aug2025 02:50:20.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Estarón (vehicle of 1FANT4SMA) moved wrongly! 0.39969880837976746
+[25Aug2025 02:50:20.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Estarón (vehicle of 1FANT4SMA) moved wrongly! 0.7894126221560782
+[25Aug2025 02:50:20.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Estarón (vehicle of 1FANT4SMA) moved wrongly! 1.1466478374739495
+[25Aug2025 02:50:22.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:frigate_medium_start
+[25Aug2025 02:50:22.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:frigate_medium_end
+[25Aug2025 02:50:23.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[25Aug2025 02:50:23.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[25Aug2025 02:50:23.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[25Aug2025 02:50:51.344] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:50:51.345] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:50:51.345] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:50:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> esta ya la hicimos con sebas xd
+[25Aug2025 02:51:12.916] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Aug2025 02:51:12.916] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:51:12.916] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[25Aug2025 02:51:12.916] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[25Aug2025 02:51:20.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:51:27.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[25Aug2025 02:51:36.591] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:52:10.241] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[25Aug2025 02:52:30.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
+[25Aug2025 02:52:30.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector3
+[25Aug2025 02:52:30.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[25Aug2025 02:52:30.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[25Aug2025 02:52:30.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[25Aug2025 02:52:30.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[25Aug2025 02:52:30.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[25Aug2025 02:52:30.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[25Aug2025 02:52:30.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector4
+[25Aug2025 02:52:30.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[25Aug2025 02:53:25.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/large_cart_2
+[25Aug2025 02:53:25.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/large_cart_1
+[25Aug2025 02:53:27.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:53:27.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:53:27.796] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[25Aug2025 02:53:32.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[25Aug2025 02:53:35.556] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[25Aug2025 02:53:35.556] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[25Aug2025 02:53:35.556] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[25Aug2025 02:53:51.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[25Aug2025 02:53:54.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[25Aug2025 02:54:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dame a este idiota
+[25Aug2025 02:54:07.937] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:54:07.944] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:54:07.944] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 02:54:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> a este
+[25Aug2025 02:54:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Best Friends Forever]
+[25Aug2025 02:54:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es de aca vro
+[25Aug2025 02:54:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es más rapido xd
+[25Aug2025 02:55:30.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> agarrate a este xd
+[25Aug2025 02:55:51.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:55:51.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:55:51.393] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:55:51.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el que tienes tiene 6 de velocidad
+[25Aug2025 02:55:55.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> este tiene 11
+[25Aug2025 02:56:15.391] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Aug2025 02:56:15.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:56:15.392] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[25Aug2025 02:56:15.392] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[25Aug2025 02:56:23.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> spirit
+[25Aug2025 02:56:43.351] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[25Aug2025 02:56:44.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[25Aug2025 02:56:44.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/stone_pillars
+[25Aug2025 02:56:50.172] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-68
+[25Aug2025 02:56:50.196] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[25Aug2025 02:56:50.252] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[25Aug2025 02:56:50.298] [Worker-Main-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-71
+[25Aug2025 02:56:51.165] [Worker-Main-71/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Aug2025 02:56:51.166] [Worker-Main-71/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Aug2025 02:56:51.166] [Worker-Main-71/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Aug2025 02:56:51.166] [Worker-Main-71/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[25Aug2025 02:56:51.170] [Worker-Main-71/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[25Aug2025 02:56:51.170] [Worker-Main-71/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[25Aug2025 02:56:51.231] [Worker-Main-71/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[25Aug2025 02:56:52.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[25Aug2025 02:56:57.554] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[25Aug2025 02:56:57.572] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[25Aug2025 02:56:57.589] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[25Aug2025 02:56:59.048] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[25Aug2025 02:56:59.050] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[25Aug2025 02:57:00.571] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[25Aug2025 02:57:13.683] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[25Aug2025 02:57:15.195] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[25Aug2025 02:57:15.205] [Worker-Main-36/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[25Aug2025 02:57:20.614] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[25Aug2025 02:57:21.534] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[25Aug2025 02:57:41.343] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[25Aug2025 02:57:41.346] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[25Aug2025 02:57:42.296] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:57:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> corre forest
+[25Aug2025 02:58:09.642] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:58:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> f caballo xd
+[25Aug2025 02:58:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> f
+[25Aug2025 02:58:27.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:58:27.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:58:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no te duran nada xd
+[25Aug2025 03:00:10.487] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 03:00:10.492] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 03:00:10.742] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 03:00:27.593] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[25Aug2025 03:00:27.595] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
