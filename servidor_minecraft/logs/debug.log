@@ -12423,3 +12423,153 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [25Aug2025 02:19:52.352] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [25Aug2025 02:19:52.360] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
 [25Aug2025 02:19:54.751] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[25Aug2025 02:20:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was blown up by Creeper
+[25Aug2025 02:20:00.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-944, y:73, z:205, dim:minecraft:overworld]
+[25Aug2025 02:20:01.551] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Aug2025 02:20:01.784] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[25Aug2025 02:20:01.785] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[25Aug2025 02:20:40.300] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[25Aug2025 02:20:49.448] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:20:51.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:20:51.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:20:51.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:20:51.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:21:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XDD
+[25Aug2025 02:21:10.911] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Aug2025 02:21:39.002] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 02:21:40.652] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:21:47.114] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[25Aug2025 02:22:04.949] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:22:27.763] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[25Aug2025 02:22:28.204] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:22:30.309] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[25Aug2025 02:22:30.309] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[25Aug2025 02:22:34.196] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:22:34.201] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:22:34.251] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:22:34.300] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[25Aug2025 02:22:44.127] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[25Aug2025 02:22:44.127] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[25Aug2025 02:22:44.128] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[25Aug2025 02:22:44.128] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[25Aug2025 02:23:05.154] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[25Aug2025 02:23:27.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:23:27.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:24:31.103] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[25Aug2025 02:24:31.106] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[25Aug2025 02:24:40.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Skeleton
+[25Aug2025 02:24:40.861] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-889, y:77, z:122, dim:minecraft:overworld]
+[25Aug2025 02:24:42.024] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Aug2025 02:24:42.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[25Aug2025 02:24:42.259] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[25Aug2025 02:25:27.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> x donde tas?
+[25Aug2025 02:25:49.488] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:25:51.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:25:51.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:25:51.204] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:25:56.438] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:26:12.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Aug2025 02:26:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> -962 69 207
+[25Aug2025 02:26:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[25Aug2025 02:26:50.505] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 02:27:05.049] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:27:18.522] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[25Aug2025 02:27:43.157] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[25Aug2025 02:27:43.157] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[25Aug2025 02:28:01.956] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:28:01.957] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:28:01.958] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:28:16.967] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[25Aug2025 02:28:27.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:28:27.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:28:43.302] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[25Aug2025 02:29:03.749] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:29:08.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:railway
+[25Aug2025 02:29:13.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro¿
+[25Aug2025 02:29:36.107] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:29:41.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:29:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[25Aug2025 02:29:49.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tiene muy poca vida
+[25Aug2025 02:29:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[25Aug2025 02:30:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ok
+[25Aug2025 02:30:12.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> y
+[25Aug2025 02:30:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tiene tres corazones me costo no matarlo en el proceso
+[25Aug2025 02:30:19.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[25Aug2025 02:30:33.605] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[25Aug2025 02:30:42.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> waos
+[25Aug2025 02:30:47.044] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[25Aug2025 02:30:51.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:30:51.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:30:51.248] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:30:52.737] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:31:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no wey
+[25Aug2025 02:31:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si usas el tetra
+[25Aug2025 02:31:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[25Aug2025 02:31:21.102] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Aug2025 02:31:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q
+[25Aug2025 02:31:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ´¿
+[25Aug2025 02:31:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> osea personalizar tu arma ya si
+[25Aug2025 02:31:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[25Aug2025 02:31:55.244] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 02:32:05.142] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:32:05.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya vro
+[25Aug2025 02:32:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q
+[25Aug2025 02:32:13.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vamos a ezplorar xd
+[25Aug2025 02:32:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> agarra tu montura
+[25Aug2025 02:32:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y tameate un caballo
+[25Aug2025 02:32:39.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> curiosa casita xd
+[25Aug2025 02:32:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> aqui pensabas quedarte?
+[25Aug2025 02:32:51.137] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:32:53.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[25Aug2025 02:32:53.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[25Aug2025 02:32:53.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[25Aug2025 02:32:53.502] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[25Aug2025 02:32:57.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> se
+[25Aug2025 02:33:02.318] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:33:06.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> toma
+[25Aug2025 02:33:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> un regalo
+[25Aug2025 02:33:17.243] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[25Aug2025 02:33:27.588] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[25Aug2025 02:33:27.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:33:27.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:33:50.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Cover Me with Diamonds]
+[25Aug2025 02:34:01.191] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:34:01.241] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:34:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> a x el caballo xd
+[25Aug2025 02:34:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no hsy caballo
+[25Aug2025 02:34:18.641] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:34:21.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> quieres uno normal o uno esqueletico
+[25Aug2025 02:34:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ?
+[25Aug2025 02:34:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> da lo mis mo creo
+[25Aug2025 02:34:55.044] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[25Aug2025 02:34:55.045] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[25Aug2025 02:35:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Take Aim]
+[25Aug2025 02:35:51.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[25Aug2025 02:35:51.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[25Aug2025 02:35:51.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[25Aug2025 02:35:58.538] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:36:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> mataste el caballo?
+[25Aug2025 02:36:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> lo mato el esqueleto
+[25Aug2025 02:36:24.549] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[25Aug2025 02:36:24.556] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[25Aug2025 02:37:03.743] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Aug2025 02:37:05.243] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:37:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> oye xd, que le ahces?
+[25Aug2025 02:37:50.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:38:08.787] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:38:08.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[25Aug2025 02:38:13.102] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[25Aug2025 02:38:13.298] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[25Aug2025 02:38:19.297] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[25Aug2025 02:38:27.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 02:38:27.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 02:38:27.701] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3152ms or 63 ticks
+[25Aug2025 02:38:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> la zona de encantamientos xd
+[25Aug2025 02:39:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si sabes bajar?
+[25Aug2025 02:39:18.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no
+[25Aug2025 02:39:20.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:39:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shif
+[25Aug2025 02:39:29.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:39:30.442] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:39:30.442] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[25Aug2025 02:39:58.747] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
