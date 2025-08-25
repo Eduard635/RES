@@ -1751,3 +1751,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [25Aug2025 02:39:20.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
 [25Aug2025 02:39:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shif
 [25Aug2025 02:39:29.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:40:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ese es mio xd
+[25Aug2025 02:41:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> a explorar
+[25Aug2025 02:41:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> se
+[25Aug2025 02:41:44.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> sino encontramos nada vamos a una dungeon xd
+[25Aug2025 02:42:25.196] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[25Aug2025 02:42:25.198] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[25Aug2025 02:42:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> me bajaron al caballo
+[25Aug2025 02:42:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> y fue
+[25Aug2025 02:43:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> cegundo 0
+[25Aug2025 02:43:44.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> cd
+[25Aug2025 02:43:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[25Aug2025 02:43:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> la sufri xd
+[25Aug2025 02:44:03.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> se murio el caballo?
+[25Aug2025 02:44:18.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[25Aug2025 02:44:18.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[25Aug2025 02:44:18.793] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[25Aug2025 02:44:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya pero se murio?
+[25Aug2025 02:44:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Ambush]
+[25Aug2025 02:45:25.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[25Aug2025 02:45:45.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:63907] logged in with entity id 15780 at (-564.778551562419, 78.54481405553305, 57.591025612713864)
+[25Aug2025 02:45:45.519] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[25Aug2025 02:45:45.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[25Aug2025 02:45:45.573] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[25Aug2025 02:45:48.328] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Daniel_ANT_25: protocol version: 2.0
+[25Aug2025 02:45:48.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[25Aug2025 02:45:48.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[25Aug2025 02:45:48.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[25Aug2025 02:47:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Magic Writing]
+[25Aug2025 02:47:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> waos
+[25Aug2025 02:48:29.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vamo a x otra caballo xd
+[25Aug2025 02:48:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> encontre a mi caballo anterior
+[25Aug2025 02:49:32.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es mas rapido el esqueleto xd
+[25Aug2025 02:49:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> para domar un caballo no tienes que tener nada en la mano xd

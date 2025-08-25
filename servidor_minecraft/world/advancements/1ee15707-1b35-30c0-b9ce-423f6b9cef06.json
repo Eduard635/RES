@@ -1147,7 +1147,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-27 20:56:33 +0000",
-      "bread": "2025-07-27 18:56:14 +0000"
+      "bread": "2025-07-27 18:56:14 +0000",
+      "rotten_flesh": "2025-08-25 02:43:34 +0000"
     },
     "done": false
   },
@@ -5356,6 +5357,12 @@
       "phantom": "2025-08-25 02:16:20 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-25 02:47:10 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
