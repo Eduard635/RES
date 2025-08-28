@@ -209,3 +209,5 @@
 [28Aug2025 00:46:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si me escuchas?
 [28Aug2025 00:50:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pera
 [28Aug2025 00:50:32.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[28Aug2025 01:12:51.933] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[28Aug2025 01:12:52.151] [Server thread/INFO] [naturescompass/]: Search succeeded: 1882 radius, 1183 samples
