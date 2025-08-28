@@ -15416,3 +15416,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [28Aug2025 03:12:58.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Aug2025 03:12:58.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Aug2025 03:12:58.785] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[28Aug2025 03:17:58.631] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[28Aug2025 03:17:58.631] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[28Aug2025 03:17:58.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 03:17:58.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 03:22:58.630] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[28Aug2025 03:22:58.630] [IO-Worker-185/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[28Aug2025 03:22:58.635] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[28Aug2025 03:22:58.635] [IO-Worker-185/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[28Aug2025 03:22:58.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 03:22:58.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
