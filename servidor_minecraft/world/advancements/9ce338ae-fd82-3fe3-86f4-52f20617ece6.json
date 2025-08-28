@@ -912,6 +912,7 @@
       "beef": "2025-08-03 19:11:15 +0000",
       "porkchop": "2025-08-03 19:52:16 +0000",
       "apple": "2025-08-03 21:11:59 +0000",
+      "bread": "2025-08-28 00:28:52 +0000",
       "rotten_flesh": "2025-08-12 02:03:05 +0000",
       "golden_carrot": "2025-08-28 00:03:20 +0000",
       "cooked_chicken": "2025-08-03 20:56:06 +0000"
@@ -2473,81 +2474,75 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_filled_map": "2025-08-28 00:17:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "onion": "2025-08-28 00:40:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_any_ingredient": "2025-08-28 00:40:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_glowstone_dust": "2025-08-28 00:16:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_lilac": "2025-08-28 00:15:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_any_ingredient": "2025-08-28 00:40:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_onion": "2025-08-28 00:40:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_any_ingredient": "2025-08-28 00:40:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
+      "has_glowstone_dust": "2025-08-28 00:16:25 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-28 00:07:58 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-27 23:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-28 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 00:40:39 +0000"
     },
     "done": true
   },
