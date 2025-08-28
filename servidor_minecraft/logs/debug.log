@@ -15402,3 +15402,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [28Aug2025 03:03:47.921] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
 [28Aug2025 03:03:49.638] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
 [28Aug2025 03:03:49.646] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[28Aug2025 03:04:49.667] [Worker-Main-92/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-92 shutdown
+[28Aug2025 03:05:49.667] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[28Aug2025 03:06:49.667] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[28Aug2025 03:07:49.667] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[28Aug2025 03:07:58.633] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[28Aug2025 03:07:58.633] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[28Aug2025 03:07:58.639] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[28Aug2025 03:07:58.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 03:07:58.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 03:12:58.630] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[28Aug2025 03:12:58.631] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[28Aug2025 03:12:58.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 03:12:58.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 03:12:58.785] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
