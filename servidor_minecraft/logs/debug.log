@@ -13984,3 +13984,101 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [28Aug2025 01:33:19.361] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
 [28Aug2025 01:33:19.361] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
 [28Aug2025 01:33:19.362] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:34:07.071] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:34:07.071] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:34:07.563] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:34:21.275] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[28Aug2025 01:34:29.310] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[28Aug2025 01:34:29.310] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:34:43.371] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:34:43.372] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:35:00.410] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:35:03.565] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:35:25.673] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[28Aug2025 01:35:49.822] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[28Aug2025 01:35:49.871] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[28Aug2025 01:35:51.872] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:36:02.265] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[28Aug2025 01:36:37.012] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[28Aug2025 01:36:54.073] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[28Aug2025 01:37:21.921] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:37:25.626] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[28Aug2025 01:37:58.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 01:37:58.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 01:38:15.772] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[28Aug2025 01:38:15.772] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[28Aug2025 01:38:22.876] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[28Aug2025 01:38:23.027] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[28Aug2025 01:38:23.086] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[28Aug2025 01:38:23.378] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend2 is being run through DFU (hash 0f478b3d066e09bd18cd5d48f39f2f7ef40860a44aa2bb18a59614cbf35bd1c4), this will cause launch time delays
+[28Aug2025 01:38:23.472] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight2 is being run through DFU (hash 2cdb2d6fcdb2768c1c618707a21180a8d38b2f98cc1765891cf0d1f744b6e2f3), this will cause launch time delays
+[28Aug2025 01:38:23.479] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight1 is being run through DFU (hash 021121437b4b1d44760c99e0be3ef376f85ce195ba97a9080052be1e4e2f9085), this will cause launch time delays
+[28Aug2025 01:38:23.482] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[28Aug2025 01:38:23.482] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[28Aug2025 01:38:23.504] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight3 is being run through DFU (hash 1b8bc83fc07db6b945aec81ceccd4ed4f245a181417da337213ce35374151393), this will cause launch time delays
+[28Aug2025 01:38:23.510] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight4 is being run through DFU (hash 5612e3250cf2024a387c6d7c53e1413f1848eeb733b0d91113df0b6f857aad25), this will cause launch time delays
+[28Aug2025 01:38:23.514] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight5 is being run through DFU (hash 93d95a7ccec163fff9dc078375dcb873339bc8d92388a33546d36a2384b81beb), this will cause launch time delays
+[28Aug2025 01:38:23.517] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight6 is being run through DFU (hash e3505218e726eea53deb986deb45b9dcacb8b531998f1d817e74010e27c056d0), this will cause launch time delays
+[28Aug2025 01:38:23.527] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t1 is being run through DFU (hash 446d3f69e48a3320408c27e077b0b9ca821eda90ed75e2394fba9ca4617063c9), this will cause launch time delays
+[28Aug2025 01:38:23.541] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t2 is being run through DFU (hash 7ef44d33cbe7b17282ce3d6be45cfdffcf98bf2274baae57fd158dd90f55af3b), this will cause launch time delays
+[28Aug2025 01:38:23.555] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend1 is being run through DFU (hash 78768790d8806a5eb59b83080f12c16ecc961d049f2d35e510a6187b583bc79f), this will cause launch time delays
+[28Aug2025 01:38:23.566] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/inter1 is being run through DFU (hash 344846de85630d7bb85fc70802890be766fbdadc47343471d240a9bfe8c6d16f), this will cause launch time delays
+[28Aug2025 01:38:23.574] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term1 is being run through DFU (hash 63b5ac322691aaa7cef3b6bf1cbc50b478553ca3ec5237a391116266c2a3ffb9), this will cause launch time delays
+[28Aug2025 01:38:23.576] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term2 is being run through DFU (hash 088ae3db7603d9c698951d26e63ab76ae8b60a695a56ec18487687f17b7ab6c7), this will cause launch time delays
+[28Aug2025 01:38:23.577] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term3 is being run through DFU (hash b47dd5da7e4d2f648703177bb5e06b2a354baa8a3b335727b7d416e8e9d752e7), this will cause launch time delays
+[28Aug2025 01:38:23.578] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term4 is being run through DFU (hash 3ba032d920d8b2b6f03df3d2b6315699e7ffdb3be7db05b08b29f33de2682dce), this will cause launch time delays
+[28Aug2025 01:38:23.657] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer1 is being run through DFU (hash 2f178f69fb8faf46a07d2d6a83e4ba5b5f18820bf0221bd8ecd722037edd31c1), this will cause launch time delays
+[28Aug2025 01:38:23.850] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/weaponsmith1 is being run through DFU (hash e772afd5670c93ef14ed472af85860b15fe17f6d6ee816a21b18fe3eea6c7b4a), this will cause launch time delays
+[28Aug2025 01:38:23.873] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman2 is being run through DFU (hash 8b6b06ca4a9a6c5eda3fc9de40942044758656786c28b458631ada12ec0e3fc7), this will cause launch time delays
+[28Aug2025 01:38:23.892] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/shepherd1 is being run through DFU (hash cb621bafd795d41954e5f3d39ffd72b32661ada974ce7a92e1a3d914a2e4f1e5), this will cause launch time delays
+[28Aug2025 01:38:23.991] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic1 is being run through DFU (hash 77701ba2ff012e4eb0fd0ea8b7920630c7822b77e361d63028a61afb5374842a), this will cause launch time delays
+[28Aug2025 01:38:24.017] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic_big1 is being run through DFU (hash 9d32c8fe1ae632f7173f7c8757078ec554d1dfc2b331665e201cf5877535a7e1), this will cause launch time delays
+[28Aug2025 01:38:24.096] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/library1 is being run through DFU (hash da2a26a4f3d9e06749c3730cde2207163fee8d4abcd43618ecaf800613f0badf), this will cause launch time delays
+[28Aug2025 01:38:24.158] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic2 is being run through DFU (hash f60b003ad4272f6497d916202e47117a4a5d89b49fbacfaa0b1b8eeb753a86ae), this will cause launch time delays
+[28Aug2025 01:38:24.205] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fletcher1 is being run through DFU (hash 7721fcf29711d568be48de0210b02c3ad6989f8034f20de8cc235ce84fd9d06e), this will cause launch time delays
+[28Aug2025 01:38:24.239] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic4 is being run through DFU (hash c17baeb927509c8ab2e8e710f3a290f7f064356a0fe531425cce932cc018aa01), this will cause launch time delays
+[28Aug2025 01:38:24.272] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/butcher1 is being run through DFU (hash 99063c21c4b352c9795556518be9d71df02233bc9075148fe85fe9e0bb1841ef), this will cause launch time delays
+[28Aug2025 01:38:24.321] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer2 is being run through DFU (hash d383526608b6a5364dd40d29289a5940ef5b02169bab2785d81781f86f7fb78b), this will cause launch time delays
+[28Aug2025 01:38:24.358] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/mason1 is being run through DFU (hash 97216763c8193c4b965bbb52e03131b9669b08fc79707bb4813708a453c80d1f), this will cause launch time delays
+[28Aug2025 01:38:24.383] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic6 is being run through DFU (hash dee2f402f577c3f014ccbec3dc15eaeff463306b1e285df2238849a747101734), this will cause launch time delays
+[28Aug2025 01:38:24.409] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/armorsmith1 is being run through DFU (hash 590dd18bc9c9cec87e9b3ac80149032c8fadb236c432dd4b05761e0e4e33a101), this will cause launch time delays
+[28Aug2025 01:38:24.650] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic5 is being run through DFU (hash e24c0ce26a6520d4873003a930fcc4f38fbd6b28fcf0451093e0e0e8c4b39f50), this will cause launch time delays
+[28Aug2025 01:38:24.761] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/chapel1 is being run through DFU (hash 59ced20d339a075b001b623c55e1b0e77b08d329bdd923dede1a5f77de70a03a), this will cause launch time delays
+[28Aug2025 01:38:24.966] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman1 is being run through DFU (hash 0c46aaac043d0993caf3a553e6bb257df94f7ce26bd575f553cce58d21d9e8a8), this will cause launch time delays
+[28Aug2025 01:38:25.138] [Worker-Main-12/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic3 is being run through DFU (hash f2fbb9b300bb6b2095f92ed2602a561005005f435a6997df3ee01995ed031fb1), this will cause launch time delays
+[28Aug2025 01:38:40.572] [Worker-Main-13/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/obelisk1 is being run through DFU (hash b0c411d6714d76984aa5d96ac05a159f008fce055481f1e5463e3f04b13ce685), this will cause launch time delays
+[28Aug2025 01:38:47.915] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:38:48.405] [Worker-Main-12/DEBUG] [ModernFix/]: Structure paraglider:desert_village_horned_statue is being run through DFU (hash 77a8c01360d17bfb4f247c15e7cd52541d75440c60f8870003eba2e11be84c44), this will cause launch time delays
+[28Aug2025 01:38:48.457] [Worker-Main-12/DEBUG] [ModernFix/]: Structure paraglider:gerudo_village_goddess_statue is being run through DFU (hash 113095405cb6c9b909f521f5d73105fea9f52be6a3faef069f877695523b8dcd), this will cause launch time delays
+[28Aug2025 01:38:48.461] [Worker-Main-12/DEBUG] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 5acb5b060578cb1eb92dd528424c2635b6cc7be8b854e58450e2df50a8f8a045), this will cause launch time delays
+[28Aug2025 01:38:49.965] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[28Aug2025 01:39:09.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[28Aug2025 01:39:11.072] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:39:11.072] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:39:15.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[28Aug2025 01:39:15.461] [Netty Epoll Server IO #0/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[28Aug2025 01:39:20.073] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[28Aug2025 01:39:23.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[28Aug2025 01:39:29.315] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:39:34.139] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[28Aug2025 01:39:43.471] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:40:04.914] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:40:29.572] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:40:52.771] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:41:12.921] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[28Aug2025 01:41:19.271] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[28Aug2025 01:41:21.218] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[28Aug2025 01:41:21.246] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[28Aug2025 01:41:22.022] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[28Aug2025 01:41:22.764] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (adb020bd-3cdc-451d-85eb-d713f7e98568)
+[28Aug2025 01:41:45.423] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[28Aug2025 01:42:09.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[28Aug2025 01:42:09.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:horse_pen
+[28Aug2025 01:42:58.665] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[28Aug2025 01:42:58.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 01:42:58.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 01:43:15.774] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[28Aug2025 01:43:15.775] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[28Aug2025 01:43:48.008] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[28Aug2025 01:43:48.010] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[28Aug2025 01:43:50.659] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
