@@ -37,9 +37,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-08-29 03:12:28 +0000",
       "log_spam_fixer": "2025-08-01 01:18:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -917,14 +918,17 @@
     "criteria": {
       "cooked_porkchop": "2025-08-03 20:05:25 +0000",
       "beef": "2025-08-03 19:11:15 +0000",
+      "baked_potato": "2025-08-29 03:06:17 +0000",
       "porkchop": "2025-08-03 19:52:16 +0000",
       "apple": "2025-08-03 21:11:59 +0000",
+      "potato": "2025-08-29 02:57:39 +0000",
       "bread": "2025-08-28 00:28:52 +0000",
       "golden_apple": "2025-08-28 02:03:51 +0000",
       "rotten_flesh": "2025-08-12 02:03:05 +0000",
       "golden_carrot": "2025-08-28 00:03:20 +0000",
       "cooked_chicken": "2025-08-03 20:56:06 +0000",
-      "enchanted_golden_apple": "2025-08-28 02:18:52 +0000"
+      "enchanted_golden_apple": "2025-08-28 02:18:52 +0000",
+      "carrot": "2025-08-29 03:02:26 +0000"
     },
     "done": false
   },
@@ -3422,6 +3426,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-29 03:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-29 00:52:40 +0000"
@@ -3458,6 +3468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-29 03:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-29 01:02:37 +0000"
@@ -3473,6 +3489,24 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-29 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-29 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-29 03:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-29 03:00:01 +0000"
     },
     "done": true
   },
@@ -3542,6 +3576,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-29 03:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-29 01:02:37 +0000"
@@ -3551,6 +3591,12 @@
   "ironchest:recipes/decorations/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-08-29 01:02:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-29 03:00:01 +0000"
     },
     "done": true
   },
@@ -3584,6 +3630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-29 03:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-29 00:57:38 +0000"
@@ -3602,9 +3654,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-29 02:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-08-29 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-29 03:10:36 +0000"
     },
     "done": true
   },
@@ -3650,9 +3714,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 02:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-29 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-29 02:59:02 +0000"
     },
     "done": true
   },
@@ -3671,6 +3747,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-29 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-08-29 03:00:01 +0000"
     },
     "done": true
   },
