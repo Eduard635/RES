@@ -1699,3 +1699,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 02:41:54.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [29Aug2025 02:42:35.796] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [29Aug2025 02:42:35.800] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:42:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:42:45.034] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:42:45.198] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:42:45.198] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:44:09.243] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:44:09.245] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:44:16.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:44:17.784] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:44:17.938] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:44:17.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:46:18.140] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:46:18.144] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:46:39.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Poker
+[29Aug2025 02:46:40.602] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:46:40.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:46:40.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:49:30.890] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:49:30.893] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:49:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:49:37.918] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:49:38.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:49:38.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:49:59.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has completed the challenge [Hero of the Village]
+[29Aug2025 02:49:59.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has completed the challenge [Hero of the Village]
+[29Aug2025 02:50:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> la magia es clave
+[29Aug2025 02:50:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[29Aug2025 02:50:58.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> potente
+[29Aug2025 02:51:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> como hiciste eso
+[29Aug2025 02:51:04.990] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:51:04.995] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:51:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es un mods de magia
+[29Aug2025 02:51:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> hijo tu madre
+[29Aug2025 02:51:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> se llama iron spell
+[29Aug2025 02:51:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> jajajaj
+[29Aug2025 02:51:53.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> quien te conoce zeus
+[29Aug2025 02:51:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tengo un hechizo grado legendario pero me falta maná
+[29Aug2025 02:51:59.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:52:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> jajaj
+[29Aug2025 02:53:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
