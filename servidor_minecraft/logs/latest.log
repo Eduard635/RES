@@ -1663,3 +1663,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 02:22:52.354] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [29Aug2025 02:23:52.080] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [29Aug2025 02:23:52.081] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Aug2025 02:34:01.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/28823, l='ServerLevel[world]', x=-849.30, y=87.00, z=1143.50] died, message: 'Weaponsmith was slain by Vindicator'
+[29Aug2025 02:34:06.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/28826, l='ServerLevel[world]', x=-848.31, y=87.56, z=1146.50] died, message: 'Cartographer was slain by Vindicator'
+[29Aug2025 02:34:09.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28777, l='ServerLevel[world]', x=-849.65, y=87.00, z=1144.58] died, message: 'Villager was slain by Vindicator'
+[29Aug2025 02:34:11.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28778, l='ServerLevel[world]', x=-850.04, y=87.00, z=1145.13] died, message: 'Nitwit was slain by Vindicator'
+[29Aug2025 02:35:08.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/28744, l='ServerLevel[world]', x=-823.70, y=86.00, z=1110.70] died, message: 'Fletcher was slain by Vindicator'
+[29Aug2025 02:35:10.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28776, l='ServerLevel[world]', x=-823.52, y=86.00, z=1112.30] died, message: 'Nitwit was slain by Vindicator'
+[29Aug2025 02:36:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> omaigoto
+[29Aug2025 02:37:10.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:37:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xq tienes 2 camas, si vives solo
+[29Aug2025 02:37:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:38:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[29Aug2025 02:38:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y que te parecio el mod?
+[29Aug2025 02:38:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:38:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[29Aug2025 02:38:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> t bueno
+[29Aug2025 02:38:54.855] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3179ms or 63 ticks
+[29Aug2025 02:39:23.297] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:39:23.301] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:39:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:39:30.925] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:39:31.094] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:39:31.095] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:39:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el diablo
+[29Aug2025 02:39:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd?
+[29Aug2025 02:39:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que paso?
+[29Aug2025 02:39:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ni a uno me baje
+[29Aug2025 02:40:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> fuiste a la invasion?
+[29Aug2025 02:40:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> se
+[29Aug2025 02:41:47.695] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:41:47.697] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:41:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:41:54.656] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:41:54.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:41:54.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:42:35.796] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:42:35.800] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved

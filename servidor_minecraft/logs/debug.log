@@ -11384,3 +11384,119 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 02:31:02.559] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
 [29Aug2025 02:31:23.391] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
 [29Aug2025 02:31:38.826] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:32:26.149] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[29Aug2025 02:32:28.537] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[29Aug2025 02:32:28.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:32:28.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:33:11.707] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[29Aug2025 02:33:39.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:shed
+[29Aug2025 02:33:39.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[29Aug2025 02:33:40.087] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[29Aug2025 02:33:41.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[29Aug2025 02:34:01.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/28823, l='ServerLevel[world]', x=-849.30, y=87.00, z=1143.50] died, message: 'Weaponsmith was slain by Vindicator'
+[29Aug2025 02:34:06.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/28826, l='ServerLevel[world]', x=-848.31, y=87.56, z=1146.50] died, message: 'Cartographer was slain by Vindicator'
+[29Aug2025 02:34:09.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28777, l='ServerLevel[world]', x=-849.65, y=87.00, z=1144.58] died, message: 'Villager was slain by Vindicator'
+[29Aug2025 02:34:11.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28778, l='ServerLevel[world]', x=-850.04, y=87.00, z=1145.13] died, message: 'Nitwit was slain by Vindicator'
+[29Aug2025 02:34:32.297] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 02:34:43.798] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[29Aug2025 02:34:49.098] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:34:49.144] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:34:49.844] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:34:49.845] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:34:59.729] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:35:08.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/28744, l='ServerLevel[world]', x=-823.70, y=86.00, z=1110.70] died, message: 'Fletcher was slain by Vindicator'
+[29Aug2025 02:35:10.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28776, l='ServerLevel[world]', x=-823.52, y=86.00, z=1112.30] died, message: 'Nitwit was slain by Vindicator'
+[29Aug2025 02:35:41.832] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[29Aug2025 02:35:41.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[29Aug2025 02:36:03.272] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[29Aug2025 02:36:03.272] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:36:43.839] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Aug2025 02:36:44.233] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:36:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> omaigoto
+[29Aug2025 02:37:10.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:37:28.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:37:28.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:37:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xq tienes 2 camas, si vives solo
+[29Aug2025 02:37:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:38:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[29Aug2025 02:38:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y que te parecio el mod?
+[29Aug2025 02:38:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Aug2025 02:38:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[29Aug2025 02:38:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> t bueno
+[29Aug2025 02:38:53.105] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[29Aug2025 02:38:53.183] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[29Aug2025 02:38:54.398] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[29Aug2025 02:38:54.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend2
+[29Aug2025 02:38:54.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight6
+[29Aug2025 02:38:54.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t2
+[29Aug2025 02:38:54.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight2
+[29Aug2025 02:38:54.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman2
+[29Aug2025 02:38:54.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/shepherd1
+[29Aug2025 02:38:54.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic1
+[29Aug2025 02:38:54.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight5
+[29Aug2025 02:38:54.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/weaponsmith1
+[29Aug2025 02:38:54.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic2
+[29Aug2025 02:38:54.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic4
+[29Aug2025 02:38:54.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/inter1
+[29Aug2025 02:38:54.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t1
+[29Aug2025 02:38:54.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight1
+[29Aug2025 02:38:54.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight3
+[29Aug2025 02:38:54.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight4
+[29Aug2025 02:38:54.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/butcher1
+[29Aug2025 02:38:54.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/chapel1
+[29Aug2025 02:38:54.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term1
+[29Aug2025 02:38:54.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term3
+[29Aug2025 02:38:54.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend1
+[29Aug2025 02:38:54.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman1
+[29Aug2025 02:38:54.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic_big1
+[29Aug2025 02:38:54.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/library1
+[29Aug2025 02:38:54.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic3
+[29Aug2025 02:38:54.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term2
+[29Aug2025 02:38:54.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term4
+[29Aug2025 02:38:54.855] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3179ms or 63 ticks
+[29Aug2025 02:38:55.419] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[29Aug2025 02:38:55.420] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[29Aug2025 02:38:58.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:desert_village_horned_statue
+[29Aug2025 02:38:58.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:gerudo_village_goddess_statue
+[29Aug2025 02:39:17.470] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[29Aug2025 02:39:17.471] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[29Aug2025 02:39:17.471] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[29Aug2025 02:39:17.471] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[29Aug2025 02:39:23.297] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:39:23.301] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:39:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:39:29.421] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2784, y:72, z:1081, dim:minecraft:overworld]
+[29Aug2025 02:39:30.925] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:39:31.094] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:39:31.095] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:39:32.342] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 02:39:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el diablo
+[29Aug2025 02:39:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd?
+[29Aug2025 02:39:43.842] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[29Aug2025 02:39:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que paso?
+[29Aug2025 02:39:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ni a uno me baje
+[29Aug2025 02:40:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> fuiste a la invasion?
+[29Aug2025 02:40:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> se
+[29Aug2025 02:40:59.442] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[29Aug2025 02:40:59.442] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[29Aug2025 02:41:09.725] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[29Aug2025 02:41:46.538] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:41:46.538] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:41:46.539] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[29Aug2025 02:41:47.695] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:41:47.697] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 02:41:49.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[29Aug2025 02:41:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was fireballed by Igniter
+[29Aug2025 02:41:53.481] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2783, y:72, z:1087, dim:minecraft:overworld]
+[29Aug2025 02:41:54.656] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 02:41:54.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 02:41:54.808] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 02:42:27.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:42:27.294] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Aug2025 02:42:27.344] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 02:42:27.644] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:42:27.644] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 02:42:28.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:42:28.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:42:35.796] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 02:42:35.800] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
