@@ -1595,3 +1595,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 00:48:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> la suerte te persigue
 [29Aug2025 00:48:39.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xD
 [29Aug2025 00:48:46.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> solo aqui tengo suerte XD
+[29Aug2025 00:57:23.738] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3184ms or 63 ticks
+[29Aug2025 00:57:25.776] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Aug2025 00:57:25.777] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Aug2025 01:02:37.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Diamonds!]
+[29Aug2025 01:06:07.007] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Aug2025 01:06:07.007] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Aug2025 01:15:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Perfectly Balanced]
