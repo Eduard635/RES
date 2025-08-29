@@ -82,6 +82,7 @@
       "minecraft:ocean": "2025-08-12 02:02:42 +0000",
       "minecraft:jungle": "2025-08-25 03:29:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-25 03:13:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-29 02:04:03 +0000",
       "minecraft:flower_forest": "2025-08-01 01:43:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-25 03:13:21 +0000",
       "minecraft:savanna": "2025-08-28 01:24:21 +0000",
@@ -3463,6 +3464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-29 02:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-29 00:52:40 +0000"
@@ -3502,6 +3509,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-08-29 01:02:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/snow_on": {
+    "criteria": {
+      "wax_on": "2025-08-29 01:33:12 +0000"
     },
     "done": true
   },
@@ -3580,6 +3593,18 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-08-29 01:02:37 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/tropical_stew": {
+    "criteria": {
+      "has_crab_meat": "2025-08-29 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-29 02:16:19 +0000"
     },
     "done": true
   },

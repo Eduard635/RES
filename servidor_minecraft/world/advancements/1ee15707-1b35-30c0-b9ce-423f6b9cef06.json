@@ -1162,6 +1162,7 @@
       "golden_apple": "2025-08-28 02:27:28 +0000",
       "rotten_flesh": "2025-08-25 02:43:34 +0000",
       "golden_carrot": "2025-08-25 04:05:24 +0000",
+      "cooked_chicken": "2025-08-29 02:02:17 +0000",
       "rabbit_stew": "2025-08-28 01:57:50 +0000"
     },
     "done": false
@@ -5704,6 +5705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-29 02:01:38 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_chestplate_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-08-29 00:42:55 +0000"
@@ -5740,6 +5747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-29 02:10:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-08-29 00:42:55 +0000"
@@ -5770,15 +5783,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-29 02:10:21 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_helmet_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-08-29 00:42:55 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-29 02:01:29 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_horse_armor_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-08-29 00:42:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-08-29 01:47:39 +0000"
     },
     "done": true
   },
@@ -5806,15 +5837,45 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-08-29 01:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-29 02:10:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-08-29 00:47:15 +0000"
     },
     "done": true
   },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-29 02:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-29 00:42:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-29 02:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-29 02:01:38 +0000"
     },
     "done": true
   },
