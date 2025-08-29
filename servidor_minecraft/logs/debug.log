@@ -11703,3 +11703,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 03:13:12.304] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
 [29Aug2025 03:13:22.467] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f3a32729-4b3d-4b93-8b95-21843522944d)
 [29Aug2025 03:13:22.468] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[29Aug2025 03:14:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was pricked to death
+[29Aug2025 03:14:12.301] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-3005, y:70, z:1008, dim:minecraft:overworld]
+[29Aug2025 03:14:16.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[29Aug2025 03:14:16.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[29Aug2025 03:14:16.260] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[29Aug2025 03:14:16.262] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 03:14:16.419] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 03:14:16.419] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 03:14:32.497] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 03:14:43.946] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[29Aug2025 03:14:47.296] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Aug2025 03:16:24.894] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:16:24.943] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:16:44.216] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:16:47.583] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 03:16:49.739] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 03:16:49.740] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 03:16:49.740] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[29Aug2025 03:17:28.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:17:28.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:17:49.575] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Aug2025 03:17:49.576] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[29Aug2025 03:18:22.974] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[29Aug2025 03:18:22.974] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:19:02.452] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[29Aug2025 03:19:02.551] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[29Aug2025 03:19:02.593] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[29Aug2025 03:19:02.594] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[29Aug2025 03:19:32.542] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 03:19:34.942] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 03:19:34.945] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 03:19:43.992] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[29Aug2025 03:20:31.995] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[29Aug2025 03:20:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Koboleton
+[29Aug2025 03:20:34.893] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2818, y:73, z:987, dim:minecraft:overworld]
+[29Aug2025 03:20:44.732] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Aug2025 03:20:51.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46578, l='ServerLevel[world]', x=-2832.50, y=72.00, z=1134.07] died, message: 'Nitwit tried to swim in lava'
+[29Aug2025 03:20:59.851] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[29Aug2025 03:20:59.851] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[29Aug2025 03:20:59.851] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[29Aug2025 03:20:59.853] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 03:21:00.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 03:21:00.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 03:21:00.023] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[29Aug2025 03:21:47.307] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[29Aug2025 03:21:47.307] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[29Aug2025 03:21:58.089] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[29Aug2025 03:21:58.092] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 03:21:58.092] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 03:22:00.413] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (8f34d0ce-f9d2-406d-99ec-ff3c2e7b73a9)
+[29Aug2025 03:22:28.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:22:28.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:23:21.993] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:23:22.043] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:23:22.273] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f3a32729-4b3d-4b93-8b95-21843522944d)
+[29Aug2025 03:23:22.983] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f3a32729-4b3d-4b93-8b95-21843522944d)

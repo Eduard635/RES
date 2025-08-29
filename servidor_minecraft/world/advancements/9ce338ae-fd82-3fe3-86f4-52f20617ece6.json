@@ -37,10 +37,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-08-29 03:12:28 +0000",
       "log_spam_fixer": "2025-08-01 01:18:21 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -3545,6 +3544,12 @@
       "has_diamond": "2025-08-29 01:02:37 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-08-29 03:13:03 +0000"
+    },
+    "done": false
   },
   "immersive_weathering:immersive_weathering/snow_on": {
     "criteria": {

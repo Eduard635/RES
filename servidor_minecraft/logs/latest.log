@@ -1781,3 +1781,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Aug2025 03:09:35.342] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-199, 50], pos: MutableBlockPos{x=-3177, y=-18, z=800}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
 [29Aug2025 03:13:12.303] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [29Aug2025 03:13:12.304] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 03:14:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was pricked to death
+[29Aug2025 03:14:16.262] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 03:14:16.419] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 03:14:16.419] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[29Aug2025 03:19:34.942] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[29Aug2025 03:19:34.945] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[29Aug2025 03:20:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Koboleton
+[29Aug2025 03:20:51.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46578, l='ServerLevel[world]', x=-2832.50, y=72.00, z=1134.07] died, message: 'Nitwit tried to swim in lava'
+[29Aug2025 03:20:59.853] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Aug2025 03:21:00.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[29Aug2025 03:21:00.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
