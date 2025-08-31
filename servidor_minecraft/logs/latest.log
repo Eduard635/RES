@@ -1663,3 +1663,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [31Aug2025 22:49:14.924] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
 [31Aug2025 22:49:26.923] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [31Aug2025 22:49:26.925] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[31Aug2025 22:49:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> saca esa webada de mi casa
+[31Aug2025 22:49:47.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> eso?
+[31Aug2025 22:49:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> nose xd
+[31Aug2025 22:50:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> tamre
+[31Aug2025 22:50:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> todo de nuevo
+[31Aug2025 22:50:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[31Aug2025 22:50:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el perro aparece cuando me golpean
+[31Aug2025 22:50:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[31Aug2025 22:50:38.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Survival Mode]
+[31Aug2025 22:51:12.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> osea creo que puedo aydarte en eso pero tendria que estuar el mod para aprender los comandos xd
+[31Aug2025 22:52:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> go mazmorra
+[31Aug2025 22:52:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[31Aug2025 22:52:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> go
+[31Aug2025 22:54:18.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[31Aug2025 22:54:18.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[31Aug2025 22:54:18.272] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[31Aug2025 22:55:24.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:60273] logged in with entity id 7211 at (-954.494114599223, 69.0, 205.52211023484026)
+[31Aug2025 22:55:25.003] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[31Aug2025 22:55:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[31Aug2025 22:55:25.062] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[31Aug2025 22:55:26.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[31Aug2025 22:55:26.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[31Aug2025 22:55:26.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[31Aug2025 22:55:38.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hazate comida
+[31Aug2025 22:57:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pera
+[31Aug2025 22:58:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pera
