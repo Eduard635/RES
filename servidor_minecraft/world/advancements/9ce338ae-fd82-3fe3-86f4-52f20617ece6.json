@@ -3960,77 +3960,131 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:root": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "0": "2025-08-31 21:16:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "recipe_condition": "2025-08-31 21:17:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "iron_leggings": "2025-08-31 21:17:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "create:recipes/building_blocks/oak_window": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_ingredient": "2025-08-31 21:39:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:41:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
-      "log_spam_fixer": "2025-08-31 02:36:21 +0000"
+      "has_item": "2025-08-31 21:45:35 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-31 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-31 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-31 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-31 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-31 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-08-31 21:53:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-08-31 21:53:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-08-31 21:53:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-08-31 21:53:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
