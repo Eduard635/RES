@@ -474,3 +474,33 @@
 [01Sep2025 03:22:02.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro
 [01Sep2025 03:23:17.427] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [01Sep2025 03:23:17.429] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 03:23:31.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was blown up by Ragno
+[01Sep2025 03:23:32.452] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 03:23:32.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 03:23:32.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 03:26:48.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[01Sep2025 03:26:48.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Flying is not enabled on this server
+[01Sep2025 03:26:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 03:26:48.177] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 03:26:55.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:49787] logged in with entity id 74293 at (-2780.3511840890096, 84.84163085389723, 1137.8676314713584)
+[01Sep2025 03:26:55.198] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 03:26:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 03:26:55.249] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 03:26:55.394] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 03:26:55.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 03:26:55.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 03:27:45.923] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 03:27:45.926] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 03:28:10.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Ragno
+[01Sep2025 03:28:12.682] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 03:28:12.817] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 03:28:12.817] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 03:29:39.774] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 03:29:39.777] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 03:29:50.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Ragno
+[01Sep2025 03:29:52.021] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 03:29:52.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 03:29:52.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 03:31:27.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Oops, did I scare you?]
+[01Sep2025 03:32:30.374] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 03:32:30.375] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
