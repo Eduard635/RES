@@ -161,3 +161,125 @@
 [01Sep2025 01:41:14.965] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [01Sep2025 01:59:01.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA moved wrongly!
 [01Sep2025 02:03:31.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Magic Writing]
+[01Sep2025 02:14:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Where Is The Stone Pen?]
+[01Sep2025 02:20:07.773] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 02:20:07.776] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 02:20:12.122] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 02:20:12.125] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 02:20:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was killed by Ancient Remnant using magic
+[01Sep2025 02:20:22.334] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:20:22.467] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:20:22.467] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:20:22.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was killed by Ancient Remnant using magic
+[01Sep2025 02:20:23.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:20:23.974] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:20:23.975] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:21:30.924] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 02:21:30.928] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 02:21:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Ancient Remnant
+[01Sep2025 02:21:44.495] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:21:44.734] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:21:44.734] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:21:45.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA was kicked for floating too long!
+[01Sep2025 02:21:45.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[01Sep2025 02:21:45.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[01Sep2025 02:21:45.177] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 02:21:45.223] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Sep2025 02:21:51.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:56159] logged in with entity id 41375 at (-3618.240210914432, 75.97521275329463, 1423.9968710916357)
+[01Sep2025 02:21:51.500] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[01Sep2025 02:21:51.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[01Sep2025 02:21:51.510] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[01Sep2025 02:21:51.694] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[01Sep2025 02:21:51.695] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:21:51.695] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:21:58.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA was kicked for floating too long!
+[01Sep2025 02:21:58.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Flying is not enabled on this server
+[01Sep2025 02:21:58.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[01Sep2025 02:21:58.830] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 02:22:05.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:56166] logged in with entity id 41638 at (-3617.065406919378, 61.25131718300146, 1419.392359523301)
+[01Sep2025 02:22:05.494] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[01Sep2025 02:22:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[01Sep2025 02:22:05.504] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[01Sep2025 02:22:05.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[01Sep2025 02:22:05.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:22:05.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:22:14.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA was kicked for floating too long!
+[01Sep2025 02:22:14.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Flying is not enabled on this server
+[01Sep2025 02:22:14.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[01Sep2025 02:22:14.277] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 02:22:20.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:56173] logged in with entity id 41855 at (-3613.9966622470547, 39.53633837683047, 1413.4698391656098)
+[01Sep2025 02:22:20.298] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[01Sep2025 02:22:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[01Sep2025 02:22:20.307] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[01Sep2025 02:22:20.525] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[01Sep2025 02:22:20.525] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:22:20.525] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:22:30.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> se me apago el cel xd
+[01Sep2025 02:23:24.321] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 02:23:24.324] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 02:23:36.923] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 02:23:36.925] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 02:23:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Ancient Remnant
+[01Sep2025 02:23:45.584] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:23:45.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:23:45.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:23:47.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Ancient Remnant
+[01Sep2025 02:23:52.093] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:23:52.229] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:23:52.229] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:24:30.073] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 02:24:30.076] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 02:24:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Ancient Remnant
+[01Sep2025 02:24:37.898] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 02:24:38.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:24:38.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:24:52.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[01Sep2025 02:24:52.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Flying is not enabled on this server
+[01Sep2025 02:24:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 02:24:52.275] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 02:24:55.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA was kicked for floating too long!
+[01Sep2025 02:24:55.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Flying is not enabled on this server
+[01Sep2025 02:24:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[01Sep2025 02:24:55.473] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 02:25:02.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:56239] logged in with entity id 45357 at (-3618.0251550475236, 69.62409045460511, 1425.6916889295603)
+[01Sep2025 02:25:02.190] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[01Sep2025 02:25:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[01Sep2025 02:25:02.200] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[01Sep2025 02:25:02.368] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[01Sep2025 02:25:02.368] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 02:25:02.368] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 02:25:02.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:65036] logged in with entity id 45518 at (-3624.3435011723705, 80.28549238931866, 1415.5940302448423)
+[01Sep2025 02:25:02.672] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 02:25:02.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 02:25:02.705] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 02:25:02.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 02:25:02.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:25:02.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:25:11.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[01Sep2025 02:25:11.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Flying is not enabled on this server
+[01Sep2025 02:25:11.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 02:25:11.373] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 02:25:18.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:65039] logged in with entity id 45604 at (-3622.584231193597, 40.32815438545477, 1413.4419181928988)
+[01Sep2025 02:25:18.696] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 02:25:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 02:25:18.757] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 02:25:20.123] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 02:25:20.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:25:20.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:25:30.582] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3073ms or 61 ticks
+[01Sep2025 02:25:41.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ven
+[01Sep2025 02:25:53.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Mutual Aid]
+[01Sep2025 02:27:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Strong Undead]
+[01Sep2025 02:27:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has completed the challenge [Death Finds a Way]
+[01Sep2025 02:27:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si
+[01Sep2025 02:27:58.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> lo chupe
+[01Sep2025 02:28:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[01Sep2025 02:28:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> esto
+[01Sep2025 02:29:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> la calavera es una mascota parece
+[01Sep2025 02:29:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[01Sep2025 02:31:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> BRO
+[01Sep2025 02:31:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> vamos a la holeada
+[01Sep2025 02:31:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dime
+[01Sep2025 02:31:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[01Sep2025 02:31:56.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> mira
+[01Sep2025 02:32:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> tornado
