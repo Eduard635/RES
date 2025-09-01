@@ -3314,9 +3314,11 @@
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-08-28 02:28:10 +0000",
+      "illageandspillage:absorber": "2025-09-01 03:03:35 +0000",
       "illageandspillage:engineer": "2025-08-28 02:53:54 +0000",
       "illageandspillage:twittollager": "2025-08-28 02:52:14 +0000",
-      "illageandspillage:igniter": "2025-08-28 02:25:25 +0000"
+      "illageandspillage:igniter": "2025-08-28 02:25:25 +0000",
+      "illageandspillage:crocofang": "2025-09-01 03:02:13 +0000"
     },
     "done": false
   },
@@ -4193,6 +4195,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-09-01 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-01 02:50:36 +0000"
     },
     "done": true
   },
