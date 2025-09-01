@@ -921,6 +921,7 @@
       "minecraft:piglin": "2025-08-03 01:28:37 +0000",
       "minecraft:enderman": "2025-07-27 19:42:16 +0000",
       "minecraft:silverfish": "2025-08-06 00:32:21 +0000",
+      "minecraft:vex": "2025-09-01 03:37:17 +0000",
       "minecraft:zombie": "2025-07-27 19:18:54 +0000",
       "minecraft:drowned": "2025-07-27 20:52:04 +0000",
       "minecraft:zombie_villager": "2025-08-06 01:02:17 +0000"
@@ -3585,6 +3586,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-08-03 01:12:06 +0000",
+      "wheat": "2025-09-01 04:00:21 +0000",
       "carrot": "2025-08-29 03:35:53 +0000"
     },
     "done": false
@@ -5644,6 +5646,7 @@
       "illageandspillage:spiritcaller": "2025-08-28 02:43:30 +0000",
       "illageandspillage:preserver": "2025-08-28 02:26:37 +0000",
       "illageandspillage:absorber": "2025-08-28 02:35:59 +0000",
+      "illageandspillage:ragno": "2025-09-01 03:31:27 +0000",
       "illageandspillage:engineer": "2025-08-28 02:24:33 +0000",
       "illageandspillage:twittollager": "2025-08-28 02:27:36 +0000",
       "illageandspillage:igniter": "2025-08-28 02:23:16 +0000",
@@ -6723,6 +6726,66 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-09-01 03:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-09-01 03:49:29 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-09-01 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-09-01 03:49:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-09-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-09-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2025-09-01 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-01 03:55:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-09-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-09-01 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-01 04:00:21 +0000"
     },
     "done": true
   },
