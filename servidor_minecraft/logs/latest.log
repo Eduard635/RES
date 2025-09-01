@@ -111,3 +111,35 @@
 [01Sep2025 01:00:43.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Fortune Seeker]
 [01Sep2025 01:00:51.173] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [01Sep2025 01:00:51.175] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:05:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Tools of the Trade]
+[01Sep2025 01:08:57.422] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:08:57.425] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:10:00.573] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:10:00.574] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:11:37.273] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:11:37.276] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:11:39.621] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 01:11:39.624] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 01:12:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Kobolediator
+[01Sep2025 01:12:09.261] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 01:12:09.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 01:12:09.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 01:12:17.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[01Sep2025 01:12:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 01:12:17.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 01:12:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Kobolediator
+[01Sep2025 01:12:39.363] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 01:12:39.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 01:12:39.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 01:13:51.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:64105] logged in with entity id 29552 at (-3658.5, 69.1, 1406.5)
+[01Sep2025 01:13:51.746] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 01:13:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 01:13:51.798] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 01:13:53.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 01:13:53.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 01:13:53.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 01:15:52.372] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:15:52.374] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:16:38.922] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:16:38.924] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:19:20.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [How long's this been here?]
