@@ -4184,6 +4184,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-01 02:03:31 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-09-01 00:52:24 +0000"
