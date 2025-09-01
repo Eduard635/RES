@@ -89,3 +89,25 @@
 [01Sep2025 00:32:29.288] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [01Sep2025 00:32:29.417] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [01Sep2025 00:32:29.417] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 00:46:25.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[01Sep2025 00:46:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[01Sep2025 00:46:25.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 00:47:43.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:62941] logged in with entity id 24128 at (-3108.2977262500744, 62.07326432466507, 1236.4042807498745)
+[01Sep2025 00:47:43.551] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[01Sep2025 00:47:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[01Sep2025 00:47:43.606] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[01Sep2025 00:47:45.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[01Sep2025 00:47:45.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 00:47:45.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 00:51:12.994] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3013ms or 60 ticks
+[01Sep2025 00:52:22.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Desert Pyramid Revamped]
+[01Sep2025 00:52:24.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Desert Pyramid Revamped]
+[01Sep2025 00:55:43.678] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 00:55:43.684] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 00:57:41.072] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 00:57:41.076] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 00:59:08.921] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 00:59:08.924] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:00:43.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Fortune Seeker]
+[01Sep2025 01:00:51.173] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:00:51.175] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
