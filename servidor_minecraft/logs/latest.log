@@ -146,3 +146,16 @@
 [01Sep2025 01:21:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has reached the goal [Pray to the Goddess]
 [01Sep2025 01:27:20.821] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [01Sep2025 01:27:20.826] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:40:21.123] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[01Sep2025 01:40:21.128] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[01Sep2025 01:40:22.123] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[01Sep2025 01:40:22.126] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[01Sep2025 01:40:30.579] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3095ms or 61 ticks
+[01Sep2025 01:40:35.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Kobolediator
+[01Sep2025 01:40:37.003] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 01:40:37.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 01:40:37.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 01:41:00.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Koboleton
+[01Sep2025 01:41:14.809] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Sep2025 01:41:14.964] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[01Sep2025 01:41:14.965] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
