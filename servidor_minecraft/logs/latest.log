@@ -562,3 +562,7 @@
 [01Sep2025 04:08:52.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
 [01Sep2025 04:08:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
 [01Sep2025 04:08:52.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[01Sep2025 04:14:35.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-750, y=80, z=-63} BlockPos{x=-750, y=78, z=-64}
+[01Sep2025 04:16:44.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[01Sep2025 04:16:44.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 04:16:44.971] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
