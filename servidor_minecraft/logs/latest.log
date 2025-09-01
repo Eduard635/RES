@@ -283,3 +283,38 @@
 [01Sep2025 02:31:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
 [01Sep2025 02:31:56.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> mira
 [01Sep2025 02:32:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> tornado
+[01Sep2025 02:33:19.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> la imvacion
+[01Sep2025 02:33:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro
+[01Sep2025 02:37:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[01Sep2025 02:37:01.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Flying is not enabled on this server
+[01Sep2025 02:37:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 02:37:01.975] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 02:37:29.827] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c5efe0d[id=<null>,name=Daniel_ANT_25,properties={},legacy=false] (/100.125.237.60:65117) lost connection: Disconnected
+[01Sep2025 02:37:35.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:65134] logged in with entity id 51495 at (-2838.9793078656908, 70.54404246494293, 1135.481967807638)
+[01Sep2025 02:37:35.853] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 02:37:35.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 02:37:35.914] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 02:37:36.062] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 02:37:36.062] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:37:36.062] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:37:44.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[01Sep2025 02:37:44.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 02:37:44.875] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 02:39:00.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:65209] logged in with entity id 51884 at (-2835.148735086185, 58.53584062504456, 1135.5825228561114)
+[01Sep2025 02:39:00.196] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 02:39:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 02:39:00.254] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 02:39:02.028] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 02:39:02.028] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:39:02.028] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[01Sep2025 02:39:07.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[01Sep2025 02:39:07.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Flying is not enabled on this server
+[01Sep2025 02:39:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[01Sep2025 02:39:07.129] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[01Sep2025 02:39:23.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:65221] logged in with entity id 52019 at (-2835.148735086185, 58.53584062504456, 1135.5825228561114)
+[01Sep2025 02:39:23.195] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[01Sep2025 02:39:23.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[01Sep2025 02:39:23.242] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[01Sep2025 02:39:23.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[01Sep2025 02:39:23.409] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[01Sep2025 02:39:23.409] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
