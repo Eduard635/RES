@@ -6142,6 +6142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 00:39:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-09-01 00:06:43 +0000"
@@ -6160,15 +6166,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 00:39:00 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-08-31 23:42:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 00:39:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-09-01 00:01:32 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 00:39:00 +0000"
     },
     "done": true
   },
@@ -6187,6 +6211,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-08-31 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-01 00:39:15 +0000"
     },
     "done": true
   },
