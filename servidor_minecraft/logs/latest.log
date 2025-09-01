@@ -159,3 +159,4 @@
 [01Sep2025 01:41:14.809] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [01Sep2025 01:41:14.964] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [01Sep2025 01:41:14.965] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[01Sep2025 01:59:01.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA moved wrongly!
