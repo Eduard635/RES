@@ -16293,3 +16293,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [02Sep2025 02:08:48.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Sep2025 02:09:17.036] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
 [02Sep2025 02:09:17.037] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[02Sep2025 02:10:03.938] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[02Sep2025 02:12:03.948] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[02Sep2025 02:12:16.690] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[02Sep2025 02:13:30.801] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[02Sep2025 02:13:48.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 02:13:48.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 02:14:17.039] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[02Sep2025 02:14:17.040] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[02Sep2025 02:16:30.454] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[02Sep2025 02:16:30.488] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[02Sep2025 02:16:30.488] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf1ee391-c0ce-412a-9378-6858526bca1e)
+[02Sep2025 02:16:30.488] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[02Sep2025 02:16:32.297] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[02Sep2025 02:16:32.298] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[02Sep2025 02:16:34.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:16:35.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:17:33.269] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:17:46.670] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:18:43.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:18:43.689] [IO-Worker-136/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[02Sep2025 02:18:48.921] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[02Sep2025 02:18:48.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 02:18:48.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 02:19:17.085] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[02Sep2025 02:19:17.086] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[02Sep2025 02:19:28.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Sep2025 02:19:30.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
