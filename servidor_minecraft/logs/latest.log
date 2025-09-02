@@ -26,3 +26,126 @@
 [02Sep2025 00:27:30.295] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
 [02Sep2025 00:27:30.297] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
 [02Sep2025 00:27:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Skeleton
+[02Sep2025 00:28:11.879] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 00:28:12.060] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:28:12.060] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:39:16.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:52862] logged in with entity id 9918 at (-790.5555875477817, 83.6625000178814, -26.771291411595477)
+[02Sep2025 00:39:16.437] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[02Sep2025 00:39:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[02Sep2025 00:39:16.483] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SkeletonHorse['Skeleton Horse'/9919, l='ServerLevel[world]', x=-790.56, y=83.00, z=-26.77] as it would cause deadlock
+[02Sep2025 00:39:16.512] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[02Sep2025 00:39:16.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[02Sep2025 00:39:16.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[02Sep2025 00:39:16.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[02Sep2025 00:39:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q fue te voto
+[02Sep2025 00:40:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> sali
+[02Sep2025 00:40:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tenia que tender ropa
+[02Sep2025 00:40:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[02Sep2025 00:40:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y no queria que algo me matara mientras estaba afk
+[02Sep2025 00:40:56.822] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3370ms or 67 ticks
+[02Sep2025 00:40:56.973] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:40:56.973] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:40:56.976] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:56.978] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:57.963] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:57.963] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:57.964] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:57.964] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.115] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.116] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:40:58.167] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:42:06.040] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 00:42:06.042] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 00:42:13.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA burned to death
+[02Sep2025 00:42:14.803] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 00:42:15.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:42:15.350] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:43:57.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/13343, l='ServerLevel[world]', x=-3140.30, y=74.00, z=1547.30] died, message: 'Fisherman was slain by Husk'
+[02Sep2025 00:45:14.339] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 00:45:14.343] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 00:45:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Zombie
+[02Sep2025 00:45:21.745] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 00:45:21.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:45:21.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:46:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> go zzz
+[02Sep2025 00:47:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> desconectate cuanta hasta 5 y conectate para hacer de dia
+[02Sep2025 00:47:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no veo nada
+[02Sep2025 00:47:29.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[02Sep2025 00:47:31.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[02Sep2025 00:47:31.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[02Sep2025 00:47:31.487] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[02Sep2025 00:47:48.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:52751] logged in with entity id 16473 at (-960.4396368415792, 69.0, 207.45584807288583)
+[02Sep2025 00:47:48.373] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[02Sep2025 00:47:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[02Sep2025 00:47:48.390] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[02Sep2025 00:47:48.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[02Sep2025 00:47:48.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:47:48.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:48:14.659] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-222, 153], pos: MutableBlockPos{x=-3552, y=77, z=2453}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[02Sep2025 00:48:14.660] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-222, 153], pos: MutableBlockPos{x=-3552, y=78, z=2453}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[02Sep2025 00:49:36.363] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[02Sep2025 00:49:36.751] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:49:36.752] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:50:11.757] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 00:50:11.759] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 00:50:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA burned to death
+[02Sep2025 00:50:36.453] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 00:50:36.948] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:50:36.948] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:51:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> weno literalmente vivire en el cerro
+[02Sep2025 00:53:13.551] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 00:53:13.552] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 00:55:14.295] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:55:22.097] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:55:22.097] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:55:22.098] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:55:27.677] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:nether_wastes_enderman
+[02Sep2025 00:55:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> mi cerro esta exactamente en el limite del mapa
+[02Sep2025 00:55:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[02Sep2025 00:55:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[02Sep2025 00:55:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> limite de altura
+[02Sep2025 00:57:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Where Is The Stone Pen?]
+[02Sep2025 00:58:20.298] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:20.300] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:20.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:20.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:20.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:51.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:51.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:51.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:51.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 00:58:51.949] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 01:00:02.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:warped_forest_enderman
+[02Sep2025 01:03:32.391] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 01:03:32.391] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 01:06:36.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-815, y=81, z=64} BlockPos{x=-815, y=80, z=64}
+[02Sep2025 01:06:36.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-815, y=81, z=64} BlockPos{x=-815, y=80, z=64}
+[02Sep2025 01:08:01.642] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 01:08:01.643] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 01:08:08.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA burned to death
+[02Sep2025 01:08:09.697] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 01:08:09.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 01:08:09.893] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]

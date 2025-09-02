@@ -850,6 +850,7 @@
       "minecraft:pillager": "2025-08-25 03:14:06 +0000",
       "minecraft:skeleton": "2025-08-03 20:09:16 +0000",
       "minecraft:vindicator": "2025-08-28 02:23:07 +0000",
+      "minecraft:magma_cube": "2025-09-02 00:41:54 +0000",
       "minecraft:spider": "2025-08-03 19:02:53 +0000",
       "minecraft:creeper": "2025-08-25 02:24:13 +0000",
       "minecraft:slime": "2025-08-31 23:14:22 +0000",
@@ -2447,6 +2448,7 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
+      "in_ruins_nether": "2025-09-02 00:55:25 +0000",
       "in_ruins_land_warm": "2025-08-25 02:49:27 +0000"
     },
     "done": false
@@ -4217,6 +4219,48 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-09-01 03:38:14 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2025-09-02 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_roots": "2025-09-02 01:01:58 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-09-02 00:56:25 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-09-02 00:56:25 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-09-02 00:56:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-09-02 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
+    "criteria": {
+      "has_ghast": "2025-09-02 00:56:25 +0000"
     },
     "done": true
   },
