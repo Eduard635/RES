@@ -16261,3 +16261,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [02Sep2025 01:58:48.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Sep2025 01:59:16.986] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
 [02Sep2025 01:59:16.987] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[02Sep2025 02:00:10.140] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[02Sep2025 02:00:33.139] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[02Sep2025 02:01:27.037] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 02:01:27.040] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 02:01:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Summoned Skeleton
+[02Sep2025 02:01:34.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-866, y:78, z:125, dim:minecraft:overworld]
+[02Sep2025 02:01:35.547] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 02:01:35.741] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 02:01:35.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 02:01:37.293] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[02Sep2025 02:02:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[02Sep2025 02:03:34.439] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[02Sep2025 02:03:48.921] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[02Sep2025 02:03:48.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 02:03:48.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 02:04:16.988] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[02Sep2025 02:04:16.988] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[02Sep2025 02:05:22.040] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[02Sep2025 02:05:22.040] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[02Sep2025 02:05:40.289] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 02:05:40.297] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 02:05:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was blown up by Creeper
+[02Sep2025 02:05:47.897] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-892, y:69, z:14, dim:minecraft:overworld]
+[02Sep2025 02:05:50.216] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 02:05:50.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 02:05:50.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 02:07:22.694] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[02Sep2025 02:08:17.290] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[02Sep2025 02:08:48.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 02:08:48.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 02:09:17.036] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[02Sep2025 02:09:17.037] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)

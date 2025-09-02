@@ -165,3 +165,16 @@
 [02Sep2025 01:35:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Multi-Disciplined]
 [02Sep2025 01:38:49.044] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
 [02Sep2025 01:52:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Tools of War]
+[02Sep2025 02:01:27.037] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 02:01:27.040] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 02:01:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Summoned Skeleton
+[02Sep2025 02:01:35.547] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 02:01:35.741] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 02:01:35.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 02:02:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[02Sep2025 02:05:40.289] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[02Sep2025 02:05:40.297] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[02Sep2025 02:05:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was blown up by Creeper
+[02Sep2025 02:05:50.216] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Sep2025 02:05:50.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[02Sep2025 02:05:50.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
