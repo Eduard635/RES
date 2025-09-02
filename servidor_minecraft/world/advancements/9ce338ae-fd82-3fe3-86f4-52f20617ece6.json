@@ -4270,6 +4270,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-09-02 01:52:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-09-02 01:42:54 +0000"
@@ -4285,6 +4291,12 @@
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-09-02 01:35:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-09-02 01:49:30 +0000"
     },
     "done": true
   },
