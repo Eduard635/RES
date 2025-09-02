@@ -162,3 +162,5 @@
 [02Sep2025 01:21:51.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
 [02Sep2025 01:21:51.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [02Sep2025 01:21:51.511] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[02Sep2025 01:35:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Multi-Disciplined]
+[02Sep2025 01:38:49.044] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
