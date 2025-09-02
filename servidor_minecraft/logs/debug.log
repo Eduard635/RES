@@ -17002,3 +17002,15 @@ Caused by: java.util.NoSuchElementException: No value present
 [02Sep2025 02:59:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
 [02Sep2025 02:59:01.734] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
 [02Sep2025 03:00:03.451] [Worker-Main-70/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-70 shutdown
+[02Sep2025 03:01:03.451] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[02Sep2025 03:02:03.451] [Worker-Main-49/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-49 shutdown
+[02Sep2025 03:03:48.887] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[02Sep2025 03:03:48.887] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[02Sep2025 03:03:48.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 03:03:48.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 03:03:49.026] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[02Sep2025 03:08:48.886] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[02Sep2025 03:08:48.886] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[02Sep2025 03:08:48.890] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[02Sep2025 03:08:48.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 03:08:48.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
