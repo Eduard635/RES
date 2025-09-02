@@ -4270,6 +4270,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-09-02 01:42:54 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/iron_nugget": {
     "criteria": {
       "has_copper_block": "2025-09-02 01:22:49 +0000"
@@ -4354,9 +4360,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-02 01:42:54 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2025-09-02 01:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-02 01:42:54 +0000"
     },
     "done": true
   },
