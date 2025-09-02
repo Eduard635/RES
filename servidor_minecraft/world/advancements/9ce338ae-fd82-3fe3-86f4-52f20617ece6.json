@@ -4354,6 +4354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-02 02:28:38 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-09-02 01:35:28 +0000"
