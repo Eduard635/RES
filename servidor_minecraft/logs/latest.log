@@ -1593,3 +1593,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 03:05:31.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [03Sep2025 03:05:31.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [03Sep2025 03:05:31.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6463ms or 129 ticks behind
+[03Sep2025 03:18:50.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:49861] logged in with entity id 2570 at (-962.0868651718545, 61.0, 209.0376444013826)
+[03Sep2025 03:18:50.193] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[03Sep2025 03:18:50.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[03Sep2025 03:18:50.209] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[03Sep2025 03:18:51.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[03Sep2025 03:18:51.681] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[03Sep2025 03:18:51.681] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[03Sep2025 03:19:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> A
+[03Sep2025 03:19:31.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> .que paso?
+[03Sep2025 03:19:32.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[03Sep2025 03:19:39.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[03Sep2025 03:19:43.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> Nda
+[03Sep2025 03:20:58.101] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3278ms or 65 ticks
+[03Sep2025 03:21:29.361] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[03Sep2025 03:21:29.380] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[03Sep2025 03:21:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was poked to death by a sweet berry bush
+[03Sep2025 03:21:38.759] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Sep2025 03:21:38.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[03Sep2025 03:21:38.984] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
