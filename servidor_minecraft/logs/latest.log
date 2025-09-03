@@ -1630,3 +1630,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 20:17:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> en el aldeano xd
 [03Sep2025 20:32:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [A Seedy Place]
 [03Sep2025 20:33:07.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-954, y=122, z=-1617} BlockPos{x=-953, y=122, z=-1617}
+[03Sep2025 20:38:11.017] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3194ms or 63 ticks
+[03Sep2025 20:38:12.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=123, z=-1618} BlockPos{x=-962, y=121, z=-1618}
+[03Sep2025 20:38:12.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=123, z=-1618} BlockPos{x=-962, y=121, z=-1618}
+[03Sep2025 20:38:18.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-963, y=123, z=-1615} BlockPos{x=-964, y=121, z=-1614}
+[03Sep2025 20:38:18.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-963, y=123, z=-1615} BlockPos{x=-964, y=121, z=-1614}
+[03Sep2025 20:38:18.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-963, y=123, z=-1615} BlockPos{x=-964, y=121, z=-1614}
+[03Sep2025 20:38:18.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-963, y=123, z=-1615} BlockPos{x=-964, y=121, z=-1614}
+[03Sep2025 20:39:21.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=122, z=-1629} BlockPos{x=-960, y=122, z=-1629}
