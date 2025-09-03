@@ -1666,3 +1666,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 21:16:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD
 [03Sep2025 21:16:56.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el mine me odia
 [03Sep2025 21:33:10.987] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3130ms or 62 ticks
+[03Sep2025 21:35:50.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> voy a comer vro, regreso del afk en 30 mins
+[03Sep2025 21:35:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ok
+[03Sep2025 21:42:52.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[03Sep2025 21:42:52.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[03Sep2025 21:42:52.816] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
