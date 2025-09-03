@@ -16173,3 +16173,126 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 23:26:16.712] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
 [03Sep2025 23:26:26.590] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
 [03Sep2025 23:26:26.611] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[03Sep2025 23:26:41.689] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:27:45.716] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[03Sep2025 23:28:10.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:28:10.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:28:59.110] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[03Sep2025 23:29:06.758] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[03Sep2025 23:29:12.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:29:12.805] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:29:27.219] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:29:36.411] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:29:36.461] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:29:59.513] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[03Sep2025 23:30:44.316] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:30:46.711] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:30:46.761] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:31:16.715] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[03Sep2025 23:31:26.612] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[03Sep2025 23:31:39.515] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:31:46.201] [IO-Worker-219/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[03Sep2025 23:32:44.647] [IO-Worker-219/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[03Sep2025 23:32:44.780] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:32:45.322] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:32:45.969] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[03Sep2025 23:33:06.963] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:33:10.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:33:10.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:33:28.564] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:33:45.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:34:04.709] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[03Sep2025 23:34:10.419] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:34:15.391] [IO-Worker-227/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[03Sep2025 23:34:26.355] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:35:03.559] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:35:03.559] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:35:09.700] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[03Sep2025 23:35:18.177] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:35:29.690] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:35:29.690] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[03Sep2025 23:35:29.690] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:76,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[03Sep2025 23:35:29.690] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:76,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[03Sep2025 23:35:29.691] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:76,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[03Sep2025 23:35:29.691] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  ({Damage:76,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[03Sep2025 23:35:29.691] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[03Sep2025 23:35:29.691] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[03Sep2025 23:35:29.692] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[03Sep2025 23:35:29.693] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{"minecraft:looting":"sword/hilt"},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:7.0d,attribute:"minecraft:generic.attack_damage",id:"22a85d70-f192-48fb-99ac-0faf7fe1ac9a",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"},{skill_bonus:{amount:0.25d,attribute:"minecraft:generic.attack_speed",id:"ba9682e2-f06a-421d-a6e9-28214fbad2b9",name:"SkillBonus",operation:1,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[03Sep2025 23:35:29.693] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[03Sep2025 23:35:29.696] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9e3f634e-2643-45c7-90f7-8e59c99c3a89)
+[03Sep2025 23:35:29.709] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[03Sep2025 23:35:29.710] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:35:56.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_03
+[03Sep2025 23:35:56.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_01
+[03Sep2025 23:35:56.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_01
+[03Sep2025 23:35:56.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_04
+[03Sep2025 23:35:56.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_04
+[03Sep2025 23:35:56.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_03
+[03Sep2025 23:35:56.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_05
+[03Sep2025 23:35:56.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_06
+[03Sep2025 23:35:56.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[03Sep2025 23:35:56.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_2
+[03Sep2025 23:35:56.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_03
+[03Sep2025 23:35:56.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_02
+[03Sep2025 23:35:56.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1
+[03Sep2025 23:35:56.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_06
+[03Sep2025 23:35:56.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_05
+[03Sep2025 23:35:56.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_3
+[03Sep2025 23:35:56.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[03Sep2025 23:35:56.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/turn_01
+[03Sep2025 23:35:56.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_02
+[03Sep2025 23:35:56.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_01
+[03Sep2025 23:35:56.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_2
+[03Sep2025 23:35:56.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5
+[03Sep2025 23:35:56.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_1
+[03Sep2025 23:35:56.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_1
+[03Sep2025 23:35:56.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_weaponsmith_1
+[03Sep2025 23:35:56.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_mason_1
+[03Sep2025 23:35:56.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_01
+[03Sep2025 23:35:56.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2
+[03Sep2025 23:35:56.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_cartographer_and_library_1
+[03Sep2025 23:35:56.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_03
+[03Sep2025 23:35:56.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[03Sep2025 23:35:56.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_02
+[03Sep2025 23:35:56.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_shepherd_1
+[03Sep2025 23:35:56.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_butcher_and_leatherworker_1
+[03Sep2025 23:35:56.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_04
+[03Sep2025 23:36:16.762] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[03Sep2025 23:36:17.964] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[03Sep2025 23:36:26.612] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[03Sep2025 23:36:27.716] [IO-Worker-232/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[03Sep2025 23:36:39.155] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:36:39.159] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:36:39.160] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:36:40.160] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:36:40.160] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:36:42.233] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:38:07.314] [IO-Worker-229/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[03Sep2025 23:38:10.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:38:10.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:38:10.991] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3046ms or 60 ticks
+[03Sep2025 23:39:07.394] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[03Sep2025 23:39:45.413] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[03Sep2025 23:39:45.413] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[03Sep2025 23:40:29.755] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:40:42.363] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[03Sep2025 23:41:16.810] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[03Sep2025 23:41:26.659] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[03Sep2025 23:41:29.711] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[03Sep2025 23:41:29.712] [IO-Worker-237/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-238
+[03Sep2025 23:41:40.161] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:42:27.110] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f525ccc4-ec20-406c-ab0b-55c6cffa8494)
+[03Sep2025 23:42:38.617] [IO-Worker-237/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[03Sep2025 23:42:38.639] [IO-Worker-238/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[03Sep2025 23:42:39.310] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:42:39.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[03Sep2025 23:42:40.216] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[03Sep2025 23:43:10.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:43:10.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:43:12.235] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (14e5cafb-8ac3-4c07-97a2-152c6b88e88d)
+[03Sep2025 23:43:40.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[03Sep2025 23:43:40.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[03Sep2025 23:43:40.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[03Sep2025 23:44:42.514] [Worker-Main-146/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-146 shutdown
+[03Sep2025 23:45:42.514] [Worker-Main-149/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-149 shutdown
