@@ -1712,3 +1712,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 22:09:49.026] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-322, y=160, z=-1729} but found not block entity block Block{minecraft:ice} at location
 [03Sep2025 22:09:49.026] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-322, y=160, z=-1729}
 [03Sep2025 22:13:10.999] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3126ms or 62 ticks
+[03Sep2025 22:15:38.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [A Nice-y Look]
+[03Sep2025 22:21:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ellos no lo sabes, pero seran encarcelados y explotados x el resto de su vida
+[03Sep2025 22:21:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[03Sep2025 22:21:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> tya terminaste
+[03Sep2025 22:21:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no
+[03Sep2025 22:21:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[03Sep2025 22:21:46.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> estoy reproduciendolos
+[03Sep2025 22:29:29.583] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
+[03Sep2025 22:32:01.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro el libro que conseguimos en la invasion
+[03Sep2025 22:32:08.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tenia 2 hechizos
+[03Sep2025 22:32:17.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> propio del jefe xd
+[03Sep2025 22:37:04.749] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=28, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=28, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=27, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=26, z=-2654}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-28, -166], pos: MutableBlockPos{x=-448, y=24, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-28, -166], pos: MutableBlockPos{x=-448, y=25, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.750] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-452, y=24, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-450, y=28, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-450, y=25, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=26, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-451, y=25, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-452, y=28, z=-2655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:37:04.751] [Worker-Main-146/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-29, -166], pos: MutableBlockPos{x=-449, y=25, z=-2656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[03Sep2025 22:42:42.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:42:42.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=99, z=-2380} BlockPos{x=-157, y=98, z=-2380}
+[03Sep2025 22:46:00.772] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3790ms or 75 ticks
+[03Sep2025 22:46:08.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-97, y=159, z=-1984} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-97, y=159, z=-1984}
+[03Sep2025 22:46:08.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-96, y=158, z=-1983} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-96, y=158, z=-1983}
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-95, y=158, z=-1983} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-95, y=158, z=-1983}
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-96, y=160, z=-1984} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-96, y=160, z=-1984}
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-95, y=159, z=-1984} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-95, y=159, z=-1984}
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-96, y=159, z=-1984} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-96, y=159, z=-1984}
+[03Sep2025 22:46:08.817] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-95, y=158, z=-1984} but found not block entity block Block{minecraft:ice} at location
+[03Sep2025 22:46:08.818] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-95, y=158, z=-1984}
+[03Sep2025 22:47:29.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46926, l='ServerLevel[world]', x=34.42, y=113.00, z=-2186.42] died, message: 'Villager was shot by Pillager'
+[03Sep2025 22:48:13.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/46813, l='ServerLevel[world]', x=75.22, y=115.00, z=-2178.51] died, message: 'Shepherd was shot by Pillager'
+[03Sep2025 22:48:30.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46913, l='ServerLevel[world]', x=80.73, y=115.00, z=-2181.42] died, message: 'Nitwit hit the ground too hard'
+[03Sep2025 22:48:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> zzz
+[03Sep2025 22:48:55.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro go dormir
+[03Sep2025 22:49:08.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> go{
+[03Sep2025 22:52:31.921] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[03Sep2025 22:52:31.924] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[03Sep2025 22:52:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[03Sep2025 22:52:39.988] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Sep2025 22:52:40.176] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[03Sep2025 22:52:40.176] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[03Sep2025 22:53:41.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/49105, l='ServerLevel[world]', x=80.73, y=115.00, z=-2181.42] died, message: 'Leatherworker hit the ground too hard'
+[03Sep2025 22:53:45.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/49101, l='ServerLevel[world]', x=18.51, y=112.00, z=-2155.93] died, message: 'Nitwit was shot by Pillager'
+[03Sep2025 22:54:00.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/49095, l='ServerLevel[world]', x=74.50, y=114.54, z=-2183.65] died, message: 'Weaponsmith was shot by Pillager'
+[03Sep2025 22:54:29.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/49106, l='ServerLevel[world]', x=60.42, y=114.18, z=-2186.79] died, message: 'Toolsmith was fireballed by Igniter'
+[03Sep2025 22:54:30.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=111, z=-2162} BlockPos{x=21, y=110, z=-2163}
+[03Sep2025 22:54:30.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=111, z=-2162} BlockPos{x=21, y=110, z=-2163}
+[03Sep2025 22:55:11.019] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[03Sep2025 22:55:11.024] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[03Sep2025 22:55:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Crocofang
+[03Sep2025 22:55:22.366] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03Sep2025 22:55:22.537] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[03Sep2025 22:55:22.537] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
