@@ -1652,3 +1652,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 21:03:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ligada al alma (puedes encantar creo tus mochilas con eso y no lo perderas aun mueriendo
 [03Sep2025 21:03:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
 [03Sep2025 21:04:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[03Sep2025 21:05:47.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-968, y=123, z=-1588} BlockPos{x=-969, y=121, z=-1586}
+[03Sep2025 21:05:47.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-968, y=123, z=-1588} BlockPos{x=-969, y=121, z=-1586}
+[03Sep2025 21:05:48.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-968, y=123, z=-1588} BlockPos{x=-969, y=121, z=-1586}
+[03Sep2025 21:05:48.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-968, y=123, z=-1588} BlockPos{x=-969, y=121, z=-1586}
+[03Sep2025 21:06:03.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-970, y=122, z=-1594} BlockPos{x=-971, y=122, z=-1593}
+[03Sep2025 21:06:13.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-976, y=123, z=-1627} BlockPos{x=-976, y=121, z=-1628}
+[03Sep2025 21:06:13.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-976, y=123, z=-1627} BlockPos{x=-976, y=121, z=-1628}
+[03Sep2025 21:06:13.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-975, y=123, z=-1629} BlockPos{x=-974, y=121, z=-1630}
+[03Sep2025 21:16:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es increible lo que sufro x conseguir eficiencia 5
+[03Sep2025 21:16:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[03Sep2025 21:16:49.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> me salio eficiencia 4
+[03Sep2025 21:16:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD
+[03Sep2025 21:16:56.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> el mine me odia
+[03Sep2025 21:33:10.987] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3130ms or 62 ticks
