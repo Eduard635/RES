@@ -1602,3 +1602,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 19:50:09.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [03Sep2025 19:50:09.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [03Sep2025 19:50:28.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[03Sep2025 19:53:11.982] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4175ms or 83 ticks
+[03Sep2025 20:00:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ou what
+[03Sep2025 20:00:25.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro
+[03Sep2025 20:00:27.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd?
+[03Sep2025 20:00:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[03Sep2025 20:00:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pense qye estas chambeando
+[03Sep2025 20:00:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> estaba
+[03Sep2025 20:01:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bajo la chamba y me regrese temprano
+[03Sep2025 20:01:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> waos
+[03Sep2025 20:01:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> stokns
+[03Sep2025 20:01:11.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> go farmear
+[03Sep2025 20:01:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[03Sep2025 20:01:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[03Sep2025 20:01:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> toy en proceso de esclavizacion
+[03Sep2025 20:01:36.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> waos
+[03Sep2025 20:03:31.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-962, y=128, z=-1661} BlockPos{x=-961, y=127, z=-1662}
