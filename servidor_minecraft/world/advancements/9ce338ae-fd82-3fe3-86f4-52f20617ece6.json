@@ -858,6 +858,7 @@
       "minecraft:creeper": "2025-08-25 02:24:13 +0000",
       "minecraft:slime": "2025-08-31 23:14:22 +0000",
       "minecraft:evoker": "2025-09-01 03:39:40 +0000",
+      "minecraft:phantom": "2025-09-03 22:06:09 +0000",
       "minecraft:witch": "2025-08-25 02:44:56 +0000",
       "minecraft:husk": "2025-08-28 01:28:34 +0000",
       "minecraft:cave_spider": "2025-08-29 03:37:39 +0000",
@@ -5018,6 +5019,12 @@
       "wheat": "2025-09-03 20:32:37 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-09-03 22:06:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
