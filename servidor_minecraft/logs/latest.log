@@ -1594,3 +1594,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 19:19:53.000] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3171ms or 63 ticks
 [03Sep2025 19:20:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Quaint Scribe]
 [03Sep2025 19:22:51.017] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3013ms or 60 ticks
+[03Sep2025 19:50:08.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:51997] logged in with entity id 8347 at (-960.4461691013418, 134.5, -1681.8461103132672)
+[03Sep2025 19:50:08.401] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[03Sep2025 19:50:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[03Sep2025 19:50:08.419] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[03Sep2025 19:50:09.933] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[03Sep2025 19:50:09.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[03Sep2025 19:50:09.934] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[03Sep2025 19:50:28.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
