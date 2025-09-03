@@ -16296,3 +16296,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Sep2025 23:43:40.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
 [03Sep2025 23:44:42.514] [Worker-Main-146/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-146 shutdown
 [03Sep2025 23:45:42.514] [Worker-Main-149/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-149 shutdown
+[03Sep2025 23:46:42.514] [Worker-Main-145/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-145 shutdown
+[03Sep2025 23:47:42.514] [Worker-Main-48/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-48 shutdown
+[03Sep2025 23:48:10.816] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[03Sep2025 23:48:10.817] [IO-Worker-242/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[03Sep2025 23:48:10.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:48:10.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 23:48:42.514] [Worker-Main-151/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-151 shutdown
+[03Sep2025 23:49:42.514] [Worker-Main-32/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-32 shutdown
+[03Sep2025 23:50:42.514] [Worker-Main-150/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-150 shutdown
+[03Sep2025 23:51:42.514] [Worker-Main-147/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-147 shutdown
+[03Sep2025 23:52:42.514] [Worker-Main-136/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-136 shutdown
+[03Sep2025 23:53:10.817] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[03Sep2025 23:53:10.818] [IO-Worker-244/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-245
+[03Sep2025 23:53:10.821] [IO-Worker-244/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[03Sep2025 23:53:10.823] [IO-Worker-246/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[03Sep2025 23:53:10.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 23:53:10.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
