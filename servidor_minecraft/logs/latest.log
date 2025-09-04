@@ -1622,3 +1622,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [04Sep2025 18:10:39.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=82, z=-76} BlockPos{x=-712, y=80, z=-77}
 [04Sep2025 18:25:58.402] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3132ms or 62 ticks
 [04Sep2025 18:30:48.923] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3192ms or 63 ticks
+[04Sep2025 18:51:20.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[04Sep2025 18:54:42.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[04Sep2025 18:55:01.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[04Sep2025 18:55:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[04Sep2025 18:55:01.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[04Sep2025 18:55:09.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:61441] logged in with entity id 30113 at (-2835.3375245252723, 80.0, 1168.8082618250526)
+[04Sep2025 18:55:09.974] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[04Sep2025 18:55:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[04Sep2025 18:55:09.992] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[04Sep2025 18:55:10.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[04Sep2025 18:55:10.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[04Sep2025 18:55:10.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[04Sep2025 18:58:10.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[04Sep2025 19:00:48.899] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[04Sep2025 19:03:35.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[04Sep2025 19:04:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [What a Deal!]
