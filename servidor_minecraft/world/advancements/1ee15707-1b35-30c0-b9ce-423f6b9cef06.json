@@ -3604,7 +3604,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-08-29 03:25:54 +0000",
-      "minecraft:chicken": "2025-08-03 01:26:10 +0000"
+      "minecraft:chicken": "2025-08-03 01:26:10 +0000",
+      "minecraft:bee": "2025-09-04 20:19:50 +0000"
     },
     "done": false
   },
@@ -7198,6 +7199,12 @@
   "skilltree:recipes/misc/healer_necklace": {
     "criteria": {
       "has_ghast_tear": "2025-09-04 18:31:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-09-04 20:12:28 +0000"
     },
     "done": true
   },
