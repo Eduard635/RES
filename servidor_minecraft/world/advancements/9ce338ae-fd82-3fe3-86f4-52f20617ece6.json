@@ -5202,6 +5202,30 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-09-04 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-04 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-09-04 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-09-04 19:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-09-04 19:04:48 +0000"
