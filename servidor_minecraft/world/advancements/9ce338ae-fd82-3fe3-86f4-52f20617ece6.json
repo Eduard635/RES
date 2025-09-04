@@ -5313,77 +5313,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
+      "has_logs": "2025-09-04 22:19:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
+      "has_map": "2025-09-04 22:20:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "portablemobs:mastercelladvancement": {
     "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
+      "mastercell": "2025-09-04 22:45:12 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 22:06:51 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
