@@ -1605,3 +1605,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [04Sep2025 17:43:23.956] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [04Sep2025 17:43:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD???
 [04Sep2025 17:43:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[04Sep2025 17:47:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que fue vro
+[04Sep2025 17:47:26.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[04Sep2025 17:48:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Into Fire]
+[04Sep2025 17:59:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> falta poner carteles xd
+[04Sep2025 17:59:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[04Sep2025 17:59:36.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si puedes conseguirte tinta luminosa seria god
+[04Sep2025 17:59:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> un webo de aldeanos pero ninguno me saca eficiencia 5
+[04Sep2025 18:00:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> valla muy tardado
+[04Sep2025 18:00:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[04Sep2025 18:00:48.917] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3052ms or 61 ticks
+[04Sep2025 18:04:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya hay flecheros xd
+[04Sep2025 18:04:32.387] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
+[04Sep2025 18:05:44.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11765, l='ServerLevel[world]', x=-815.18, y=84.00, z=1113.22] died, message: 'Weaponsmith was slain by Vindicator'
+[04Sep2025 18:10:39.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=82, z=-76} BlockPos{x=-712, y=80, z=-77}
+[04Sep2025 18:10:39.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=82, z=-76} BlockPos{x=-712, y=80, z=-77}

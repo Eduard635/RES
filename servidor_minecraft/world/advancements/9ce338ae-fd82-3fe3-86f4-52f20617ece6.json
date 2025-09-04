@@ -1777,6 +1777,7 @@
       "sweet_berries": "2025-09-03 03:24:18 +0000",
       "brown_mushroom": "2025-08-12 02:20:02 +0000",
       "beetroot": "2025-09-03 21:05:22 +0000",
+      "sugar_cane": "2025-09-04 18:10:16 +0000",
       "potato": "2025-09-03 20:43:43 +0000",
       "wheat": "2025-09-03 20:32:37 +0000",
       "melon": "2025-09-03 21:16:01 +0000",
@@ -5065,6 +5066,30 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-04 02:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-04 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-04 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-04 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-04 17:48:14 +0000"
     },
     "done": true
   },
