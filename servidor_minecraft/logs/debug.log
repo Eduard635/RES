@@ -14920,3 +14920,80 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [05Sep2025 22:32:09.937] [Worker-Main-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-84
 [05Sep2025 22:33:00.437] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
 [05Sep2025 22:33:00.438] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[05Sep2025 22:33:55.827] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[05Sep2025 22:33:55.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 22:33:55.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 22:33:58.487] [Worker-Main-83/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-83 shutdown
+[05Sep2025 22:33:58.487] [Worker-Main-84/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-84 shutdown
+[05Sep2025 22:33:58.487] [Worker-Main-81/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-81 shutdown
+[05Sep2025 22:34:51.513] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[05Sep2025 22:34:51.513] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[05Sep2025 22:34:51.514] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[05Sep2025 22:34:51.514] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[05Sep2025 22:34:51.514] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[05Sep2025 22:34:56.889] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[05Sep2025 22:34:56.890] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[05Sep2025 22:35:18.889] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[05Sep2025 22:36:00.256] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-86
+[05Sep2025 22:36:00.257] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-87
+[05Sep2025 22:36:00.257] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-88
+[05Sep2025 22:36:35.305] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[05Sep2025 22:36:35.305] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[05Sep2025 22:37:31.290] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-86 shutdown
+[05Sep2025 22:37:31.290] [Worker-Main-88/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-88 shutdown
+[05Sep2025 22:37:36.886] [Worker-Main-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-89
+[05Sep2025 22:37:36.887] [Worker-Main-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-90
+[05Sep2025 22:38:00.502] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[05Sep2025 22:38:00.502] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[05Sep2025 22:38:52.542] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[05Sep2025 22:38:55.828] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[05Sep2025 22:38:55.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 22:38:55.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 22:39:41.252] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3548ms or 70 ticks
+[05Sep2025 22:39:41.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend2
+[05Sep2025 22:39:41.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight6
+[05Sep2025 22:39:41.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t2
+[05Sep2025 22:39:41.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight2
+[05Sep2025 22:39:41.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman2
+[05Sep2025 22:39:41.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/shepherd1
+[05Sep2025 22:39:41.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic1
+[05Sep2025 22:39:41.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight5
+[05Sep2025 22:39:41.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/weaponsmith1
+[05Sep2025 22:39:41.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic2
+[05Sep2025 22:39:41.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic4
+[05Sep2025 22:39:41.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/inter1
+[05Sep2025 22:39:41.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t1
+[05Sep2025 22:39:41.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight1
+[05Sep2025 22:39:41.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight3
+[05Sep2025 22:39:41.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight4
+[05Sep2025 22:39:41.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/butcher1
+[05Sep2025 22:39:41.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/chapel1
+[05Sep2025 22:39:41.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term1
+[05Sep2025 22:39:41.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term3
+[05Sep2025 22:39:41.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend1
+[05Sep2025 22:39:41.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman1
+[05Sep2025 22:39:41.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic_big1
+[05Sep2025 22:39:41.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/library1
+[05Sep2025 22:39:41.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic3
+[05Sep2025 22:39:41.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term2
+[05Sep2025 22:39:41.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term4
+[05Sep2025 22:39:41.648] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[05Sep2025 22:39:41.648] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[05Sep2025 22:39:43.801] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[05Sep2025 22:39:44.681] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[05Sep2025 22:39:50.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[05Sep2025 22:39:56.895] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[05Sep2025 22:39:56.895] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[05Sep2025 22:40:14.543] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[05Sep2025 22:40:14.594] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[05Sep2025 22:40:50.408] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[05Sep2025 22:41:23.190] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[05Sep2025 22:41:35.294] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[05Sep2025 22:41:52.893] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[05Sep2025 22:42:05.483] [Netty Epoll Server IO #6/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[05Sep2025 22:43:07.662] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[05Sep2025 22:43:07.663] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[05Sep2025 22:43:19.057] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[05Sep2025 22:43:19.058] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[05Sep2025 22:43:19.058] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[05Sep2025 22:43:23.290] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
