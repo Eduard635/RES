@@ -7323,6 +7323,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-09-05 23:32:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-09-05 22:47:20 +0000"
