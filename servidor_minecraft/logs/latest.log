@@ -1625,3 +1625,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [05Sep2025 22:43:55.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3173ms or 63 ticks
 [05Sep2025 23:32:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Perfectly Balanced]
 [05Sep2025 23:33:55.957] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3133ms or 62 ticks
+[05Sep2025 23:57:59.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[05Sep2025 23:58:29.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Need A Map?]
