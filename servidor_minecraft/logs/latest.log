@@ -29,3 +29,15 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [06Sep2025 00:26:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [First Prayer]
 [06Sep2025 00:31:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Grave Inscription]
 [06Sep2025 00:38:55.944] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3154ms or 63 ticks
+[06Sep2025 00:46:48.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[06Sep2025 00:48:11.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[06Sep2025 00:48:20.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[06Sep2025 00:53:15.255] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[06Sep2025 00:53:15.257] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[06Sep2025 00:53:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was shot by Summoned Skeleton
+[06Sep2025 00:53:35.868] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Sep2025 00:53:36.173] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[06Sep2025 00:53:36.173] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[06Sep2025 00:56:55.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[06Sep2025 00:57:07.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[06Sep2025 00:57:45.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
