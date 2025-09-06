@@ -26,3 +26,5 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [06Sep2025 00:19:58.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [A Small Cemetery]
 [06Sep2025 00:22:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Who's This Guy?]
 [06Sep2025 00:23:13.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Unforgettable]
+[06Sep2025 00:26:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [First Prayer]
+[06Sep2025 00:31:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Grave Inscription]

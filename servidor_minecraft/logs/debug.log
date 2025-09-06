@@ -15437,3 +15437,33 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [06Sep2025 00:23:55.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 00:23:55.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Sep2025 00:24:57.740] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[06Sep2025 00:25:24.540] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[06Sep2025 00:26:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [First Prayer]
+[06Sep2025 00:28:27.291] [Worker-Main-174/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-174 shutdown
+[06Sep2025 00:28:55.816] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[06Sep2025 00:28:55.817] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[06Sep2025 00:28:55.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 00:28:55.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 00:29:27.291] [Worker-Main-180/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-180 shutdown
+[06Sep2025 00:29:48.537] [Worker-Main-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-184
+[06Sep2025 00:29:48.537] [Worker-Main-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-185
+[06Sep2025 00:29:57.790] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[06Sep2025 00:30:19.412] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[06Sep2025 00:30:19.413] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[06Sep2025 00:30:19.414] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[06Sep2025 00:30:19.414] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b00897aa-22a7-4a6d-adf5-059132c55b24)
+[06Sep2025 00:30:19.414] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[06Sep2025 00:30:24.590] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[06Sep2025 00:30:48.542] [Worker-Main-185/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-185 shutdown
+[06Sep2025 00:31:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Grave Inscription]
+[06Sep2025 00:31:48.542] [Worker-Main-184/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-184 shutdown
+[06Sep2025 00:31:54.190] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[06Sep2025 00:31:54.190] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[06Sep2025 00:31:56.404] [Worker-Main-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-186
+[06Sep2025 00:31:56.405] [Worker-Main-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-187
+[06Sep2025 00:33:22.837] [Worker-Main-173/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-173 shutdown
+[06Sep2025 00:33:55.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 00:33:55.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 00:33:56.026] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[06Sep2025 00:34:22.837] [Worker-Main-187/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-187 shutdown
+[06Sep2025 00:34:57.790] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
