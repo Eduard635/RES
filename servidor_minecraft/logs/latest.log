@@ -2017,3 +2017,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 20:21:47.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
 [07Sep2025 20:21:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
 [07Sep2025 20:21:47.860] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[07Sep2025 20:23:08.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:56338] logged in with entity id 29001 at (-436.99228401038033, 65.0, -704.4801308160363)
+[07Sep2025 20:23:08.889] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[07Sep2025 20:23:08.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[07Sep2025 20:23:08.911] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[07Sep2025 20:23:12.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[07Sep2025 20:23:12.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:23:12.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:24:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has completed the challenge [Hot Tourist Destinations]
+[07Sep2025 20:26:50.381] [Worker-Main-116/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33270, l='ServerLevel[world]', x=-1099.00, y=31.00, z=-661.00] as it would cause deadlock
+[07Sep2025 20:30:35.460] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3104ms or 62 ticks
+[07Sep2025 20:31:07.915] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[07Sep2025 20:31:07.922] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[07Sep2025 20:31:23.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Ancient Knight
+[07Sep2025 20:31:25.124] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2025 20:31:26.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:31:26.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:31:34.293] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:31:34.293] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:46:08.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 20:46:20.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 20:47:27.100] [Worker-Main-162/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/43967, l='ServerLevel[world]', x=-760.00, y=31.00, z=-219.00] as it would cause deadlock
+[07Sep2025 20:47:28.249] [Worker-Main-169/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44006, l='ServerLevel[world]', x=-705.00, y=31.00, z=-189.00] as it would cause deadlock
+[07Sep2025 20:47:54.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 20:48:30.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:48:30.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:48:41.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[07Sep2025 20:48:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[07Sep2025 20:48:41.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
