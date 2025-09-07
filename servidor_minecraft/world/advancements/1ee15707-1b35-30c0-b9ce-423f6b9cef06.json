@@ -3261,6 +3261,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-27 22:31:05 +0000",
+      "minecraft:soul_sand_valley": "2025-09-07 20:09:42 +0000",
       "minecraft:warped_forest": "2025-08-03 19:44:34 +0000",
       "minecraft:basalt_deltas": "2025-08-25 03:30:37 +0000"
     },
@@ -4150,6 +4151,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-08-03 22:06:36 +0000",
+      "incendium:infernal_dunes": "2025-09-07 20:09:30 +0000",
       "incendium:volcanic_deltas": "2025-08-25 03:48:02 +0000",
       "incendium:toxic_heap": "2025-08-12 03:04:31 +0000"
     },
@@ -7838,6 +7840,12 @@
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-09-07 18:02:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-09-07 20:09:30 +0000"
     },
     "done": true
   },

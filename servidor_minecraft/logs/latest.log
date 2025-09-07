@@ -1967,3 +1967,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 19:53:07.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [07Sep2025 19:53:07.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [07Sep2025 19:55:35.370] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3128ms or 62 ticks
+[07Sep2025 20:04:26.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 20:05:08.367] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:05:08.367] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:06:13.974] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3023ms or 60 ticks
+[07Sep2025 20:08:33.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 20:08:33.240] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 20:09:30.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Darude - Firestorm]
