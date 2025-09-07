@@ -14330,3 +14330,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 22:25:04.776] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
 [07Sep2025 22:25:04.776] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
 [07Sep2025 22:25:10.995] [Worker-Main-62/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-62 shutdown
+[07Sep2025 22:26:18.194] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[07Sep2025 22:26:18.195] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[07Sep2025 22:26:59.027] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[07Sep2025 22:26:59.043] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[07Sep2025 22:26:59.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 22:26:59.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 22:28:34.142] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 22:28:46.991] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-71
+[07Sep2025 22:28:46.991] [Worker-Main-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-72
+[07Sep2025 22:28:46.992] [Worker-Main-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-73
+[07Sep2025 22:29:18.743] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 22:29:46.994] [Worker-Main-72/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-72 shutdown
+[07Sep2025 22:30:46.994] [Worker-Main-73/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-73 shutdown
+[07Sep2025 22:31:44.590] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[07Sep2025 22:31:44.591] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[07Sep2025 22:31:46.994] [Worker-Main-71/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-71 shutdown
+[07Sep2025 22:31:59.014] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[07Sep2025 22:31:59.016] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[07Sep2025 22:31:59.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 22:31:59.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 22:32:36.696] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-78
+[07Sep2025 22:32:36.696] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-79
+[07Sep2025 22:32:36.696] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-80
+[07Sep2025 22:32:36.708] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[07Sep2025 22:33:34.191] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 22:33:36.771] [Worker-Main-80/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-80 shutdown
+[07Sep2025 22:34:18.490] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[07Sep2025 22:34:18.491] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[07Sep2025 22:34:18.792] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 22:34:36.771] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-79 shutdown
+[07Sep2025 22:35:24.140] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[07Sep2025 22:35:24.140] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[07Sep2025 22:35:36.771] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-78 shutdown
