@@ -1888,3 +1888,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 18:40:35.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
 [07Sep2025 18:41:15.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
 [07Sep2025 18:52:27.501] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4389ms or 87 ticks
+[07Sep2025 19:03:29.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA moved wrongly!
+[07Sep2025 19:06:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya contrui mi casita xd
+[07Sep2025 19:06:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ESTOY EN CASA
+[07Sep2025 19:06:42.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> LLEVAME
+[07Sep2025 19:07:24.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ala mrd
+[07Sep2025 19:07:32.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 19:07:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> se te rompio la armor xd
+[07Sep2025 19:07:52.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> estaba em 1
+[07Sep2025 19:08:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> la armor
+[07Sep2025 19:08:23.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[07Sep2025 19:08:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[07Sep2025 19:08:23.116] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[07Sep2025 19:09:30.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:58259] logged in with entity id 8707 at (-3527.039081702566, 308.0, 2363.354215515114)
+[07Sep2025 19:09:30.697] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[07Sep2025 19:09:30.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[07Sep2025 19:09:30.788] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[07Sep2025 19:09:32.033] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[07Sep2025 19:09:32.033] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[07Sep2025 19:09:32.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[07Sep2025 19:09:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
