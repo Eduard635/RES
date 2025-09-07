@@ -1925,3 +1925,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 19:19:39.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no soy choro
 [07Sep2025 19:19:49.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> sus
 [07Sep2025 19:19:51.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> bueno
+[07Sep2025 19:23:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> esnquivadito
+[07Sep2025 19:23:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[07Sep2025 19:24:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tengo 2 nuevos hechizos xd
+[07Sep2025 19:24:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no rompen bloques xd
+[07Sep2025 19:24:51.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[07Sep2025 19:26:17.563] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3093ms or 61 ticks
+[07Sep2025 19:26:42.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 19:27:04.476] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[07Sep2025 19:27:04.479] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[07Sep2025 19:27:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Skeleton
+[07Sep2025 19:27:11.972] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2025 19:27:12.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[07Sep2025 19:27:12.170] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[07Sep2025 19:27:19.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 19:34:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Bonfire Lit]
+[07Sep2025 19:37:56.482] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 19:37:56.483] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 19:37:56.484] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 19:37:56.484] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 19:37:56.485] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 19:37:56.485] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 19:37:56.576] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 19:37:56.576] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 19:38:31.066] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[07Sep2025 19:38:31.068] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[07Sep2025 19:38:37.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Skeleton
+[07Sep2025 19:38:39.322] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2025 19:38:39.495] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[07Sep2025 19:38:39.495] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[07Sep2025 19:39:21.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 19:43:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> BRO VOY A SALIR
+[07Sep2025 19:43:46.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bye bro
+[07Sep2025 19:43:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> chaoo
+[07Sep2025 19:43:56.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[07Sep2025 19:43:56.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[07Sep2025 19:43:56.410] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[07Sep2025 19:43:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> suerte
+[07Sep2025 19:45:49.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 19:48:39.900] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3781ms or 75 ticks

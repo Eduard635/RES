@@ -7787,9 +7787,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-09-07 19:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-09-07 18:02:19 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-09-07 19:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-09-07 19:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-09-07 19:34:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-09-07 19:34:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-09-07 19:33:40 +0000"
     },
     "done": true
   },
@@ -7802,6 +7838,12 @@
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-09-07 18:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-09-07 19:34:26 +0000"
     },
     "done": true
   },
