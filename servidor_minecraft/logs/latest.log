@@ -1887,3 +1887,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 18:29:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> fortuna IV es clave
 [07Sep2025 18:40:35.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
 [07Sep2025 18:41:15.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 18:52:27.501] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4389ms or 87 ticks
