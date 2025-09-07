@@ -17413,3 +17413,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 21:00:35.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Sep2025 21:00:35.260] [IO-Worker-226/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
 [07Sep2025 21:00:35.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 21:05:35.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[07Sep2025 21:05:35.212] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[07Sep2025 21:05:35.216] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[07Sep2025 21:05:35.216] [IO-Worker-232/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[07Sep2025 21:05:35.216] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[07Sep2025 21:05:35.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 21:05:35.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 21:05:35.342] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3112ms or 62 ticks
+[07Sep2025 21:10:35.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[07Sep2025 21:10:35.212] [IO-Worker-236/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[07Sep2025 21:10:35.217] [IO-Worker-237/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-238
+[07Sep2025 21:10:35.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 21:10:35.259] [IO-Worker-237/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[07Sep2025 21:10:35.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
