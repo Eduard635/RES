@@ -91,3 +91,40 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [08Sep2025 00:37:02.780] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [08Sep2025 00:37:02.917] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [08Sep2025 00:37:02.917] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:41:13.697] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:41:13.702] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:41:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Ravager
+[08Sep2025 00:41:24.674] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:41:24.833] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:41:24.833] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:42:27.799] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:42:27.803] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:42:34.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[08Sep2025 00:42:35.282] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:42:35.601] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:42:35.601] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:44:00.748] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:44:00.752] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:44:09.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Ravager
+[08Sep2025 00:44:11.118] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:44:11.302] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:44:11.302] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:46:50.098] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:46:50.099] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:46:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Poker
+[08Sep2025 00:46:57.556] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:46:57.722] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:46:57.722] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:47:38.619] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[08Sep2025 00:47:53.695] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:47:53.702] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:47:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[08Sep2025 00:48:00.972] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:48:01.102] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:48:01.102] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[08Sep2025 00:48:58.348] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[08Sep2025 00:48:58.350] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[08Sep2025 00:49:09.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was shot by Chagrin Sentry
+[08Sep2025 00:49:10.964] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Sep2025 00:49:11.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[08Sep2025 00:49:11.227] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
