@@ -1,1 +1,41 @@
 [08Sep2025 00:03:30.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3215ms or 64 ticks
+[08Sep2025 00:13:35.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/38423, l='ServerLevel[world]', x=155.52, y=62.00, z=577.12] died: Piglin Paratrooper was shown the way of the light by Daniel_ANT_25
+[08Sep2025 00:13:57.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/38422, l='ServerLevel[world]', x=151.03, y=62.00, z=579.40] died: Piglin Paratrooper couldn't take Daniel_ANT_25's heat
+[08Sep2025 00:14:17.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/38414, l='ServerLevel[world]', x=166.17, y=62.00, z=578.07] died: Piglin Knight couldn't take Daniel_ANT_25's heat
+[08Sep2025 00:15:10.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/38304, l='ServerLevel[world]', x=163.88, y=62.00, z=577.50] died: Piglin Paratrooper couldn't take Daniel_ANT_25's heat
+[08Sep2025 00:15:32.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/38303, l='ServerLevel[world]', x=166.65, y=68.00, z=571.46] died: Piglin Paratrooper couldn't take Daniel_ANT_25's heat
+[08Sep2025 00:15:40.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/38421, l='ServerLevel[world]', x=164.72, y=62.00, z=577.40] died: Piglin Paratrooper was shown the way of the light by Daniel_ANT_25
+[08Sep2025 00:16:14.361] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:16:14.361] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:16:14.361] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:16:14.361] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:16:27.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/38424, l='ServerLevel[world]', x=142.47, y=71.19, z=576.70] died: death.attack.ias_spellbooks.silken_breath
+[08Sep2025 00:17:45.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/38456, l='ServerLevel[world]', x=155.58, y=68.00, z=608.82] died: Piglin Knight was slain by Daniel_ANT_25
+[08Sep2025 00:17:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:17:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:17:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:17:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:17:53.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:17:53.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Sep2025 00:20:37.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/38463, l='ServerLevel[world]', x=140.30, y=63.00, z=629.24] died: Piglin Knight was slain by Daniel_ANT_25
+[08Sep2025 00:24:36.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[08Sep2025 00:25:32.406] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[08Sep2025 00:25:32.406] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[08Sep2025 00:25:49.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[08Sep2025 00:25:49.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[08Sep2025 00:25:49.452] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[08Sep2025 00:25:56.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:49647] logged in with entity id 43258 at (-3540.276580487243, 308.0, 2368.414033949264)
+[08Sep2025 00:25:56.486] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[08Sep2025 00:25:56.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[08Sep2025 00:25:56.514] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[08Sep2025 00:25:57.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[08Sep2025 00:25:57.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[08Sep2025 00:25:57.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[08Sep2025 00:26:08.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya me voy vro
+[08Sep2025 00:26:15.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> OK
+[08Sep2025 00:26:17.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> buena noche xd
+[08Sep2025 00:26:21.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[08Sep2025 00:26:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> habalmos
+[08Sep2025 00:26:33.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[08Sep2025 00:26:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[08Sep2025 00:26:33.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
