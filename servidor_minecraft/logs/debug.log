@@ -15188,3 +15188,411 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Sep2025 23:36:59.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Sep2025 23:36:59.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Sep2025 23:36:59.171] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3115ms or 62 ticks
+[07Sep2025 23:38:19.036] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:38:19.050] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:38:19.051] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:38:19.370] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:38:34.545] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 23:39:19.198] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 23:39:55.408] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[07Sep2025 23:40:33.773] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[07Sep2025 23:40:33.773] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[07Sep2025 23:41:11.002] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[07Sep2025 23:41:59.036] [IO-Worker-170/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[07Sep2025 23:41:59.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 23:41:59.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 23:42:56.910] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[07Sep2025 23:42:56.910] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[07Sep2025 23:42:57.114] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[07Sep2025 23:43:23.168] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:43:29.631] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[07Sep2025 23:43:34.552] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 23:43:55.582] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[07Sep2025 23:43:55.582] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[07Sep2025 23:43:55.582] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[07Sep2025 23:43:55.582] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[07Sep2025 23:43:55.582] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[07Sep2025 23:43:57.359] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[07Sep2025 23:43:57.359] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[07Sep2025 23:44:19.199] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 23:45:15.027] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3513ms or 70 ticks
+[07Sep2025 23:45:15.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[07Sep2025 23:45:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> go zz
+[07Sep2025 23:45:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> TOY FUER ade casa
+[07Sep2025 23:46:19.784] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[07Sep2025 23:46:19.785] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[07Sep2025 23:46:19.785] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[07Sep2025 23:46:25.049] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[07Sep2025 23:46:25.050] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[07Sep2025 23:47:00.648] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[07Sep2025 23:47:00.654] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[07Sep2025 23:47:01.362] [IO-Worker-174/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[07Sep2025 23:47:01.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 23:47:01.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 23:47:41.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was blown up by Creeper
+[07Sep2025 23:47:41.484] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-1228, y:88, z:-1622, dim:minecraft:overworld]
+[07Sep2025 23:47:42.670] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2025 23:47:42.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[07Sep2025 23:47:42.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[07Sep2025 23:47:44.468] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[07Sep2025 23:47:48.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> go
+[07Sep2025 23:48:01.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[07Sep2025 23:48:34.596] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 23:48:50.924] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3181ms or 63 ticks
+[07Sep2025 23:48:52.818] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[07Sep2025 23:48:59.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[07Sep2025 23:49:01.140] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[07Sep2025 23:49:19.248] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 23:49:34.167] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[07Sep2025 23:49:34.167] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[07Sep2025 23:49:34.167] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[07Sep2025 23:49:34.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[07Sep2025 23:49:34.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[07Sep2025 23:49:34.650] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3052ms or 61 ticks
+[07Sep2025 23:50:12.220] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:50:18.502] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[07Sep2025 23:50:59.079] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[07Sep2025 23:51:00.130] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:51:00.177] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:51:19.883] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[07Sep2025 23:51:19.884] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[07Sep2025 23:52:01.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 23:52:01.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 23:52:36.075] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[07Sep2025 23:52:36.075] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[07Sep2025 23:53:18.656] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:18.657] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:18.658] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:18.658] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:18.659] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:18.659] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:21.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[07Sep2025 23:53:21.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_ruined
+[07Sep2025 23:53:21.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_2
+[07Sep2025 23:53:21.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined
+[07Sep2025 23:53:21.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_a
+[07Sep2025 23:53:21.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/transfer_unit
+[07Sep2025 23:53:21.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_1
+[07Sep2025 23:53:21.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_2
+[07Sep2025 23:53:21.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_b
+[07Sep2025 23:53:21.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_5
+[07Sep2025 23:53:21.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_3
+[07Sep2025 23:53:21.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_1
+[07Sep2025 23:53:21.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_1
+[07Sep2025 23:53:21.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway
+[07Sep2025 23:53:21.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_a
+[07Sep2025 23:53:21.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_up
+[07Sep2025 23:53:21.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container_large
+[07Sep2025 23:53:21.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_3
+[07Sep2025 23:53:21.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_c
+[07Sep2025 23:53:21.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined_cap
+[07Sep2025 23:53:21.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined
+[07Sep2025 23:53:21.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_4
+[07Sep2025 23:53:21.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_5
+[07Sep2025 23:53:21.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/hammer
+[07Sep2025 23:53:21.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_b
+[07Sep2025 23:53:21.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/vent
+[07Sep2025 23:53:21.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_1
+[07Sep2025 23:53:21.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/spawner
+[07Sep2025 23:53:21.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_2
+[07Sep2025 23:53:21.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_debris
+[07Sep2025 23:53:21.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up_small
+[07Sep2025 23:53:21.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_contained
+[07Sep2025 23:53:21.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_1
+[07Sep2025 23:53:21.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_3
+[07Sep2025 23:53:21.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_2
+[07Sep2025 23:53:21.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/earthpiercer_schematic
+[07Sep2025 23:53:21.725] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:21.725] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:21.726] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:21.726] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:21.727] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:21.727] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:21.728] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[07Sep2025 23:53:21.728] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 23:53:21.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[07Sep2025 23:53:21.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[07Sep2025 23:53:34.601] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 23:54:12.851] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[07Sep2025 23:54:19.250] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[07Sep2025 23:54:40.274] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[07Sep2025 23:54:41.584] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 23:54:41.584] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 23:55:10.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[07Sep2025 23:55:10.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[07Sep2025 23:55:10.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[07Sep2025 23:55:10.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[07Sep2025 23:55:10.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[07Sep2025 23:55:10.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[07Sep2025 23:55:10.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[07Sep2025 23:55:10.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[07Sep2025 23:55:10.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[07Sep2025 23:55:10.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[07Sep2025 23:55:10.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[07Sep2025 23:55:10.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[07Sep2025 23:55:10.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[07Sep2025 23:55:10.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[07Sep2025 23:55:10.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[07Sep2025 23:55:10.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[07Sep2025 23:55:21.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[07Sep2025 23:55:22.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[07Sep2025 23:55:22.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[07Sep2025 23:55:22.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[07Sep2025 23:55:22.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[07Sep2025 23:55:22.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[07Sep2025 23:55:22.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[07Sep2025 23:55:22.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[07Sep2025 23:55:22.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[07Sep2025 23:55:22.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[07Sep2025 23:55:22.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[07Sep2025 23:55:22.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[07Sep2025 23:55:22.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[07Sep2025 23:55:22.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[07Sep2025 23:55:22.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[07Sep2025 23:55:22.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[07Sep2025 23:55:22.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[07Sep2025 23:55:22.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[07Sep2025 23:55:22.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[07Sep2025 23:55:22.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[07Sep2025 23:55:22.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[07Sep2025 23:55:22.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[07Sep2025 23:55:22.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[07Sep2025 23:55:22.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[07Sep2025 23:55:22.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[07Sep2025 23:55:22.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[07Sep2025 23:55:22.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[07Sep2025 23:55:22.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[07Sep2025 23:55:22.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[07Sep2025 23:55:22.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[07Sep2025 23:55:22.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[07Sep2025 23:55:22.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[07Sep2025 23:55:22.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[07Sep2025 23:55:22.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[07Sep2025 23:55:22.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[07Sep2025 23:55:22.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[07Sep2025 23:55:22.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[07Sep2025 23:55:22.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[07Sep2025 23:55:22.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[07Sep2025 23:55:28.857] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[07Sep2025 23:55:31.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[07Sep2025 23:55:45.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[07Sep2025 23:55:57.686] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:56:13.252] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:56:13.253] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:56:29.211] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[07Sep2025 23:56:29.213] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[07Sep2025 23:56:29.222] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{"minecraft:looting":"sword/hilt"},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:7.0d,attribute:"minecraft:generic.attack_damage",id:"22a85d70-f192-48fb-99ac-0faf7fe1ac9a",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"},{skill_bonus:{amount:0.25d,attribute:"minecraft:generic.attack_speed",id:"ba9682e2-f06a-421d-a6e9-28214fbad2b9",name:"SkillBonus",operation:1,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[07Sep2025 23:56:29.222] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[07Sep2025 23:56:29.222] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[07Sep2025 23:56:29.223] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[07Sep2025 23:56:29.223] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[07Sep2025 23:56:29.223] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.223] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.224] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.225] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.225] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.226] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[07Sep2025 23:56:29.226] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[07Sep2025 23:56:29.226] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.226] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.228] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:29.228] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[07Sep2025 23:56:32.303] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[07Sep2025 23:56:32.307] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[07Sep2025 23:56:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was slain by Ancient Knight
+[07Sep2025 23:56:58.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daniel_ANT_25 was created at position [x:31, y:60, z:344, dim:minecraft:the_nether]
+[07Sep2025 23:56:59.980] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2025 23:57:00.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[07Sep2025 23:57:00.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[07Sep2025 23:57:00.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[07Sep2025 23:57:00.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[07Sep2025 23:57:00.101] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[07Sep2025 23:57:01.346] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[07Sep2025 23:57:01.346] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[07Sep2025 23:57:01.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Sep2025 23:57:01.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Sep2025 23:57:01.532] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 23:57:01.532] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 23:57:01.753] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[07Sep2025 23:57:01.858] [IO-Worker-185/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[07Sep2025 23:57:08.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[07Sep2025 23:57:08.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[07Sep2025 23:57:26.926] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[07Sep2025 23:58:23.704] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[07Sep2025 23:58:34.603] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[07Sep2025 23:58:34.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[07Sep2025 23:58:34.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[07Sep2025 23:58:34.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[07Sep2025 23:58:34.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[07Sep2025 23:58:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Chest Slayer]
+[07Sep2025 23:59:19.252] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[08Sep2025 00:00:59.051] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[08Sep2025 00:01:48.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[08Sep2025 00:01:48.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:01:48.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:01:48.105] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{"minecraft:looting":"sword/hilt"},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:7.0d,attribute:"minecraft:generic.attack_damage",id:"22a85d70-f192-48fb-99ac-0faf7fe1ac9a",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"},{skill_bonus:{amount:0.25d,attribute:"minecraft:generic.attack_speed",id:"ba9682e2-f06a-421d-a6e9-28214fbad2b9",name:"SkillBonus",operation:1,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:01:48.105] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[08Sep2025 00:01:48.105] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:01:48.106] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:01:48.106] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:01:48.106] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[08Sep2025 00:01:48.106] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.107] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.107] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.108] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.108] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.108] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[08Sep2025 00:01:48.108] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[08Sep2025 00:01:48.108] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.109] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.110] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:48.110] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:01:58.801] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[08Sep2025 00:02:01.342] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[08Sep2025 00:02:01.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 00:02:01.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 00:03:29.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[08Sep2025 00:03:29.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l2
+[08Sep2025 00:03:29.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_main
+[08Sep2025 00:03:29.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l2
+[08Sep2025 00:03:29.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_2x1
+[08Sep2025 00:03:29.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l3
+[08Sep2025 00:03:29.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l3
+[08Sep2025 00:03:29.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3
+[08Sep2025 00:03:29.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/staircase
+[08Sep2025 00:03:29.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/shock_troop
+[08Sep2025 00:03:29.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/crimson_greenhouse
+[08Sep2025 00:03:29.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/archer
+[08Sep2025 00:03:29.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_1x1
+[08Sep2025 00:03:29.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/crossroads1
+[08Sep2025 00:03:29.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/kitchen
+[08Sep2025 00:03:29.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/dining
+[08Sep2025 00:03:29.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/coolant_room
+[08Sep2025 00:03:29.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/odd_treasure
+[08Sep2025 00:03:29.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15w
+[08Sep2025 00:03:29.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/stable
+[08Sep2025 00:03:29.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_10
+[08Sep2025 00:03:29.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15
+[08Sep2025 00:03:30.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15_compat
+[08Sep2025 00:03:30.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_3
+[08Sep2025 00:03:30.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_gold
+[08Sep2025 00:03:30.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_diamond
+[08Sep2025 00:03:30.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_corner
+[08Sep2025 00:03:30.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/lumber_c
+[08Sep2025 00:03:30.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/round_table
+[08Sep2025 00:03:30.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/corridors
+[08Sep2025 00:03:30.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cell
+[08Sep2025 00:03:30.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/trap_room
+[08Sep2025 00:03:30.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_gate3
+[08Sep2025 00:03:30.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/pigstep
+[08Sep2025 00:03:30.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_netherite
+[08Sep2025 00:03:30.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor2
+[08Sep2025 00:03:30.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_6
+[08Sep2025 00:03:30.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table2
+[08Sep2025 00:03:30.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small3
+[08Sep2025 00:03:30.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/armory_1
+[08Sep2025 00:03:30.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1
+[08Sep2025 00:03:30.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_3
+[08Sep2025 00:03:30.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/pyro
+[08Sep2025 00:03:30.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor4
+[08Sep2025 00:03:30.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d1
+[08Sep2025 00:03:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor2
+[08Sep2025 00:03:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight
+[08Sep2025 00:03:30.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/house_1x1
+[08Sep2025 00:03:30.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/ocean_portal
+[08Sep2025 00:03:30.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor3
+[08Sep2025 00:03:30.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cryostasis_chamber
+[08Sep2025 00:03:30.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor1
+[08Sep2025 00:03:30.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/livq1
+[08Sep2025 00:03:30.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor1
+[08Sep2025 00:03:30.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c1
+[08Sep2025 00:03:30.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_big2
+[08Sep2025 00:03:30.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_small2
+[08Sep2025 00:03:30.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_big1
+[08Sep2025 00:03:30.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_special_farm
+[08Sep2025 00:03:30.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_small1
+[08Sep2025 00:03:30.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor6
+[08Sep2025 00:03:30.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove4
+[08Sep2025 00:03:30.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove12
+[08Sep2025 00:03:30.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove5
+[08Sep2025 00:03:30.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor2
+[08Sep2025 00:03:30.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove11
+[08Sep2025 00:03:30.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove6
+[08Sep2025 00:03:30.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove7
+[08Sep2025 00:03:30.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_5
+[08Sep2025 00:03:30.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/archery_tower
+[08Sep2025 00:03:30.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove9
+[08Sep2025 00:03:30.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor1
+[08Sep2025 00:03:30.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove13
+[08Sep2025 00:03:30.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove8
+[08Sep2025 00:03:30.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove10
+[08Sep2025 00:03:30.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/scout
+[08Sep2025 00:03:30.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/alchemist
+[08Sep2025 00:03:30.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small3
+[08Sep2025 00:03:30.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small4
+[08Sep2025 00:03:30.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_2
+[08Sep2025 00:03:30.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove3
+[08Sep2025 00:03:30.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/treasure_netherite
+[08Sep2025 00:03:30.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short2
+[08Sep2025 00:03:30.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1_hoglin
+[08Sep2025 00:03:30.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/pyromancer
+[08Sep2025 00:03:30.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/treasure_quartz
+[08Sep2025 00:03:30.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_base
+[08Sep2025 00:03:30.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove2
+[08Sep2025 00:03:30.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove14
+[08Sep2025 00:03:30.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing
+[08Sep2025 00:03:30.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small1
+[08Sep2025 00:03:30.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_b
+[08Sep2025 00:03:30.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_4
+[08Sep2025 00:03:30.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_big
+[08Sep2025 00:03:30.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_small
+[08Sep2025 00:03:30.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table1
+[08Sep2025 00:03:30.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/treasure/quartz/statue1
+[08Sep2025 00:03:30.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1
+[08Sep2025 00:03:30.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2
+[08Sep2025 00:03:30.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand6
+[08Sep2025 00:03:30.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand3
+[08Sep2025 00:03:30.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand5
+[08Sep2025 00:03:30.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small2
+[08Sep2025 00:03:30.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small5
+[08Sep2025 00:03:30.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3215ms or 64 ticks
+[08Sep2025 00:03:34.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[08Sep2025 00:04:19.253] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[08Sep2025 00:05:07.557] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[08Sep2025 00:05:07.557] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[08Sep2025 00:06:33.096] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[08Sep2025 00:06:34.416] [Worker-Main-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-193
+[08Sep2025 00:06:34.743] [Worker-Main-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-194
+[08Sep2025 00:07:01.375] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[08Sep2025 00:07:01.375] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[08Sep2025 00:07:01.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 00:07:01.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 00:07:21.402] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[08Sep2025 00:07:21.402] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:07:21.402] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:07:21.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:749,EnchantmentMapping:{"minecraft:looting":"sword/hilt"},Enchantments:[{id:"tombstone:soulbound",lvl:1s},{id:"minecraft:looting",lvl:2s}],SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:7.0d,attribute:"minecraft:generic.attack_damage",id:"22a85d70-f192-48fb-99ac-0faf7fe1ac9a",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"},{skill_bonus:{amount:0.25d,attribute:"minecraft:generic.attack_speed",id:"ba9682e2-f06a-421d-a6e9-28214fbad2b9",name:"SkillBonus",operation:1,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[08Sep2025 00:07:21.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[08Sep2025 00:07:21.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:07:21.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:07:21.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[08Sep2025 00:07:21.405] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[08Sep2025 00:07:21.405] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (d69912ba-196b-465b-a6bc-da9dd9214493)
+[08Sep2025 00:07:21.405] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.405] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.405] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.406] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.406] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:782,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.406] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[08Sep2025 00:07:21.406] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[08Sep2025 00:07:21.407] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.407] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.407] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:21.407] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:803,EnchantmentMapping:{"minecraft:silk_touch":"double/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[08Sep2025 00:07:48.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[08Sep2025 00:07:48.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[08Sep2025 00:07:48.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[08Sep2025 00:07:48.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[08Sep2025 00:07:48.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[08Sep2025 00:07:48.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[08Sep2025 00:07:48.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[08Sep2025 00:07:48.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
