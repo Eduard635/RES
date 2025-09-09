@@ -1919,3 +1919,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [09Sep2025 22:16:29.413] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3011ms or 60 ticks
 [09Sep2025 22:16:35.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Fallen Sorcerer]
 [09Sep2025 22:59:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Stare Into Despair]
+[09Sep2025 23:03:10.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Greed may lead to loss]
+[09Sep2025 23:06:53.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Not of Chocolate]
+[09Sep2025 23:07:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Quickly Applied]
+[09Sep2025 23:08:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has completed the challenge [Ancient Knowledge]
+[09Sep2025 23:08:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Let The Magic Happen]
+[09Sep2025 23:09:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Mastery 1]
+[09Sep2025 23:09:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Treasure from the Past]
+[09Sep2025 23:11:17.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 260.7869023363255,-351.9,-229.78821646886308
+[09Sep2025 23:11:17.177] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3160ms or 63 ticks
+[09Sep2025 23:17:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Not Quite Atlantis...]
+[09Sep2025 23:18:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Home Sweet Home]
+[09Sep2025 23:26:03.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[09Sep2025 23:26:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[09Sep2025 23:26:03.936] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
