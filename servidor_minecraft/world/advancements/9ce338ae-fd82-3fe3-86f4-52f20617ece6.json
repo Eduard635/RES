@@ -5370,6 +5370,48 @@
     },
     "done": false
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-07 23:58:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-09-08 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-09-08 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-09-08 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-08 00:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-08 00:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-08 00:08:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-09-08 00:20:03 +0000"
@@ -5403,12 +5445,6 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-08 00:20:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-09-08 00:01:38 +0000"
     },
     "done": true
   },
@@ -5451,18 +5487,6 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-08 00:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-09-08 00:08:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-09-08 00:08:55 +0000"
     },
     "done": true
   },
@@ -5511,18 +5535,6 @@
   "skilltree:recipes/misc/copper_nugget": {
     "criteria": {
       "has_ingots_copper": "2025-09-08 00:20:03 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-09-07 23:58:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-09-08 00:01:38 +0000"
     },
     "done": true
   },
@@ -5580,15 +5592,94 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_item": "2025-09-08 00:01:38 +0000"
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-09-09 21:29:33 +0000",
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_campfire_cooking": {
     "criteria": {
-      "has_raw_copper": "2025-09-08 00:08:55 +0000"
+      "cooked_prickly_pear": "2025-09-09 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "ecologics:recipes/ecologics/cooked_prickly_pear": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-09-09 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-09 21:29:29 +0000"
+    },
+    "done": false
+  },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_smoking": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-09-09 21:29:02 +0000"
     },
     "done": true
   },
