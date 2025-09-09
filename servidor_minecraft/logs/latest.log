@@ -1918,3 +1918,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [09Sep2025 22:09:40.436] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [09Sep2025 22:16:29.413] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3011ms or 60 ticks
 [09Sep2025 22:16:35.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Fallen Sorcerer]
+[09Sep2025 22:59:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Stare Into Despair]

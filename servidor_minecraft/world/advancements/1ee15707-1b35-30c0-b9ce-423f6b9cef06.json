@@ -7932,6 +7932,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-09-09 22:59:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-09-09 21:40:32 +0000"
