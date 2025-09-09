@@ -1906,3 +1906,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [09Sep2025 21:49:15.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6203, l='ServerLevel[world]', x=-2838.19, y=73.56, z=1169.63] died, message: 'Fletcher cooked in Daniel_ANT_25's fiery field'
 [09Sep2025 21:49:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Neighborhood Brawl]
 [09Sep2025 21:54:22.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/7962, l='ServerLevel[world]', x=-2838.02, y=73.56, z=1169.69] died, message: 'Fletcher was blown up by Freakager'
+[09Sep2025 22:05:27.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6179, l='ServerLevel[world]', x=-2837.92, y=79.56, z=1157.70] died, message: 'Librarian was pummeled by Daniel_ANT_25'
+[09Sep2025 22:05:27.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6182, l='ServerLevel[world]', x=-2838.12, y=79.56, z=1167.62] died, message: 'Librarian was pummeled by Daniel_ANT_25'
+[09Sep2025 22:06:48.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6192, l='ServerLevel[world]', x=-2839.70, y=74.56, z=1163.80] died, message: 'Villager was shown the way of the light by Daniel_ANT_25'
+[09Sep2025 22:07:07.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6188, l='ServerLevel[world]', x=-2839.16, y=74.56, z=1164.03] died, message: 'Librarian was shown the way of the light by Daniel_ANT_25'
+[09Sep2025 22:09:27.358] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[09Sep2025 22:09:27.361] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[09Sep2025 22:09:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was blown up by Twittollager
+[09Sep2025 22:09:40.231] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Sep2025 22:09:40.436] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[09Sep2025 22:09:40.436] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
