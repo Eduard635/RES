@@ -1896,3 +1896,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [09Sep2025 21:36:47.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
 [09Sep2025 21:36:47.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [09Sep2025 21:36:47.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[09Sep2025 21:47:55.314] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[09Sep2025 21:47:55.326] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[09Sep2025 21:48:09.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 was blown up by Twittollager
+[09Sep2025 21:48:10.889] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Sep2025 21:48:11.137] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[09Sep2025 21:48:11.138] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[09Sep2025 21:48:17.320] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3142ms or 62 ticks
+[09Sep2025 21:49:15.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6203, l='ServerLevel[world]', x=-2838.19, y=73.56, z=1169.63] died, message: 'Fletcher cooked in Daniel_ANT_25's fiery field'
+[09Sep2025 21:49:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Neighborhood Brawl]
+[09Sep2025 21:54:22.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/7962, l='ServerLevel[world]', x=-2838.02, y=73.56, z=1169.69] died, message: 'Fletcher was blown up by Freakager'
