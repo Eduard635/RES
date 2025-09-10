@@ -132,6 +132,28 @@
         "value": 100
       }
     },
+    "cataclysm_spellbooks:abyssal_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "skilltreemkp:points": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -185,6 +207,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "cataclysm_spellbooks:abyssal_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "galosphere:illager_resistance": {
@@ -451,6 +484,17 @@
         "value": 64
       }
     },
+    "skilltreemkp:multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "irons_spellbooks:blood_magic_resist": {
       "enabled": false,
       "min": {
@@ -528,6 +572,17 @@
         "value": 90
       }
     },
+    "skilltreemkp:rampup": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {
@@ -583,6 +638,17 @@
         "value": 100
       }
     },
+    "skilltreemkp:damage_dealt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -614,6 +680,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "cataclysm_spellbooks:technomancy_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "minecraft:generic.movement_speed": {
@@ -713,6 +790,17 @@
       "max": {
         "default": 90,
         "value": 90
+      }
+    },
+    "cataclysm_spellbooks:technomancy_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "parcool:max_stamina": {
