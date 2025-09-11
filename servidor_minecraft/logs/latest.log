@@ -2428,3 +2428,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [11Sep2025 18:45:26.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
 [11Sep2025 18:45:26.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
 [11Sep2025 18:45:26.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[11Sep2025 18:47:05.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:50877] logged in with entity id 1685 at (-3520.061642918775, 184.0, 2310.570490124668)
+[11Sep2025 18:47:05.204] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[11Sep2025 18:47:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[11Sep2025 18:47:05.239] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
