@@ -484,17 +484,6 @@
         "value": 64
       }
     },
-    "skilltreemkp:multiplier": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "irons_spellbooks:blood_magic_resist": {
       "enabled": false,
       "min": {
@@ -504,6 +493,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "skilltreemkp:multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "irons_spellbooks:evocation_magic_resist": {
@@ -572,17 +572,6 @@
         "value": 90
       }
     },
-    "skilltreemkp:rampup": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {
@@ -592,6 +581,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "skilltreemkp:rampup": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "minecraft:generic.armor": {
