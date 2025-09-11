@@ -2435,3 +2435,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
 [11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [11Sep2025 18:47:08.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[11Sep2025 19:05:54.631] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[11Sep2025 19:05:54.634] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[11Sep2025 19:05:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 burned to death
+[11Sep2025 19:05:56.393] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[11Sep2025 19:06:01.896] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Sep2025 19:06:02.039] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[11Sep2025 19:06:02.040] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[11Sep2025 19:06:39.544] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3140ms or 62 ticks
