@@ -2403,3 +2403,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [11Sep2025 18:26:33.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
 [11Sep2025 18:26:33.047] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
 [11Sep2025 18:26:33.057] [Server thread/WARN] [ModernFix/]: Dedicated server took 85.811 seconds to load
+[11Sep2025 18:36:41.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:50737] logged in with entity id 1290 at (-3542.112996336032, 308.0, 2366.478317126974)
+[11Sep2025 18:36:42.285] [Server thread/INFO] [STDOUT/]: [com.teamremastered.endrem.registers.ERTabs:lambda$static$1:47]: Items Registered
+[11Sep2025 18:36:42.595] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[11Sep2025 18:36:42.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[11Sep2025 18:36:42.773] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[11Sep2025 18:36:43.018] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3078ms or 61 ticks
+[11Sep2025 18:36:48.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[11Sep2025 18:36:48.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[11Sep2025 18:36:48.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[11Sep2025 18:36:48.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6360ms or 127 ticks behind
+[11Sep2025 18:45:07.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 was kicked for floating too long!
+[11Sep2025 18:45:07.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[11Sep2025 18:45:07.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[11Sep2025 18:45:07.474] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[11Sep2025 18:45:07.517] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Sep2025 18:45:14.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:50792] logged in with entity id 1541 at (-3520.061642918775, 214.99083968615437, 2310.570490124668)
+[11Sep2025 18:45:14.466] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[11Sep2025 18:45:14.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[11Sep2025 18:45:14.503] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[11Sep2025 18:45:15.738] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[11Sep2025 18:45:15.738] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[11Sep2025 18:45:15.739] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[11Sep2025 18:45:26.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[11Sep2025 18:45:26.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[11Sep2025 18:45:26.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
