@@ -16075,3 +16075,92 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 23:17:47.753] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
 [12Sep2025 23:17:47.754] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
 [12Sep2025 23:17:49.108] [IO-Worker-307/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[12Sep2025 23:18:33.352] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 23:18:34.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 23:19:07.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:19:25.399] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:19:28.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:19:55.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:19:55.640] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:20:07.488] [IO-Worker-311/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[12Sep2025 23:20:07.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:20:07.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:20:27.752] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:20:43.441] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:20:48.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:20:48.637] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:21:16.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:21:40.802] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[12Sep2025 23:21:52.402] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:22:24.386] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[12Sep2025 23:22:24.388] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[12Sep2025 23:22:24.388] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[12Sep2025 23:23:26.600] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:23:26.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:23:44.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:25:07.488] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[12Sep2025 23:25:07.492] [IO-Worker-315/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[12Sep2025 23:25:07.492] [IO-Worker-312/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[12Sep2025 23:25:07.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:25:07.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:25:27.803] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:25:35.865] [Worker-Main-277/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/62955, l='ServerLevel[world]', x=-1066.00, y=31.00, z=508.00] as it would cause deadlock
+[12Sep2025 23:25:47.640] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:25:48.201] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:25:48.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:26:17.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:26:17.291] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:26:56.805] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[12Sep2025 23:26:59.366] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[12Sep2025 23:26:59.366] [IO-Worker-318/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[12Sep2025 23:27:17.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:27:20.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:28:18.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:28:26.653] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:28:28.200] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:28:32.303] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:29:06.602] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-321
+[12Sep2025 23:29:08.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:29:23.162] [Worker-Main-270/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63562, l='ServerLevel[world]', x=-1062.00, y=31.00, z=834.00] as it would cause deadlock
+[12Sep2025 23:29:31.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:29:56.386] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:30:07.494] [IO-Worker-321/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
+[12Sep2025 23:30:07.495] [IO-Worker-316/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-323
+[12Sep2025 23:30:07.495] [IO-Worker-322/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-324
+[12Sep2025 23:30:07.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:30:07.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:30:27.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:30:50.469] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:30:50.469] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:30:50.471] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:31:26.585] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:31:38.055] [IO-Worker-321/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-325
+[12Sep2025 23:31:38.055] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-326
+[12Sep2025 23:31:44.100] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:31:44.101] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:32:56.833] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:34:14.200] [IO-Worker-317/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-327
+[12Sep2025 23:35:07.491] [IO-Worker-327/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-328
+[12Sep2025 23:35:07.492] [IO-Worker-327/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-330
+[12Sep2025 23:35:07.492] [IO-Worker-328/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-329
+[12Sep2025 23:35:07.492] [IO-Worker-329/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-331
+[12Sep2025 23:35:07.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:35:07.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:35:27.898] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:35:57.430] [Worker-Main-270/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-332
+[12Sep2025 23:35:57.448] [Worker-Main-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-333
+[12Sep2025 23:36:02.382] [Worker-Main-332/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[12Sep2025 23:36:03.301] [Worker-Main-270/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[12Sep2025 23:36:03.303] [Worker-Main-270/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[12Sep2025 23:36:03.305] [Worker-Main-270/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[12Sep2025 23:36:03.321] [Worker-Main-270/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[12Sep2025 23:36:09.277] [Worker-Main-271/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[12Sep2025 23:36:09.277] [Worker-Main-271/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[12Sep2025 23:36:18.840] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:36:18.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:36:18.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:36:18.850] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:36:24.109] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3158ms or 63 ticks
+[12Sep2025 23:37:10.148] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:37:10.148] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:37:28.627] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
