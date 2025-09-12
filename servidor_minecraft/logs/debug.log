@@ -15254,3 +15254,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 19:52:21.745] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
 [12Sep2025 19:53:21.747] [Worker-Main-76/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-76 shutdown
 [12Sep2025 19:53:46.742] [Worker-Main-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-79
+[12Sep2025 19:55:07.494] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[12Sep2025 19:55:07.495] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[12Sep2025 19:55:07.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 19:55:07.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 19:55:26.548] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 19:55:26.548] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 19:57:02.646] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-79 shutdown
+[12Sep2025 19:57:35.591] [Worker-Main-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-82
+[12Sep2025 19:57:35.594] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[12Sep2025 19:57:35.594] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[12Sep2025 19:58:35.596] [Worker-Main-70/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-70 shutdown
+[12Sep2025 19:59:19.746] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[12Sep2025 19:59:19.746] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[12Sep2025 19:59:20.442] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-87
+[12Sep2025 20:00:07.479] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[12Sep2025 20:00:07.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 20:00:07.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 20:00:07.603] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3116ms or 62 ticks
+[12Sep2025 20:00:20.448] [Worker-Main-87/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-87 shutdown
+[12Sep2025 20:00:26.596] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 20:00:26.596] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 20:01:20.448] [Worker-Main-75/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-75 shutdown
+[12Sep2025 20:01:31.744] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-89
+[12Sep2025 20:01:31.744] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-90
+[12Sep2025 20:01:31.748] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[12Sep2025 20:01:31.748] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[12Sep2025 20:02:32.493] [Worker-Main-90/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-90 shutdown
+[12Sep2025 20:02:40.093] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[12Sep2025 20:02:40.093] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[12Sep2025 20:03:32.493] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-82 shutdown
+[12Sep2025 20:03:32.493] [Worker-Main-89/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-89 shutdown
+[12Sep2025 20:05:05.494] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[12Sep2025 20:05:05.494] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[12Sep2025 20:05:07.480] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[12Sep2025 20:05:07.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 20:05:07.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 20:05:26.645] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 20:05:26.645] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 20:10:00.694] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[12Sep2025 20:10:00.694] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[12Sep2025 20:10:07.482] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[12Sep2025 20:10:07.482] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[12Sep2025 20:10:07.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 20:10:07.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 20:10:26.695] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 20:10:26.695] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 20:15:07.466] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[12Sep2025 20:15:07.466] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[12Sep2025 20:15:07.474] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[12Sep2025 20:15:07.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 20:15:07.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
