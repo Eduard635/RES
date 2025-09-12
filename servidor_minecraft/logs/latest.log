@@ -2504,3 +2504,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 22:08:14.103] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [12Sep2025 22:08:14.103] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [12Sep2025 22:15:07.612] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3171ms or 63 ticks
+[12Sep2025 22:18:44.266] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Sep2025 22:18:44.266] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Sep2025 22:18:57.433] [Worker-Main-168/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52886, l='ServerLevel[world]', x=-463.10, y=31.00, z=609.00] as it would cause deadlock
+[12Sep2025 22:19:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [UNLIMITED POWER!!!]
+[12Sep2025 22:19:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Pipe Dream]
+[12Sep2025 22:19:55.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Ceci n'est pas un blaze]
+[12Sep2025 22:19:55.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41419, l='ServerLevel[world]', x=-500.90, y=35.00, z=436.76] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:20:09.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52750, l='ServerLevel[world]', x=-467.23, y=35.13, z=433.30] died: Pipeline Sentry froze to death
+[12Sep2025 22:20:13.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41420, l='ServerLevel[world]', x=-481.55, y=35.20, z=433.30] died: Pipeline Sentry froze to death
+[12Sep2025 22:20:21.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52749, l='ServerLevel[world]', x=-466.25, y=34.76, z=433.30] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:20:22.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52751, l='ServerLevel[world]', x=-467.18, y=34.38, z=433.31] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:07.135] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53083, l='ServerLevel[world]', x=-490.00, y=31.00, z=625.00] as it would cause deadlock
+[12Sep2025 22:22:15.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41457, l='ServerLevel[world]', x=-510.14, y=14.00, z=451.14] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:50.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41471, l='ServerLevel[world]', x=-534.22, y=16.01, z=433.31] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Defunct Machinery]
+[12Sep2025 22:22:53.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41466, l='ServerLevel[world]', x=-536.53, y=15.72, z=435.14] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:54.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41464, l='ServerLevel[world]', x=-537.66, y=16.09, z=433.30] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:23:19.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41453, l='ServerLevel[world]', x=-509.63, y=15.81, z=435.70] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:25:15.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41367, l='ServerLevel[world]', x=-503.27, y=91.00, z=405.66] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:25:19.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41397, l='ServerLevel[world]', x=-505.14, y=91.20, z=406.86] died: Pipeline Sentry was slain by Daniel_ANT_25

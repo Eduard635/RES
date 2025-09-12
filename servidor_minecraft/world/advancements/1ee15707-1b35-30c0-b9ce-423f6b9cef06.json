@@ -9184,6 +9184,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-09-12 22:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-09-12 22:04:14 +0000"
@@ -9196,9 +9202,27 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-09-12 22:19:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-09-12 22:19:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-09-12 22:05:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-09-12 22:19:13 +0000"
     },
     "done": true
   },

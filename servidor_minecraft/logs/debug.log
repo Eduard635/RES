@@ -15761,3 +15761,72 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 22:15:27.396] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
 [12Sep2025 22:15:43.199] [Worker-Main-107/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-107 shutdown
 [12Sep2025 22:16:57.798] [Worker-Main-106/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-106 shutdown
+[12Sep2025 22:17:34.847] [IO-Worker-223/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
+[12Sep2025 22:18:43.014] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[12Sep2025 22:18:43.014] [IO-Worker-223/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[12Sep2025 22:18:44.266] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Sep2025 22:18:44.266] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Sep2025 22:18:47.800] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:18:55.750] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:18:55.900] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:18:55.953] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:18:57.433] [Worker-Main-168/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52886, l='ServerLevel[world]', x=-463.10, y=31.00, z=609.00] as it would cause deadlock
+[12Sep2025 22:18:58.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 22:19:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [UNLIMITED POWER!!!]
+[12Sep2025 22:19:18.827] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 22:19:27.424] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 22:19:35.540] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:19:38.171] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:19:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Pipe Dream]
+[12Sep2025 22:19:55.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Ceci n'est pas un blaze]
+[12Sep2025 22:19:55.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41419, l='ServerLevel[world]', x=-500.90, y=35.00, z=436.76] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:19:55.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:19:59.803] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[12Sep2025 22:20:07.488] [IO-Worker-226/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[12Sep2025 22:20:07.489] [IO-Worker-226/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[12Sep2025 22:20:07.489] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[12Sep2025 22:20:07.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 22:20:07.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 22:20:09.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52750, l='ServerLevel[world]', x=-467.23, y=35.13, z=433.30] died: Pipeline Sentry froze to death
+[12Sep2025 22:20:09.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:20:13.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41420, l='ServerLevel[world]', x=-481.55, y=35.20, z=433.30] died: Pipeline Sentry froze to death
+[12Sep2025 22:20:13.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:20:21.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52749, l='ServerLevel[world]', x=-466.25, y=34.76, z=433.30] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:20:21.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:20:22.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/52751, l='ServerLevel[world]', x=-467.18, y=34.38, z=433.31] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:20:22.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:20:27.398] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 22:21:15.273] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:21:43.502] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[12Sep2025 22:21:43.502] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[12Sep2025 22:22:07.135] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53083, l='ServerLevel[world]', x=-490.00, y=31.00, z=625.00] as it would cause deadlock
+[12Sep2025 22:22:15.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41457, l='ServerLevel[world]', x=-510.14, y=14.00, z=451.14] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:15.420] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:22:50.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41471, l='ServerLevel[world]', x=-534.22, y=16.01, z=433.31] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:50.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:22:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Defunct Machinery]
+[12Sep2025 22:22:53.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41466, l='ServerLevel[world]', x=-536.53, y=15.72, z=435.14] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:53.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:22:54.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41464, l='ServerLevel[world]', x=-537.66, y=16.09, z=433.30] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:22:54.172] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:23:19.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41453, l='ServerLevel[world]', x=-509.63, y=15.81, z=435.70] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:23:19.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:24:30.348] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:24:30.348] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:24:30.349] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 22:24:43.890] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:24:43.999] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:24:44.048] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:25:07.490] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[12Sep2025 22:25:07.491] [IO-Worker-224/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[12Sep2025 22:25:07.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 22:25:07.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 22:25:15.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41367, l='ServerLevel[world]', x=-503.27, y=91.00, z=405.66] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:25:15.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:25:19.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/41397, l='ServerLevel[world]', x=-505.14, y=91.20, z=406.86] died: Pipeline Sentry was slain by Daniel_ANT_25
+[12Sep2025 22:25:19.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[12Sep2025 22:25:27.449] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 22:26:38.800] [IO-Worker-232/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[12Sep2025 22:26:38.800] [IO-Worker-233/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[12Sep2025 22:26:39.801] [IO-Worker-233/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[12Sep2025 22:26:39.802] [IO-Worker-235/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-238
