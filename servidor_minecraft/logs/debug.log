@@ -15559,3 +15559,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 21:25:07.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Sep2025 21:25:09.702] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
 [12Sep2025 21:25:27.050] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 21:26:19.516] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[12Sep2025 21:26:19.518] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[12Sep2025 21:26:19.520] [IO-Worker-169/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[12Sep2025 21:26:20.932] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[12Sep2025 21:26:58.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[12Sep2025 21:26:58.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[12Sep2025 21:26:58.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[12Sep2025 21:27:09.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/nether_well
+[12Sep2025 21:27:09.985] [Worker-Main-167/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[12Sep2025 21:27:10.031] [Worker-Main-167/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[12Sep2025 21:27:10.059] [Worker-Main-167/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[12Sep2025 21:27:10.080] [Worker-Main-167/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[12Sep2025 21:27:10.086] [Worker-Main-167/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[12Sep2025 21:27:39.390] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (bba6fbd6-0dcb-4532-950d-5a3dd86e2b7a)
+[12Sep2025 21:27:39.450] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (bba6fbd6-0dcb-4532-950d-5a3dd86e2b7a)
+[12Sep2025 21:27:39.558] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (bba6fbd6-0dcb-4532-950d-5a3dd86e2b7a)
+[12Sep2025 21:27:39.698] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (bba6fbd6-0dcb-4532-950d-5a3dd86e2b7a)
+[12Sep2025 21:28:09.412] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 21:28:58.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 21:28:58.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 21:28:58.914] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 21:29:21.865] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f35d515c-1fdf-4103-8f97-fd2fab4cab5f)
+[12Sep2025 21:29:23.148] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f35d515c-1fdf-4103-8f97-fd2fab4cab5f)
+[12Sep2025 21:29:23.148] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f35d515c-1fdf-4103-8f97-fd2fab4cab5f)
+[12Sep2025 21:29:24.409] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f35d515c-1fdf-4103-8f97-fd2fab4cab5f)
+[12Sep2025 21:29:38.003] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[12Sep2025 21:30:07.489] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[12Sep2025 21:30:07.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 21:30:07.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 21:30:26.513] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[12Sep2025 21:30:26.514] [IO-Worker-174/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[12Sep2025 21:30:27.052] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 21:31:02.861] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:31:02.862] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:31:02.903] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:31:03.166] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:31:05.855] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[12Sep2025 21:31:05.858] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[12Sep2025 21:31:05.859] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[12Sep2025 21:31:05.860] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[12Sep2025 21:31:05.861] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[12Sep2025 21:31:05.864] [Worker-Main-166/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[12Sep2025 21:33:09.500] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 21:33:32.922] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[12Sep2025 21:33:32.926] [IO-Worker-174/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[12Sep2025 21:33:32.950] [Worker-Main-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-179
+[12Sep2025 21:33:32.988] [Worker-Main-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-180
+[12Sep2025 21:33:40.452] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 21:35:07.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 21:35:07.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 21:35:27.101] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 21:36:02.890] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:36:02.950] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:36:03.111] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
+[12Sep2025 21:36:03.200] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (f6c8a4d0-8e2a-4b7b-bfdf-17b405f276a0)
