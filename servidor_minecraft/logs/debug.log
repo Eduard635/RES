@@ -15066,3 +15066,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 18:50:26.196] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
 [12Sep2025 18:50:26.196] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
 [12Sep2025 18:52:55.544] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/entity/Mob$Anonymous$af635e33ffdb4d4795b0340b8a797141 (originally immersive_armors/mixin/MobEntityMixin$1)
+[12Sep2025 18:53:29.152] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[12Sep2025 18:53:29.261] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[12Sep2025 18:55:05.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 18:55:05.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 18:55:25.336] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 18:55:25.338] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 18:55:26.197] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 18:55:26.197] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 18:56:10.955] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3007ms or 60 ticks
+[12Sep2025 18:56:58.847] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[12Sep2025 18:56:59.691] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-20
+[12Sep2025 18:57:18.577] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[12Sep2025 18:57:24.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend2
+[12Sep2025 18:57:24.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight6
+[12Sep2025 18:57:25.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t2
+[12Sep2025 18:57:25.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight2
+[12Sep2025 18:57:25.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman2
+[12Sep2025 18:57:25.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/shepherd1
+[12Sep2025 18:57:25.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic1
+[12Sep2025 18:57:25.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight5
+[12Sep2025 18:57:25.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/weaponsmith1
+[12Sep2025 18:57:25.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic2
+[12Sep2025 18:57:25.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic4
+[12Sep2025 18:57:25.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/inter1
+[12Sep2025 18:57:25.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t1
+[12Sep2025 18:57:25.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight1
+[12Sep2025 18:57:25.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight3
+[12Sep2025 18:57:25.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight4
+[12Sep2025 18:57:25.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/butcher1
+[12Sep2025 18:57:25.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/chapel1
+[12Sep2025 18:57:25.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term1
+[12Sep2025 18:57:25.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term3
+[12Sep2025 18:57:25.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend1
+[12Sep2025 18:57:25.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman1
+[12Sep2025 18:57:26.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic_big1
+[12Sep2025 18:57:26.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/library1
+[12Sep2025 18:57:26.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic3
+[12Sep2025 18:57:26.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term2
+[12Sep2025 18:57:26.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term4
+[12Sep2025 18:57:26.177] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3699ms or 73 ticks
+[12Sep2025 18:57:26.991] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[12Sep2025 18:57:27.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[12Sep2025 18:57:33.802] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[12Sep2025 18:57:42.365] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[12Sep2025 18:59:38.589] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3149ms or 62 ticks
+[12Sep2025 18:59:38.900] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[12Sep2025 19:00:07.643] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[12Sep2025 19:00:07.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 19:00:07.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 19:00:26.200] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 19:00:26.200] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (de68ae8e-0457-4f21-9efa-4d9cc1ff35b3)
+[12Sep2025 19:00:35.548] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 19:00:35.552] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 19:01:45.688] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[12Sep2025 19:01:45.694] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[12Sep2025 19:01:45.694] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
