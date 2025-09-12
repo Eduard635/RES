@@ -15956,3 +15956,81 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 22:47:22.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [12Sep2025 22:47:22.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [12Sep2025 22:47:36.454] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:48:11.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:48:11.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:49:04.469] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:49:07.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:49:32.912] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:50:07.494] [IO-Worker-265/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-273
+[12Sep2025 22:50:07.494] [IO-Worker-265/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-274
+[12Sep2025 22:50:07.494] [IO-Worker-273/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-275
+[12Sep2025 22:50:07.500] [IO-Worker-269/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-276
+[12Sep2025 22:50:07.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 22:50:07.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 22:50:18.301] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 22:50:18.302] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:50:27.600] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 22:51:10.472] [Worker-Main-263/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-278
+[12Sep2025 22:51:10.472] [Worker-Main-271/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-277
+[12Sep2025 22:51:25.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:52:24.398] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:52:40.900] [IO-Worker-273/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-279
+[12Sep2025 22:52:40.903] [IO-Worker-269/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-281
+[12Sep2025 22:52:40.903] [IO-Worker-279/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-280
+[12Sep2025 22:52:42.011] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:53:23.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:53:38.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:54:10.111] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:55:07.485] [IO-Worker-273/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-282
+[12Sep2025 22:55:07.486] [IO-Worker-281/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-283
+[12Sep2025 22:55:07.486] [IO-Worker-273/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-284
+[12Sep2025 22:55:07.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 22:55:07.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 22:55:22.090] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:55:22.101] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 22:55:27.648] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 22:55:52.866] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:56:20.247] [IO-Worker-282/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-285
+[12Sep2025 22:56:22.064] [IO-Worker-282/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-286
+[12Sep2025 22:56:52.601] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:57:49.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:57:59.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:57:59.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:58:55.553] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 22:59:17.198] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 22:59:45.899] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 22:59:46.750] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:00:01.297] [IO-Worker-279/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-287
+[12Sep2025 23:00:01.298] [IO-Worker-285/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-288
+[12Sep2025 23:00:07.490] [IO-Worker-285/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-289
+[12Sep2025 23:00:07.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:00:07.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:00:07.621] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3023ms or 60 ticks
+[12Sep2025 23:00:26.310] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:00:26.310] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:00:27.648] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:00:30.662] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:00:31.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:01:27.553] [IO-Worker-279/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-290
+[12Sep2025 23:01:50.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:02:30.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:02:57.514] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:03:13.940] [IO-Worker-279/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[12Sep2025 23:03:23.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 23:03:43.558] [IO-Worker-279/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[12Sep2025 23:03:43.562] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[12Sep2025 23:03:43.670] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[12Sep2025 23:04:06.964] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:04:24.254] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:05:07.489] [IO-Worker-291/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[12Sep2025 23:05:07.489] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[12Sep2025 23:05:07.492] [IO-Worker-295/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[12Sep2025 23:05:07.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:05:07.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:05:27.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:05:31.554] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:05:31.554] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:05:32.601] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:05:50.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:06:54.759] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:07:09.352] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
