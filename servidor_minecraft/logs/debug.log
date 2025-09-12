@@ -16034,3 +16034,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 23:05:50.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
 [12Sep2025 23:06:54.759] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [12Sep2025 23:07:09.352] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[12Sep2025 23:08:03.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:08:41.211] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:08:41.211] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:09:17.455] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:09:24.458] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:09:31.820] [IO-Worker-291/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[12Sep2025 23:09:53.856] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[12Sep2025 23:09:53.856] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[12Sep2025 23:10:07.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:10:07.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:10:07.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:10:27.699] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:10:39.459] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:10:39.460] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:10:54.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Sep2025 23:11:00.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:11:00.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:11:08.104] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[12Sep2025 23:11:08.166] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[12Sep2025 23:11:18.899] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:11:25.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-407, y=169, z=442} BlockPos{x=-407, y=168, z=444}
+[12Sep2025 23:13:18.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[12Sep2025 23:13:38.652] [IO-Worker-302/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[12Sep2025 23:14:04.254] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[12Sep2025 23:14:05.911] [IO-Worker-304/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[12Sep2025 23:14:07.307] [IO-Worker-305/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[12Sep2025 23:14:41.498] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[12Sep2025 23:15:07.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 23:15:07.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 23:15:07.729] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[12Sep2025 23:15:21.303] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[12Sep2025 23:15:21.303] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[12Sep2025 23:15:27.748] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[12Sep2025 23:15:42.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[12Sep2025 23:15:43.402] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:17:19.800] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:17:25.251] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fb20c4d6-efac-47e3-9f4c-59d95fc36f00)
+[12Sep2025 23:17:47.753] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[12Sep2025 23:17:47.753] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[12Sep2025 23:17:47.754] [IO-Worker-287/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[12Sep2025 23:17:49.108] [IO-Worker-307/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
