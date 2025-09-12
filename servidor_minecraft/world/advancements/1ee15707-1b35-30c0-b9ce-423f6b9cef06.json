@@ -9220,6 +9220,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-09-12 22:41:31 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-09-12 22:19:13 +0000"
