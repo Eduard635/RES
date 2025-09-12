@@ -2482,3 +2482,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Sep2025 20:00:07.603] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3116ms or 62 ticks
 [12Sep2025 20:29:46.328] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3085ms or 61 ticks
 [12Sep2025 20:55:07.626] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3156ms or 63 ticks
+[12Sep2025 21:19:18.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Sep2025 21:19:18.127] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Sep2025 21:19:19.895] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3228ms or 64 ticks
+[12Sep2025 21:20:12.691] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Sep2025 21:20:12.691] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Sep2025 21:20:45.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Sep2025 21:20:45.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Sep2025 21:23:05.134] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42400, l='ServerLevel[world]', x=-520.00, y=31.00, z=581.00] as it would cause deadlock
