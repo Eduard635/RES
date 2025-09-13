@@ -919,6 +919,7 @@
       "minecraft:spider": "2025-07-27 18:49:30 +0000",
       "minecraft:piglin_brute": "2025-08-03 01:33:53 +0000",
       "minecraft:creeper": "2025-07-27 18:45:23 +0000",
+      "minecraft:wither": "2025-09-13 02:23:57 +0000",
       "minecraft:slime": "2025-07-27 21:18:34 +0000",
       "minecraft:evoker": "2025-08-28 02:46:56 +0000",
       "minecraft:phantom": "2025-08-25 02:16:20 +0000",
@@ -9281,9 +9282,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_lantern": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_soul_torch": "2025-09-13 01:01:38 +0000"
+      "has_sand": "2025-09-13 00:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-13 00:14:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-09-13 00:22:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-09-13 00:32:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-09-13 00:32:10 +0000"
     },
     "done": true
   },
@@ -9311,57 +9336,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2025-09-13 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-09-13 00:14:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-09-13 00:35:04 +0000"
     },
     "done": true
   },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-09-13 00:22:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-09-13 00:35:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
-    "criteria": {
-      "requirement": "2025-09-13 01:00:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-09-13 00:11:06 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll_gild": {
-    "criteria": {
-      "find": "2025-09-13 01:20:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-09-13 00:32:10 +0000"
     },
     "done": true
   },
@@ -9407,9 +9390,117 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-09-13 00:32:10 +0000"
+      "requirement": "2025-09-13 01:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-09-13 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_gild": {
+    "criteria": {
+      "find": "2025-09-13 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-09-13 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-09-13 01:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-09-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-09-13 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-13 02:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-09-13 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-09-13 02:31:03 +0000"
     },
     "done": true
   },
