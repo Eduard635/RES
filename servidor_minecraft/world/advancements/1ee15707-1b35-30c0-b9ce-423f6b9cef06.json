@@ -9179,21 +9179,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+  "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
-      "has_pickup_upgrade": "2025-09-12 23:03:31 +0000"
+      "has_spruce_sign": "2025-09-12 19:06:17 +0000"
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+  "create:recipes/building_blocks/oak_window": {
     "criteria": {
-      "has_item": "2025-09-12 22:04:16 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
-    "criteria": {
-      "requirement": "2025-09-12 22:22:51 +0000"
+      "has_ingredient": "2025-09-12 21:25:47 +0000"
     },
     "done": true
   },
@@ -9203,15 +9197,21 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_spruce": {
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
-      "has_spruce_sign": "2025-09-12 19:06:17 +0000"
+      "has_item": "2025-09-12 22:04:16 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_crimson": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
-      "has_crimson_sign": "2025-09-12 23:16:19 +0000"
+      "has_item": "2025-09-12 22:05:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-09-12 22:19:13 +0000"
     },
     "done": true
   },
@@ -9227,9 +9227,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
-      "has_item": "2025-09-12 22:05:33 +0000"
+      "requirement": "2025-09-12 22:22:51 +0000"
     },
     "done": true
   },
@@ -9239,21 +9239,45 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
-      "requirement": "2025-09-12 22:19:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-09-12 21:25:47 +0000"
+      "has_pickup_upgrade": "2025-09-12 23:03:31 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-09-12 23:03:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_crimson_sign": "2025-09-12 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-12 23:39:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-12 23:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-09-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-12 23:55:14 +0000"
     },
     "done": true
   },
