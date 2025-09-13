@@ -5772,6 +5772,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_helmet": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
@@ -5781,6 +5787,12 @@
   "knightquest:recipes/misc/skeleton_chestplate": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_sand": "2025-09-13 01:31:02 +0000"
     },
     "done": true
   },
@@ -5796,9 +5808,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_leggings": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
     },
     "done": true
   },
@@ -5814,15 +5838,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate_chestplate": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_sand": "2025-09-13 01:31:02 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_sand": "2025-09-13 01:31:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
     },
     "done": true
   },
@@ -5838,15 +5892,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_bone": "2025-09-13 01:08:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2025-09-13 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
     },
     "done": true
   },
@@ -5865,6 +5943,42 @@
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2025-09-13 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_savanna": "2025-09-13 01:37:55 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-09-13 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_sand": "2025-09-13 01:31:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-09-13 01:21:33 +0000"
     },
     "done": true
   },

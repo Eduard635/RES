@@ -9347,6 +9347,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_gild": {
+    "criteria": {
+      "find": "2025-09-13 01:20:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-09-13 00:32:10 +0000"

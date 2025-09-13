@@ -17599,3 +17599,167 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [13Sep2025 01:19:13.831] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
 [13Sep2025 01:19:13.831] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
 [13Sep2025 01:19:13.832] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[13Sep2025 01:20:07.494] [IO-Worker-437/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-440
+[13Sep2025 01:20:07.494] [IO-Worker-440/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-441
+[13Sep2025 01:20:07.498] [IO-Worker-437/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-442
+[13Sep2025 01:20:07.498] [IO-Worker-441/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-443
+[13Sep2025 01:20:07.498] [IO-Worker-437/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-444
+[13Sep2025 01:20:07.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:20:07.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:20:28.399] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:20:38.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Arcane Additions]
+[13Sep2025 01:22:21.503] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:22:21.504] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:22:33.555] [IO-Worker-437/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-445
+[13Sep2025 01:22:33.559] [IO-Worker-441/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-446
+[13Sep2025 01:22:33.584] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[13Sep2025 01:22:33.584] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[13Sep2025 01:22:33.846] [IO-Worker-437/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-447
+[13Sep2025 01:22:59.808] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-448
+[13Sep2025 01:22:59.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[13Sep2025 01:25:07.501] [IO-Worker-441/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-449
+[13Sep2025 01:25:07.501] [IO-Worker-448/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-450
+[13Sep2025 01:25:07.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:25:07.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:25:28.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:25:37.309] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[13Sep2025 01:25:37.309] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[13Sep2025 01:25:37.310] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[13Sep2025 01:25:37.310] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[13Sep2025 01:26:11.860] [IO-Worker-441/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-451
+[13Sep2025 01:26:12.323] [Worker-Main-333/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-191, 41], pos: MutableBlockPos{x=-3056, y=-50, z=665}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / glowroot:glowroot_vines_feature]
+[13Sep2025 01:26:27.054] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[13Sep2025 01:26:27.059] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[13Sep2025 01:26:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[13Sep2025 01:26:34.345] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2880, y:76, z:825, dim:minecraft:overworld]
+[13Sep2025 01:26:35.681] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Sep2025 01:26:35.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[13Sep2025 01:26:35.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[13Sep2025 01:26:37.495] [IO-Worker-441/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-452
+[13Sep2025 01:26:37.497] [IO-Worker-451/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-453
+[13Sep2025 01:26:44.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> donde
+[13Sep2025 01:28:13.579] [IO-Worker-450/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-454
+[13Sep2025 01:28:17.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/105551, l='ServerLevel[world]', x=-2834.81, y=74.00, z=828.50] died, message: 'Mason was shot by Pillager'
+[13Sep2025 01:28:22.269] [IO-Worker-450/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-455
+[13Sep2025 01:28:22.269] [IO-Worker-452/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-456
+[13Sep2025 01:28:23.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/105538, l='ServerLevel[world]', x=-2840.03, y=76.00, z=797.82] died, message: 'Leatherworker was slain by Vindicator'
+[13Sep2025 01:28:24.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[13Sep2025 01:28:24.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[13Sep2025 01:28:24.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[13Sep2025 01:28:24.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[13Sep2025 01:28:24.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[13Sep2025 01:28:24.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[13Sep2025 01:28:24.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[13Sep2025 01:28:24.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[13Sep2025 01:28:24.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[13Sep2025 01:28:24.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[13Sep2025 01:28:24.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[13Sep2025 01:28:24.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[13Sep2025 01:28:24.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[13Sep2025 01:28:24.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[13Sep2025 01:28:24.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[13Sep2025 01:28:24.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[13Sep2025 01:28:24.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[13Sep2025 01:28:24.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[13Sep2025 01:28:24.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[13Sep2025 01:28:24.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[13Sep2025 01:28:24.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[13Sep2025 01:28:24.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[13Sep2025 01:28:24.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[13Sep2025 01:28:24.693] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3277ms or 65 ticks
+[13Sep2025 01:28:24.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105566, l='ServerLevel[world]', x=-2893.54, y=66.00, z=815.36] died, message: 'Villager was slain by Zombie'
+[13Sep2025 01:28:25.425] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'skilltreemkp:multiplier'
+[13Sep2025 01:28:32.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[13Sep2025 01:28:35.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[13Sep2025 01:28:35.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[13Sep2025 01:28:41.273] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[13Sep2025 01:28:41.274] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[13Sep2025 01:28:41.274] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[13Sep2025 01:28:41.274] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[13Sep2025 01:28:41.274] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[13Sep2025 01:28:47.640] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:28:47.640] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:30:00.801] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[13Sep2025 01:30:00.806] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[13Sep2025 01:30:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[13Sep2025 01:30:06.943] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2895, y:76, z:821, dim:minecraft:overworld]
+[13Sep2025 01:30:07.501] [IO-Worker-456/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-457
+[13Sep2025 01:30:07.526] [IO-Worker-455/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-458
+[13Sep2025 01:30:07.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:30:07.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:30:08.118] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[13Sep2025 01:30:08.118] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[13Sep2025 01:30:08.120] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Sep2025 01:30:08.318] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[13Sep2025 01:30:08.319] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[13Sep2025 01:30:20.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> re ayudo?
+[13Sep2025 01:30:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[13Sep2025 01:30:28.463] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:30:59.634] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[13Sep2025 01:30:59.634] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[13Sep2025 01:33:09.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[13Sep2025 01:33:09.823] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[13Sep2025 01:33:09.823] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[13Sep2025 01:33:09.823] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[13Sep2025 01:33:27.636] [IO-Worker-451/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-459
+[13Sep2025 01:33:27.637] [IO-Worker-455/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-460
+[13Sep2025 01:33:49.699] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:33:49.699] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:35:07.503] [IO-Worker-460/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-462
+[13Sep2025 01:35:07.503] [IO-Worker-459/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-461
+[13Sep2025 01:35:07.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:35:07.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:35:28.505] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:35:50.985] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[13Sep2025 01:35:50.985] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[13Sep2025 01:35:50.986] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[13Sep2025 01:35:50.986] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[13Sep2025 01:36:11.388] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id endermanoverhaul:cave_enderman
+[13Sep2025 01:37:06.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_warn_temple
+[13Sep2025 01:37:06.038] [IO-Worker-459/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-463
+[13Sep2025 01:37:06.038] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-464
+[13Sep2025 01:37:06.141] [Worker-Main-263/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[13Sep2025 01:37:16.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic5
+[13Sep2025 01:37:16.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/cartographer2
+[13Sep2025 01:37:16.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[13Sep2025 01:37:16.482] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[13Sep2025 01:37:16.502] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[13Sep2025 01:37:16.513] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[13Sep2025 01:37:16.523] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[13Sep2025 01:37:16.537] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[13Sep2025 01:37:16.552] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[13Sep2025 01:37:16.559] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[13Sep2025 01:37:16.565] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[13Sep2025 01:37:16.569] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[13Sep2025 01:37:16.572] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[13Sep2025 01:37:16.574] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[13Sep2025 01:37:16.581] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[13Sep2025 01:37:16.581] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[13Sep2025 01:37:16.581] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[13Sep2025 01:37:16.582] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[13Sep2025 01:37:16.582] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[13Sep2025 01:37:16.583] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[13Sep2025 01:37:16.583] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[13Sep2025 01:37:16.583] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[13Sep2025 01:37:16.584] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[13Sep2025 01:37:16.584] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[13Sep2025 01:37:16.585] [Worker-Main-421/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[13Sep2025 01:37:16.805] [Worker-Main-426/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[13Sep2025 01:37:17.417] [IO-Worker-451/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-466
+[13Sep2025 01:37:17.417] [IO-Worker-464/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-465
+[13Sep2025 01:37:22.571] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[13Sep2025 01:37:22.571] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[13Sep2025 01:38:22.754] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[13Sep2025 01:38:22.756] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[13Sep2025 01:38:22.756] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[13Sep2025 01:38:22.756] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[13Sep2025 01:38:53.304] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:38:59.003] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:39:59.251] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[13Sep2025 01:39:59.256] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[13Sep2025 01:40:07.499] [IO-Worker-463/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-467
+[13Sep2025 01:40:07.499] [IO-Worker-466/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-468
+[13Sep2025 01:40:07.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:40:07.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:40:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
+[13Sep2025 01:40:07.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2572, y:75, z:531, dim:minecraft:overworld]
