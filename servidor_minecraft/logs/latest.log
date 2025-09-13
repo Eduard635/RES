@@ -10,3 +10,19 @@
 [13Sep2025 00:05:06.125] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
 [13Sep2025 00:05:06.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [13Sep2025 00:05:06.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[13Sep2025 00:18:04.611] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[13Sep2025 00:19:15.860] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[13Sep2025 00:19:15.860] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[13Sep2025 00:19:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 fell out of the world
+[13Sep2025 00:19:17.864] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[13Sep2025 00:19:19.516] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Sep2025 00:19:21.022] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[13Sep2025 00:19:21.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[13Sep2025 00:19:28.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[13Sep2025 00:19:28.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[13Sep2025 00:22:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Light-Sensitive]
+[13Sep2025 00:22:36.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76060, l='ServerLevel[world]', x=-748.30, y=140.74, z=-71.01] died: Desert Blaze was slain by Daniel_ANT_25
+[13Sep2025 00:24:22.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/77638, l='ServerLevel[world]', x=-448.40, y=28.20, z=-74.50] died: Desert Blaze was slain by Daniel_ANT_25
+[13Sep2025 00:25:07.635] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3119ms or 62 ticks
+[13Sep2025 00:25:10.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/77752, l='ServerLevel[world]', x=-452.68, y=26.00, z=-66.11] died: Desert Blaze was slain by Daniel_ANT_25
+[13Sep2025 00:25:12.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/77769, l='ServerLevel[world]', x=-450.73, y=28.20, z=-69.26] died: Desert Blaze was slain by Daniel_ANT_25
