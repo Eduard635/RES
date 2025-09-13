@@ -5610,33 +5610,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_blue_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bow_chestplate": {
     "criteria": {
       "has_crossbow": "2025-09-11 02:34:42 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_leggings": {
-    "criteria": {
-      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_green_leggings": {
-    "criteria": {
-      "has_emerald": "2025-09-11 02:34:44 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
     },
     "done": true
   },
@@ -5646,81 +5622,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/warlord_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_helmet": {
-    "criteria": {
-      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bow_leggings": {
     "criteria": {
       "has_crossbow": "2025-09-11 02:34:42 +0000"
-    },
-    "done": true
-  },
-  "skilltreemkp:transfem": {
-    "criteria": {
-      "transfem_0": "2025-09-11 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_helmet2": {
-    "criteria": {
-      "has_emerald": "2025-09-11 02:34:44 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_boots": {
-    "criteria": {
-      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_green_chestplate": {
-    "criteria": {
-      "has_emerald": "2025-09-11 02:34:44 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
     },
     "done": true
   },
@@ -5730,33 +5634,21 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_helmet2": {
+  "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
-      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+      "has_emerald": "2025-09-11 02:34:44 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+  "knightquest:recipes/misc/husk_helmet2": {
     "criteria": {
-      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
+      "has_emerald": "2025-09-11 02:34:44 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_chestplate": {
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
     "criteria": {
-      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "knightquest:knightquest": {
-    "criteria": {
-      "requirement": "2025-09-11 02:53:16 +0000"
+      "has_emerald": "2025-09-11 02:34:44 +0000"
     },
     "done": true
   },
@@ -5772,9 +5664,111 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-11 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-09-11 02:46:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-09-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-09-11 02:53:16 +0000"
     },
     "done": true
   },
