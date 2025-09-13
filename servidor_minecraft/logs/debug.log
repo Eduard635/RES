@@ -17763,3 +17763,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [13Sep2025 01:40:07.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Sep2025 01:40:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vindicator
 [13Sep2025 01:40:07.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2572, y:75, z:531, dim:minecraft:overworld]
+[13Sep2025 01:40:16.365] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[13Sep2025 01:40:16.365] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[13Sep2025 01:40:16.367] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Sep2025 01:40:16.568] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[13Sep2025 01:40:16.568] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[13Sep2025 01:40:18.146] [IO-Worker-462/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-469
+[13Sep2025 01:40:18.185] [IO-Worker-469/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-470
+[13Sep2025 01:40:25.874] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
+[13Sep2025 01:40:28.506] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:42:20.954] [IO-Worker-468/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-471
+[13Sep2025 01:42:25.339] [IO-Worker-468/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-472
+[13Sep2025 01:42:25.427] [IO-Worker-472/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-473
+[13Sep2025 01:43:47.909] [IO-Worker-467/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-474
+[13Sep2025 01:43:53.952] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:44:18.229] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:44:21.306] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[13Sep2025 01:44:21.307] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[13Sep2025 01:44:21.307] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[13Sep2025 01:44:21.308] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[13Sep2025 01:45:07.504] [IO-Worker-468/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-475
+[13Sep2025 01:45:07.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:45:07.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:45:07.749] [IO-Worker-468/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-476
+[13Sep2025 01:45:28.560] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[13Sep2025 01:46:59.808] [IO-Worker-475/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-477
+[13Sep2025 01:47:55.157] [IO-Worker-472/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-478
+[13Sep2025 01:48:06.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13Sep2025 01:48:46.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13Sep2025 01:49:10.958] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[13Sep2025 01:49:15.103] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[13Sep2025 01:49:15.106] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[13Sep2025 01:49:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Vex
+[13Sep2025 01:49:21.122] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1FANT4SMA was created at position [x:-2562, y:94, z:514, dim:minecraft:overworld]
+[13Sep2025 01:49:22.423] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[13Sep2025 01:49:22.424] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[13Sep2025 01:49:22.425] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Sep2025 01:49:22.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[13Sep2025 01:49:22.563] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[13Sep2025 01:49:22.756] [IO-Worker-472/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-479
+[13Sep2025 01:49:32.427] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[13Sep2025 01:50:00.818] [IO-Worker-478/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-480
+[13Sep2025 01:50:07.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 01:50:07.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 01:50:08.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[13Sep2025 01:50:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[13Sep2025 01:50:08.104] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[13Sep2025 01:50:28.598] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
