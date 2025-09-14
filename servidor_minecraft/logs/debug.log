@@ -14931,3 +14931,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 21:52:04.717] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
 [14Sep2025 21:52:05.254] [Server thread/DEBUG] [mixin/]: Mixing EntityTypeTagsInvoker from echoplus.mixins.json into net.minecraft.tags.EntityTypeTags
 [14Sep2025 21:52:05.254] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method of(Ljava/lang/String;)Lnet/minecraft/tags/TagKey; to of_$md$5be8ab$0 in echoplus.mixins.json:EntityTypeTagsInvoker
+[14Sep2025 21:55:32.312] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[14Sep2025 21:55:32.373] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[14Sep2025 21:55:33.006] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 21:55:33.014] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 21:55:33.020] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 21:55:35.840] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[14Sep2025 21:55:38.560] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[14Sep2025 21:55:38.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 21:55:38.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 21:55:56.260] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 21:55:59.859] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/entity/Mob$Anonymous$713bbe0cd4154f9bae34c78ae5064296 (originally immersive_armors/mixin/MobEntityMixin$1)
+[14Sep2025 21:56:09.042] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 21:56:09.043] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 21:56:55.160] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 21:57:30.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 300 experience points to Daniel_ANT_25]
+[14Sep2025 21:57:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 200 experience points to Daniel_ANT_25]
+[14Sep2025 21:57:57.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 200 experience points to Daniel_ANT_25]
+[14Sep2025 21:58:06.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 200 experience points to Daniel_ANT_25]
+[14Sep2025 21:58:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 10 experience points to Daniel_ANT_25]
+[14Sep2025 21:58:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 10 experience points to Daniel_ANT_25]
+[14Sep2025 21:58:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 1 experience points to Daniel_ANT_25]
+[14Sep2025 21:58:37.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 1 experience points to Daniel_ANT_25]
+[14Sep2025 21:59:31.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Creative Mode]
+[14Sep2025 22:00:04.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Survival Mode]
+[14Sep2025 22:00:38.553] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[14Sep2025 22:00:38.554] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[14Sep2025 22:00:38.556] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[14Sep2025 22:00:38.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 22:00:38.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:01:55.162] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
