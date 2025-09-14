@@ -6121,6 +6121,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_helmet": {
     "criteria": {
       "has_sandstone": "2025-09-13 02:30:28 +0000"
@@ -6139,9 +6217,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_leggings": {
     "criteria": {
       "has_sandstone": "2025-09-13 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
     },
     "done": true
   },
@@ -6157,9 +6253,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2025-09-13 03:05:07 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_ender_pearl": "2025-09-13 02:22:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
     },
     "done": true
   },
@@ -6193,6 +6301,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_boots": {
     "criteria": {
       "has_ender_pearl": "2025-09-13 02:22:51 +0000"
@@ -6205,6 +6319,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_ender_pearl": "2025-09-13 02:22:51 +0000"
@@ -6214,6 +6334,12 @@
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_sandstone": "2025-09-13 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
     },
     "done": true
   },
