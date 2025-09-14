@@ -2407,3 +2407,11 @@ java.lang.Exception: null
 	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
 	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
 [14Sep2025 23:10:38.678] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[14Sep2025 23:24:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Creative Mode]
+[14Sep2025 23:25:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Survival Mode]
+[14Sep2025 23:27:25.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8999, l='ServerLevel[world]', x=-2566.26, y=74.00, z=268.41] died, message: 'Villager was slain by Husk'
+[14Sep2025 23:27:36.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8956, l='ServerLevel[world]', x=-2569.70, y=74.00, z=267.70] died, message: 'Villager was slain by Zombie Villager'
+[14Sep2025 23:28:10.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/8957, l='ServerLevel[world]', x=-2564.49, y=75.05, z=268.49] died, message: 'Cleric was slain by Zombie Villager'
+[14Sep2025 23:35:52.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[14Sep2025 23:35:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[14Sep2025 23:35:52.514] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded

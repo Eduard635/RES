@@ -15333,3 +15333,88 @@ java.lang.Exception: null
 [14Sep2025 23:15:38.543] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
 [14Sep2025 23:15:38.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Sep2025 23:15:38.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:16:34.023] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:16:55.659] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:17:05.033] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:17:06.370] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[14Sep2025 23:18:19.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:18:19.260] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:19:01.708] [Worker-Main-115/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-115 shutdown
+[14Sep2025 23:19:01.708] [Worker-Main-114/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-114 shutdown
+[14Sep2025 23:19:33.336] [Worker-Main-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-119
+[14Sep2025 23:19:33.336] [Worker-Main-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-120
+[14Sep2025 23:20:38.544] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[14Sep2025 23:20:38.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:20:38.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:21:47.982] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:21:55.709] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:22:06.873] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:22:41.908] [Worker-Main-116/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-116 shutdown
+[14Sep2025 23:22:59.707] [Worker-Main-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-122
+[14Sep2025 23:23:59.710] [Worker-Main-122/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-122 shutdown
+[14Sep2025 23:24:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Creative Mode]
+[14Sep2025 23:24:59.710] [Worker-Main-119/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-119 shutdown
+[14Sep2025 23:25:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Survival Mode]
+[14Sep2025 23:25:13.997] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 23:25:13.999] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 23:25:13.999] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[14Sep2025 23:25:14.000] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[14Sep2025 23:25:38.124] [Worker-Main-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-123
+[14Sep2025 23:25:38.125] [Worker-Main-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-124
+[14Sep2025 23:25:38.549] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[14Sep2025 23:25:38.549] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[14Sep2025 23:25:38.550] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[14Sep2025 23:25:38.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:25:38.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:26:31.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_warn_temple
+[14Sep2025 23:26:31.622] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_quad
+[14Sep2025 23:26:31.639] [Worker-Main-120/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[14Sep2025 23:26:31.649] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[14Sep2025 23:26:31.667] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[14Sep2025 23:26:31.677] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[14Sep2025 23:26:31.715] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[14Sep2025 23:26:31.716] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[14Sep2025 23:26:31.723] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-130
+[14Sep2025 23:26:31.729] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-131
+[14Sep2025 23:26:31.758] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-132
+[14Sep2025 23:26:31.772] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-133
+[14Sep2025 23:26:31.814] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-134
+[14Sep2025 23:26:32.933] [Worker-Main-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-135
+[14Sep2025 23:26:32.933] [Worker-Main-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-136
+[14Sep2025 23:26:39.612] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[14Sep2025 23:26:39.612] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Sep2025 23:26:55.714] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:27:09.463] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:27:25.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8999, l='ServerLevel[world]', x=-2566.26, y=74.00, z=268.41] died, message: 'Villager was slain by Husk'
+[14Sep2025 23:27:36.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8956, l='ServerLevel[world]', x=-2569.70, y=74.00, z=267.70] died, message: 'Villager was slain by Zombie Villager'
+[14Sep2025 23:28:10.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/8957, l='ServerLevel[world]', x=-2564.49, y=75.05, z=268.49] died, message: 'Cleric was slain by Zombie Villager'
+[14Sep2025 23:28:45.545] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:29:09.063] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[14Sep2025 23:29:09.097] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[14Sep2025 23:29:14.544] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[14Sep2025 23:29:14.544] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[14Sep2025 23:29:14.544] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[14Sep2025 23:29:14.544] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[14Sep2025 23:29:14.544] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[14Sep2025 23:30:38.548] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[14Sep2025 23:30:38.548] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[14Sep2025 23:30:38.548] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[14Sep2025 23:30:38.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:30:38.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:30:45.560] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-124 shutdown
+[14Sep2025 23:31:45.560] [Worker-Main-132/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-132 shutdown
+[14Sep2025 23:31:55.759] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:32:03.009] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[14Sep2025 23:32:03.009] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[14Sep2025 23:32:45.560] [Worker-Main-131/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-131 shutdown
+[14Sep2025 23:33:35.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:33:45.560] [Worker-Main-133/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-133 shutdown
+[14Sep2025 23:33:54.003] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:34:45.560] [Worker-Main-130/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-130 shutdown
+[14Sep2025 23:35:38.554] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[14Sep2025 23:35:38.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:35:38.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:35:45.560] [Worker-Main-136/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-136 shutdown
+[14Sep2025 23:35:52.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[14Sep2025 23:35:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[14Sep2025 23:35:52.514] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
