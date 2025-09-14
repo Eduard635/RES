@@ -14993,3 +14993,95 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 22:14:18.563] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
 [14Sep2025 22:14:18.564] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
 [14Sep2025 22:14:18.564] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 22:15:03.600] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 22:15:03.610] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 22:15:18.023] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[14Sep2025 22:15:18.761] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[14Sep2025 22:15:18.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[14Sep2025 22:15:19.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight1
+[14Sep2025 22:15:19.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend1
+[14Sep2025 22:15:19.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/bend2
+[14Sep2025 22:15:19.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight5
+[14Sep2025 22:15:19.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight2
+[14Sep2025 22:15:19.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/butcher1
+[14Sep2025 22:15:19.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic6
+[14Sep2025 22:15:19.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight6
+[14Sep2025 22:15:19.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight3
+[14Sep2025 22:15:19.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/shepherd1
+[14Sep2025 22:15:19.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term2
+[14Sep2025 22:15:19.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/chapel1
+[14Sep2025 22:15:19.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/inter1
+[14Sep2025 22:15:19.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t1
+[14Sep2025 22:15:19.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term4
+[14Sep2025 22:15:19.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/straight4
+[14Sep2025 22:15:19.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/armorsmith1
+[14Sep2025 22:15:19.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic_big1
+[14Sep2025 22:15:19.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/roads/t2
+[14Sep2025 22:15:19.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman2
+[14Sep2025 22:15:19.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term3
+[14Sep2025 22:15:19.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic5
+[14Sep2025 22:15:19.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/cartographer2
+[14Sep2025 22:15:19.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic2
+[14Sep2025 22:15:19.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/terminators/term1
+[14Sep2025 22:15:19.457] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[14Sep2025 22:15:19.502] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[14Sep2025 22:15:19.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[14Sep2025 22:15:19.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[14Sep2025 22:15:19.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[14Sep2025 22:15:19.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[14Sep2025 22:15:19.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[14Sep2025 22:15:19.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[14Sep2025 22:15:25.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[14Sep2025 22:15:38.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 22:15:38.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:16:27.975] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@7c9f9408 for service interface com.blamejared.clumps.platform.IEventHelper
+[14Sep2025 22:16:27.976] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@23ba1efd for service interface com.blamejared.clumps.platform.IPlatformHelper
+[14Sep2025 22:16:39.512] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[14Sep2025 22:16:55.219] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 22:17:12.755] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[14Sep2025 22:17:12.755] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[14Sep2025 22:17:12.755] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[14Sep2025 22:17:12.756] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[14Sep2025 22:17:12.756] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[14Sep2025 22:17:12.949] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[14Sep2025 22:17:14.655] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[14Sep2025 22:17:14.656] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[14Sep2025 22:18:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 8000 experience points to Daniel_ANT_25]
+[14Sep2025 22:18:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 800 experience points to Daniel_ANT_25]
+[14Sep2025 22:18:52.509] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[14Sep2025 22:18:57.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 2000 experience points to Daniel_ANT_25]
+[14Sep2025 22:19:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 8000 experience points to Daniel_ANT_25]
+[14Sep2025 22:19:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 8000 experience points to Daniel_ANT_25]
+[14Sep2025 22:19:52.509] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[14Sep2025 22:19:56.562] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[14Sep2025 22:19:56.563] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[14Sep2025 22:20:08.232] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-45
+[14Sep2025 22:20:08.232] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-46
+[14Sep2025 22:20:09.665] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[14Sep2025 22:20:24.228] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[14Sep2025 22:20:24.229] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[14Sep2025 22:20:24.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[14Sep2025 22:20:24.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[14Sep2025 22:20:24.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[14Sep2025 22:20:24.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[14Sep2025 22:20:24.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[14Sep2025 22:20:27.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/barn
+[14Sep2025 22:20:28.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[14Sep2025 22:20:30.178] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 22:20:30.179] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 22:20:30.182] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 22:20:30.182] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:20:38.557] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[14Sep2025 22:20:38.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 22:20:38.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:20:49.357] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2c23434e-26f1-42a9-9749-c5a16f1e88b4)
+[14Sep2025 22:20:49.358] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[14Sep2025 22:20:49.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[14Sep2025 22:20:50.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[14Sep2025 22:20:50.567] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:20:50.569] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:21:55.262] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 22:22:32.513] [Worker-Main-46/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-46 shutdown
+[14Sep2025 22:23:32.513] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[14Sep2025 22:24:02.609] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-51
+[14Sep2025 22:24:02.610] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-52
