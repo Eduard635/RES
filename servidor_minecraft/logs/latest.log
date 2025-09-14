@@ -2397,3 +2397,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 22:30:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 8000 experience points to Daniel_ANT_25]
 [14Sep2025 22:30:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 20000 experience points to Daniel_ANT_25]
 [14Sep2025 22:31:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 50000 experience points to Daniel_ANT_25]
+[14Sep2025 22:41:51.802] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3091ms or 61 ticks
