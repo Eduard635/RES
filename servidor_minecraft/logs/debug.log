@@ -15243,3 +15243,93 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 22:55:38.539] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
 [14Sep2025 22:55:38.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Sep2025 22:55:38.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:55:58.657] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-95
+[14Sep2025 22:55:58.657] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-96
+[14Sep2025 22:56:55.509] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 22:56:58.660] [Worker-Main-96/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-96 shutdown
+[14Sep2025 22:57:07.855] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-97
+[14Sep2025 22:57:10.418] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[14Sep2025 22:57:12.159] [Timer-0/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$bnm000$OnaddEntity(ServerLevel.java:1656) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:815) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.acetheeldritchking.cataclysm_spellbooks.spells.fire.CometShowerSpell$1.run(CometShowerSpell.java:73) ~[cataclysm_spellbooks-1.2.2-1.20.1-all.jar%23327!/:1.2.2-1.20.1]
+	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
+	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
+[14Sep2025 22:57:35.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7abeb907-ad6a-4c89-8b5a-0026025fc219
+[14Sep2025 22:57:35.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5356a110-acde-4cee-896d-38100aac12eb
+[14Sep2025 22:57:35.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 093299d0-6311-4a96-a37d-fcbfce433b85
+[14Sep2025 22:59:22.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:23.059] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:23.310] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:23.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:23.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:24.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:24.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:24.560] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:24.810] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:25.058] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:25.308] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:25.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:25.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:26.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 22:59:26.309] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[14Sep2025 23:00:38.540] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[14Sep2025 23:00:38.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:00:38.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:01:05.361] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 093299d0-6311-4a96-a37d-fcbfce433b85
+[14Sep2025 23:01:05.361] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5356a110-acde-4cee-896d-38100aac12eb
+[14Sep2025 23:01:05.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7abeb907-ad6a-4c89-8b5a-0026025fc219
+[14Sep2025 23:01:16.574] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:01:16.575] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:01:55.512] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:03:51.513] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:05:38.552] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[14Sep2025 23:05:38.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:05:38.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:06:20.784] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:06:23.030] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:06:55.562] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:07:06.864] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-79 shutdown
+[14Sep2025 23:07:37.461] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[14Sep2025 23:07:37.462] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[14Sep2025 23:07:56.544] [Worker-Main-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-103
+[14Sep2025 23:09:07.109] [Worker-Main-97/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-97 shutdown
+[14Sep2025 23:09:13.877] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 23:09:13.878] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 23:09:13.878] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[14Sep2025 23:09:13.879] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[14Sep2025 23:10:07.109] [Worker-Main-95/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-95 shutdown
+[14Sep2025 23:10:30.711] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[14Sep2025 23:10:30.711] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[14Sep2025 23:10:38.548] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[14Sep2025 23:10:38.548] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[14Sep2025 23:10:38.548] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[14Sep2025 23:10:38.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:10:38.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 23:10:38.678] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[14Sep2025 23:10:40.989] [Worker-Main-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-109
+[14Sep2025 23:10:40.990] [Worker-Main-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-110
+[14Sep2025 23:11:20.898] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 23:11:23.599] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[14Sep2025 23:11:23.599] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[14Sep2025 23:11:23.600] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[14Sep2025 23:11:23.600] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[14Sep2025 23:11:23.600] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[14Sep2025 23:11:23.600] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[14Sep2025 23:11:23.601] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 23:11:55.611] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 23:12:11.008] [Worker-Main-110/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-110 shutdown
+[14Sep2025 23:13:11.008] [Worker-Main-103/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-103 shutdown
+[14Sep2025 23:13:11.008] [Worker-Main-109/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-109 shutdown
+[14Sep2025 23:13:39.661] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[14Sep2025 23:13:39.662] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[14Sep2025 23:13:41.546] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-113
+[14Sep2025 23:13:41.547] [Worker-Main-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-114
+[14Sep2025 23:13:41.547] [Worker-Main-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-115
+[14Sep2025 23:14:44.459] [Worker-Main-113/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-113 shutdown
+[14Sep2025 23:15:05.708] [Worker-Main-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-116
+[14Sep2025 23:15:38.543] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[14Sep2025 23:15:38.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 23:15:38.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2398,3 +2398,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 22:30:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 20000 experience points to Daniel_ANT_25]
 [14Sep2025 22:31:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 50000 experience points to Daniel_ANT_25]
 [14Sep2025 22:41:51.802] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3091ms or 61 ticks
+[14Sep2025 22:57:12.159] [Timer-0/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$bnm000$OnaddEntity(ServerLevel.java:1656) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:815) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.acetheeldritchking.cataclysm_spellbooks.spells.fire.CometShowerSpell$1.run(CometShowerSpell.java:73) ~[cataclysm_spellbooks-1.2.2-1.20.1-all.jar%23327!/:1.2.2-1.20.1]
+	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
+	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
+[14Sep2025 23:10:38.678] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
