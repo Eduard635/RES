@@ -2380,3 +2380,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 21:58:37.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 1 experience points to Daniel_ANT_25]
 [14Sep2025 21:59:31.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Creative Mode]
 [14Sep2025 22:00:04.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Set own game mode to Survival Mode]
+[14Sep2025 22:05:38.717] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3052ms or 61 ticks
+[14Sep2025 22:06:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 40000 experience points to Daniel_ANT_25]
+[14Sep2025 22:06:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 40000 experience points to Daniel_ANT_25]
+[14Sep2025 22:06:42.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 40000 experience points to Daniel_ANT_25]
+[14Sep2025 22:06:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 400000 experience points to Daniel_ANT_25]
+[14Sep2025 22:12:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 80000 experience points to Daniel_ANT_25]
+[14Sep2025 22:12:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 80000 experience points to Daniel_ANT_25]
