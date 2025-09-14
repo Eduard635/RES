@@ -15085,3 +15085,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [14Sep2025 22:23:32.513] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
 [14Sep2025 22:24:02.609] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-51
 [14Sep2025 22:24:02.610] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-52
+[14Sep2025 22:25:38.553] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[14Sep2025 22:25:38.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 22:25:38.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:25:38.682] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3171ms or 63 ticks
+[14Sep2025 22:26:34.164] [Worker-Main-51/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-51 shutdown
+[14Sep2025 22:26:50.128] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 22:26:50.128] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 22:26:55.314] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 22:27:12.006] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:27:12.013] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:27:12.536] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-54
+[14Sep2025 22:27:18.455] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 22:28:18.409] [Worker-Main-54/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-54 shutdown
+[14Sep2025 22:29:01.910] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[14Sep2025 22:29:01.911] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[14Sep2025 22:29:18.409] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-45 shutdown
+[14Sep2025 22:30:18.409] [Worker-Main-52/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-52 shutdown
+[14Sep2025 22:30:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 800 experience points to Daniel_ANT_25]
+[14Sep2025 22:30:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 8000 experience points to Daniel_ANT_25]
+[14Sep2025 22:30:38.539] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[14Sep2025 22:30:38.539] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[14Sep2025 22:30:38.540] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[14Sep2025 22:30:38.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Sep2025 22:30:38.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Sep2025 22:30:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 20000 experience points to Daniel_ANT_25]
+[14Sep2025 22:31:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Gave 50000 experience points to Daniel_ANT_25]
+[14Sep2025 22:31:01.958] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-60
+[14Sep2025 22:31:01.959] [Worker-Main-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-61
+[14Sep2025 22:31:01.959] [Worker-Main-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-62
+[14Sep2025 22:31:49.559] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[14Sep2025 22:31:49.611] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[14Sep2025 22:31:55.359] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[14Sep2025 22:32:02.768] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[14Sep2025 22:32:05.032] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[14Sep2025 22:32:05.032] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[14Sep2025 22:32:13.306] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[14Sep2025 22:32:13.306] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[14Sep2025 22:32:13.307] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[14Sep2025 22:32:13.307] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[14Sep2025 22:32:13.307] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[14Sep2025 22:32:13.838] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[14Sep2025 22:32:34.172] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[14Sep2025 22:32:34.174] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[14Sep2025 22:32:48.389] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[14Sep2025 22:32:48.389] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[14Sep2025 22:33:24.245] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[14Sep2025 22:33:24.245] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
