@@ -9552,6 +9552,18 @@
     },
     "done": true
   },
+  "sons_of_sins:ash_diamond": {
+    "criteria": {
+      "ash_diamond_0": "2025-09-15 03:14:00 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-09-15 03:16:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-09-15 02:24:30 +0000"
@@ -9561,6 +9573,12 @@
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
       "has_feather": "2025-09-15 01:35:18 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:freddys_favorite_alloy": {
+    "criteria": {
+      "freddys_favorite_alloy_0": "2025-09-15 03:14:06 +0000"
     },
     "done": true
   },

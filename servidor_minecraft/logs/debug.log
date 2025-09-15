@@ -30188,3 +30188,28 @@ lootedChests: 8
 [15Sep2025 03:09:21.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Sep2025 03:09:21.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Sep2025 03:09:24.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 03:10:42.165] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[15Sep2025 03:10:42.166] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:10:42.215] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:10:42.366] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:11:16.467] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[15Sep2025 03:13:58.015] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:14:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [An Ash Diamond]
+[15Sep2025 03:14:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Freddy's Favorite Alloy]
+[15Sep2025 03:14:21.200] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[15Sep2025 03:14:21.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:14:21.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:14:24.069] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 03:14:44.950] [Worker-Main-104/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-104 shutdown
+[15Sep2025 03:15:44.950] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-101 shutdown
+[15Sep2025 03:15:44.950] [Worker-Main-103/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-103 shutdown
+[15Sep2025 03:16:32.835] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[15Sep2025 03:16:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Lazarus Pit]
+[15Sep2025 03:19:18.813] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-124
+[15Sep2025 03:19:18.813] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-125
+[15Sep2025 03:19:18.813] [Worker-Main-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-126
+[15Sep2025 03:19:21.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:19:21.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:19:21.417] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[15Sep2025 03:19:24.115] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 03:19:28.543] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
