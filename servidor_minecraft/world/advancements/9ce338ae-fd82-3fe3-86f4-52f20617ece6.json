@@ -6121,171 +6121,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-13 03:12:08 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/witch_helmet": {
-    "criteria": {
-      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_helmet": {
-    "criteria": {
-      "has_sandstone": "2025-09-13 02:30:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/kukri_dagger": {
-    "criteria": {
-      "has_iron_ingot": "2025-09-13 02:16:55 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/kukri": {
-    "criteria": {
-      "has_iron_ingot": "2025-09-13 02:16:55 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_boots": {
-    "criteria": {
-      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_leggings": {
-    "criteria": {
-      "has_sandstone": "2025-09-13 02:30:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_helmet": {
-    "criteria": {
-      "has_feather": "2025-09-13 03:10:31 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_chestplate": {
-    "criteria": {
-      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_helmet3": {
-    "criteria": {
-      "has_sandstone": "2025-09-13 02:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-09-13 02:22:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/steel_sword": {
-    "criteria": {
-      "has_charcoal": "2025-09-13 03:05:07 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_helmet": {
-    "criteria": {
-      "has_ender_pearl": "2025-09-13 02:22:51 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_leggings": {
-    "criteria": {
-      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
       "has_totem_of_undying": "2025-09-13 02:10:06 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_boots": {
-    "criteria": {
-      "has_sandstone": "2025-09-13 02:30:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_leggings": {
-    "criteria": {
-      "has_ender_pearl": "2025-09-13 02:22:51 +0000"
     },
     "done": true
   },
@@ -6301,9 +6139,39 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silver_leggings": {
+  "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
-      "has_feather": "2025-09-13 03:10:31 +0000"
+      "has_totem_of_undying": "2025-09-13 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-13 02:16:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-13 02:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-09-13 02:22:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-13 02:22:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-13 02:22:51 +0000"
     },
     "done": true
   },
@@ -6313,21 +6181,33 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/evoker_leggings": {
-    "criteria": {
-      "has_totem_of_undying": "2025-09-13 02:10:06 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_chestplate": {
-    "criteria": {
-      "has_feather": "2025-09-13 03:10:31 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_ender_pearl": "2025-09-13 02:22:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_sandstone": "2025-09-13 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_sandstone": "2025-09-13 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_sandstone": "2025-09-13 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_sandstone": "2025-09-13 02:30:28 +0000"
     },
     "done": true
   },
@@ -6337,9 +6217,153 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2025-09-13 03:05:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_glass_bottle": "2025-09-13 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silver_boots": {
     "criteria": {
       "has_feather": "2025-09-13 03:10:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-15 01:44:10 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-09-15 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-09-15 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-09-15 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_coal": "2025-09-15 01:41:33 +0000"
     },
     "done": true
   },
