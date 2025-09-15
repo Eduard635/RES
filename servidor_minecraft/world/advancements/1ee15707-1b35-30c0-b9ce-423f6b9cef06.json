@@ -768,6 +768,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2025-09-15 04:04:43 +0000",
       "dirt": "2025-07-27 18:17:48 +0000",
       "soul_soil": "2025-08-03 23:39:50 +0000",
       "earthen_clay": "2025-09-10 23:40:06 +0000"
@@ -9522,6 +9523,12 @@
     },
     "done": true
   },
+  "sons_of_sins:original_sin": {
+    "criteria": {
+      "original_sin_0": "2025-09-15 04:28:07 +0000"
+    },
+    "done": true
+  },
   "sons_of_sins:a_heal_stick": {
     "criteria": {
       "a_heal_stick_0": "2025-09-15 03:38:00 +0000"
@@ -9531,6 +9538,12 @@
   "sons_of_sins:its_morbin_time": {
     "criteria": {
       "its_morbin_time_0": "2025-09-15 01:36:09 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:half_blood": {
+    "criteria": {
+      "half_blood_0": "2025-09-15 04:28:07 +0000"
     },
     "done": true
   },
