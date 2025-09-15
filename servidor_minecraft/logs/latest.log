@@ -2990,3 +2990,7 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [15Sep2025 04:20:00.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35532, l='ServerLevel[world]', x=-2825.50, y=80.00, z=1170.77] died, message: 'Librarian was killed by magic'
 [15Sep2025 04:28:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [It's...Alive?]
 [15Sep2025 04:28:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has completed the challenge [Half-Blood]
+[15Sep2025 04:33:10.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[15Sep2025 04:33:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[15Sep2025 04:33:10.265] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[15Sep2025 04:39:28.999] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3127ms or 62 ticks
