@@ -30258,3 +30258,1886 @@ lootedChests: 8
 [15Sep2025 03:29:28.615] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
 [15Sep2025 03:29:42.977] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
 [15Sep2025 03:30:21.707] [Worker-Main-130/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-130 shutdown
+[15Sep2025 03:30:27.815] [Worker-Main-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-140
+[15Sep2025 03:31:21.364] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[15Sep2025 03:34:19.514] [Worker-Main-128/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-128 shutdown
+[15Sep2025 03:34:19.514] [Worker-Main-140/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-140 shutdown
+[15Sep2025 03:34:21.201] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[15Sep2025 03:34:21.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:34:21.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:34:24.215] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 03:34:28.665] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:35:19.514] [Worker-Main-133/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-133 shutdown
+[15Sep2025 03:35:28.363] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-143
+[15Sep2025 03:35:28.364] [Worker-Main-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-144
+[15Sep2025 03:35:28.364] [Worker-Main-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-145
+[15Sep2025 03:35:51.667] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[15Sep2025 03:35:51.673] [IO-Worker-146/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[15Sep2025 03:35:51.705] [Worker-Main-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-148
+[15Sep2025 03:35:51.709] [Worker-Main-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-149
+[15Sep2025 03:35:51.728] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[15Sep2025 03:35:51.728] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[15Sep2025 03:35:51.827] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=660, y=60, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.827] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=660, y=61, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.827] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=660, y=62, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.827] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=660, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=60, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=61, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=62, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=661, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.828] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=662, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=662, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=662, y=54, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=662, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=662, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=54, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.829] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=55, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=54, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=55, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.830] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=665, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=665, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=665, y=54, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=665, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=665, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=52, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.831] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=53, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=60, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=61, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=62, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=666, y=64, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=667, y=60, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=667, y=61, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.832] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=667, y=62, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.833] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=667, y=63, z=3536}, status: minecraft:surface
+[15Sep2025 03:35:51.957] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=645, y=56, z=3535}, status: minecraft:surface
+[15Sep2025 03:35:51.957] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=647, y=64, z=3535}, status: minecraft:surface
+[15Sep2025 03:35:51.958] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=648, y=64, z=3535}, status: minecraft:surface
+[15Sep2025 03:35:51.958] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=650, y=56, z=3535}, status: minecraft:surface
+[15Sep2025 03:35:51.958] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3538}, status: minecraft:surface
+[15Sep2025 03:35:51.958] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3541}, status: minecraft:surface
+[15Sep2025 03:35:51.959] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3542}, status: minecraft:surface
+[15Sep2025 03:35:51.959] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3545}, status: minecraft:surface
+[15Sep2025 03:35:51.959] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3546}, status: minecraft:surface
+[15Sep2025 03:35:51.959] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=656, y=56, z=3549}, status: minecraft:surface
+[15Sep2025 03:35:52.013] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=663, y=64, z=3551}, status: minecraft:surface
+[15Sep2025 03:35:52.013] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 221], pos: BlockPos{x=664, y=64, z=3551}, status: minecraft:surface
+[15Sep2025 03:35:52.083] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 221], pos: BlockPos{x=645, y=56, z=3551}, status: minecraft:surface
+[15Sep2025 03:35:52.083] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 221], pos: BlockPos{x=647, y=64, z=3551}, status: minecraft:surface
+[15Sep2025 03:35:52.083] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 221], pos: BlockPos{x=648, y=64, z=3551}, status: minecraft:surface
+[15Sep2025 03:35:52.084] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 222], pos: BlockPos{x=656, y=56, z=3556}, status: minecraft:surface
+[15Sep2025 03:35:52.084] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 222], pos: BlockPos{x=656, y=56, z=3562}, status: minecraft:surface
+[15Sep2025 03:35:52.084] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 222], pos: BlockPos{x=656, y=64, z=3559}, status: minecraft:surface
+[15Sep2025 03:35:52.084] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 222], pos: BlockPos{x=656, y=64, z=3560}, status: minecraft:surface
+[15Sep2025 03:35:52.130] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=645, y=56, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.130] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=647, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.130] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=648, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.130] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 220], pos: BlockPos{x=650, y=56, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.166] [Worker-Main-144/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-152
+[15Sep2025 03:35:52.250] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=57, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=58, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=625, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.251] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=60, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=626, y=67, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=57, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.252] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=58, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=627, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=52, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.253] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=57, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=58, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=629, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=630, y=52, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=630, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=630, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=630, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=630, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=631, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=631, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.254] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=631, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=632, y=52, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=632, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=632, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=632, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=633, y=52, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=633, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=633, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=633, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=633, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=52, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.255] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=57, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=58, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=634, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=57, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=58, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.256] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=636, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=60, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.257] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=637, y=67, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=53, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=54, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=55, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=61, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=62, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.258] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=63, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.259] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=64, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.259] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=65, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.259] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 220], pos: BlockPos{x=638, y=66, z=3520}, status: minecraft:surface
+[15Sep2025 03:35:52.259] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3506}, status: minecraft:surface
+[15Sep2025 03:35:52.259] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3509}, status: minecraft:surface
+[15Sep2025 03:35:52.260] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3510}, status: minecraft:surface
+[15Sep2025 03:35:52.260] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3513}, status: minecraft:surface
+[15Sep2025 03:35:52.260] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3514}, status: minecraft:surface
+[15Sep2025 03:35:52.260] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=640, y=56, z=3517}, status: minecraft:surface
+[15Sep2025 03:35:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 664.500000, 55.000000, 3544.500000]
+[15Sep2025 03:35:52.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3842ms or 76 ticks
+[15Sep2025 03:35:52.566] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=647, y=64, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.566] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=648, y=64, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.566] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 219], pos: BlockPos{x=650, y=56, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.664] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[15Sep2025 03:35:52.664] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[15Sep2025 03:35:52.727] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=629, y=56, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.728] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=630, y=56, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.728] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=633, y=56, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.728] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=634, y=56, z=3504}, status: minecraft:surface
+[15Sep2025 03:35:52.730] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 218], pos: BlockPos{x=640, y=64, z=3495}, status: minecraft:surface
+[15Sep2025 03:35:52.731] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [40, 218], pos: BlockPos{x=640, y=64, z=3496}, status: minecraft:surface
+[15Sep2025 03:35:52.750] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3490}, status: minecraft:surface
+[15Sep2025 03:35:52.751] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3493}, status: minecraft:surface
+[15Sep2025 03:35:52.751] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3494}, status: minecraft:surface
+[15Sep2025 03:35:52.751] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3497}, status: minecraft:surface
+[15Sep2025 03:35:52.751] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3498}, status: minecraft:surface
+[15Sep2025 03:35:52.752] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=624, y=56, z=3501}, status: minecraft:surface
+[15Sep2025 03:35:52.761] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=615, y=64, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.761] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=616, y=64, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.762] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=618, y=56, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.762] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=620, y=65, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.762] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=620, y=66, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.762] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=620, y=67, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.762] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=620, y=68, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.763] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=621, y=65, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.763] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=621, y=66, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.763] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=621, y=67, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.763] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=621, y=68, z=3503}, status: minecraft:surface
+[15Sep2025 03:35:52.764] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=624, y=64, z=3511}, status: minecraft:surface
+[15Sep2025 03:35:52.764] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 219], pos: BlockPos{x=624, y=64, z=3512}, status: minecraft:surface
+[15Sep2025 03:35:52.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[15Sep2025 03:35:52.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[15Sep2025 03:35:52.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 4209.07913418854,-253.0,1184.4371851345686
+[15Sep2025 03:35:53.011] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=629, y=56, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.011] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=631, y=64, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.012] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 218], pos: BlockPos{x=632, y=64, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.017] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (0/85)
+packCommandBlockCount: (0/2)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 0
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 03:35:53.061] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=658, y=-55, z=3538} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.061] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=658, y=-55, z=3538}
+[15Sep2025 03:35:53.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=660, y=-56, z=3540} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=660, y=-56, z=3540}
+[15Sep2025 03:35:53.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=657, y=64, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=657, y=64, z=3541}
+[15Sep2025 03:35:53.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=662, y=-7, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=662, y=-7, z=3541}
+[15Sep2025 03:35:53.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=658, y=-7, z=3544} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=658, y=-7, z=3544}
+[15Sep2025 03:35:53.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=666, y=-5, z=3538} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=666, y=-5, z=3538}
+[15Sep2025 03:35:53.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=662, y=-7, z=3546} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=662, y=-7, z=3546}
+[15Sep2025 03:35:53.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=661, y=-5, z=3549} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=661, y=-5, z=3549}
+[15Sep2025 03:35:53.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=669, y=-5, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=669, y=-5, z=3541}
+[15Sep2025 03:35:53.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=666, y=-7, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=666, y=-7, z=3541}
+[15Sep2025 03:35:53.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=658, y=-7, z=3546} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=658, y=-7, z=3546}
+[15Sep2025 03:35:53.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=664, y=-7, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=664, y=-7, z=3541}
+[15Sep2025 03:35:53.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=669, y=-5, z=3546} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=669, y=-5, z=3546}
+[15Sep2025 03:35:53.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=664, y=-7, z=3546} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=664, y=-7, z=3546}
+[15Sep2025 03:35:53.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=666, y=-7, z=3546} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=666, y=-7, z=3546}
+[15Sep2025 03:35:53.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=665, y=-5, z=3549} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.070] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=665, y=-5, z=3549}
+[15Sep2025 03:35:53.070] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=668, y=-55, z=3548} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.070] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=668, y=-55, z=3548}
+[15Sep2025 03:35:53.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=658, y=-7, z=3541} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=658, y=-7, z=3541}
+[15Sep2025 03:35:53.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=662, y=-5, z=3538} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:53.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=662, y=-5, z=3538}
+[15Sep2025 03:35:53.608] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=615, y=64, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.609] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=616, y=64, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.609] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=618, y=56, z=3488}, status: minecraft:surface
+[15Sep2025 03:35:53.610] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=624, y=56, z=3474}, status: minecraft:surface
+[15Sep2025 03:35:53.610] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=624, y=56, z=3478}, status: minecraft:surface
+[15Sep2025 03:35:53.610] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=624, y=56, z=3481}, status: minecraft:surface
+[15Sep2025 03:35:53.625] [Worker-Main-144/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-155
+[15Sep2025 03:35:53.625] [Worker-Main-149/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-156
+[15Sep2025 03:35:54.234] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=608, y=56, z=3492}, status: minecraft:surface
+[15Sep2025 03:35:54.234] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=608, y=56, z=3499}, status: minecraft:surface
+[15Sep2025 03:35:54.235] [Worker-Main-143/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 218], pos: BlockPos{x=608, y=64, z=3495}, status: minecraft:surface
+[15Sep2025 03:35:54.426] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=629, y=56, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.426] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=631, y=64, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.426] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=632, y=64, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.426] [Worker-Main-152/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 217], pos: BlockPos{x=634, y=56, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.464] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 217], pos: BlockPos{x=615, y=64, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.465] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 217], pos: BlockPos{x=616, y=64, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.465] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 217], pos: BlockPos{x=618, y=56, z=3472}, status: minecraft:surface
+[15Sep2025 03:35:54.465] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 216], pos: BlockPos{x=624, y=56, z=3462}, status: minecraft:surface
+[15Sep2025 03:35:54.475] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=608, y=56, z=3461}, status: minecraft:surface
+[15Sep2025 03:35:54.475] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=608, y=56, z=3467}, status: minecraft:surface
+[15Sep2025 03:35:54.475] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=608, y=64, z=3463}, status: minecraft:surface
+[15Sep2025 03:35:54.475] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=608, y=64, z=3464}, status: minecraft:surface
+[15Sep2025 03:35:55.168] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=592, y=56, z=3460}, status: minecraft:surface
+[15Sep2025 03:35:55.168] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=592, y=56, z=3466}, status: minecraft:surface
+[15Sep2025 03:35:55.168] [Worker-Main-156/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=592, y=64, z=3463}, status: minecraft:surface
+[15Sep2025 03:35:55.853] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 216], pos: BlockPos{x=631, y=64, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.854] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 216], pos: BlockPos{x=632, y=64, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.854] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 216], pos: BlockPos{x=634, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.873] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=610, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.873] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=613, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.873] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=614, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.873] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=617, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.873] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 216], pos: BlockPos{x=618, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:55.874] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=624, y=56, z=3444}, status: minecraft:surface
+[15Sep2025 03:35:55.874] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=624, y=56, z=3451}, status: minecraft:surface
+[15Sep2025 03:35:55.874] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=624, y=64, z=3447}, status: minecraft:surface
+[15Sep2025 03:35:55.874] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=624, y=64, z=3448}, status: minecraft:surface
+[15Sep2025 03:35:55.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[15Sep2025 03:35:56.226] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=596, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:56.227] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=599, y=64, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:56.227] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=600, y=64, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:56.228] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 216], pos: BlockPos{x=603, y=56, z=3456}, status: minecraft:surface
+[15Sep2025 03:35:56.228] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 215], pos: BlockPos{x=608, y=64, z=3447}, status: minecraft:surface
+[15Sep2025 03:35:56.229] [Worker-Main-144/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, 215], pos: BlockPos{x=608, y=64, z=3448}, status: minecraft:surface
+[15Sep2025 03:35:56.243] [Worker-Main-145/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 215], pos: BlockPos{x=592, y=64, z=3447}, status: minecraft:surface
+[15Sep2025 03:35:56.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=650, y=58, z=3489} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=650, y=58, z=3489}
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=646, y=52, z=3493} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=646, y=52, z=3493}
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=654, y=58, z=3495} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=654, y=58, z=3495}
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=644, y=52, z=3498} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=644, y=52, z=3498}
+[15Sep2025 03:35:56.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=654, y=58, z=3499} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=654, y=58, z=3499}
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=650, y=52, z=3496} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=650, y=52, z=3496}
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=652, y=53, z=3500} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=652, y=53, z=3500}
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=644, y=58, z=3489} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=644, y=58, z=3489}
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=649, y=60, z=3489} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.313] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=649, y=60, z=3489}
+[15Sep2025 03:35:56.315] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=626, y=66, z=3493} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=626, y=66, z=3493}
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=627, y=65, z=3497} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=627, y=65, z=3497}
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=627, y=65, z=3495} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=627, y=65, z=3495}
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=52, z=3494} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=629, y=52, z=3494}
+[15Sep2025 03:35:56.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=626, y=56, z=3498} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=626, y=56, z=3498}
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=637, y=53, z=3491} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=637, y=53, z=3491}
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=630, y=59, z=3501} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=630, y=59, z=3501}
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=634, y=52, z=3494} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=634, y=52, z=3494}
+[15Sep2025 03:35:56.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=610, y=66, z=3509} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=66, z=3509}
+[15Sep2025 03:35:56.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=65, z=3513} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=65, z=3513}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=65, z=3511} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=65, z=3511}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=613, y=52, z=3510} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=613, y=52, z=3510}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=610, y=56, z=3514} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=56, z=3514}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=621, y=53, z=3507} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=621, y=53, z=3507}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=614, y=59, z=3517} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=59, z=3517}
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=618, y=52, z=3510} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=618, y=52, z=3510}
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=66, z=3497} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=619, y=66, z=3497}
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=622, y=54, z=3497} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=622, y=54, z=3497}
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=66, z=3500} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=619, y=66, z=3500}
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=610, y=53, z=3500} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=53, z=3500}
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=622, y=54, z=3494} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 03:35:56.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=622, y=54, z=3494}
+[15Sep2025 03:35:56.770] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=631, y=64, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:56.771] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=632, y=64, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:56.771] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 215], pos: BlockPos{x=634, y=56, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:57.265] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 214], pos: BlockPos{x=628, y=56, z=3424}, status: minecraft:surface
+[15Sep2025 03:35:57.266] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 214], pos: BlockPos{x=632, y=64, z=3424}, status: minecraft:surface
+[15Sep2025 03:35:57.266] [Worker-Main-155/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, 214], pos: BlockPos{x=634, y=56, z=3424}, status: minecraft:surface
+[15Sep2025 03:35:57.277] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 215], pos: BlockPos{x=596, y=56, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:57.277] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 215], pos: BlockPos{x=600, y=64, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:57.277] [Worker-Main-148/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [37, 215], pos: BlockPos{x=603, y=56, z=3440}, status: minecraft:surface
+[15Sep2025 03:35:57.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:35:59.918] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:01.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:03.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:05.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:07.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:09.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:11.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:13.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:15.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:17.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:19.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:21.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:23.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:25.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:27.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:29.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:31.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:33.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:35.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:37.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:39.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:41.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:43.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:45.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:47.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:49.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:51.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:53.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:55.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:57.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:36:59.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:01.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:03.855] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[15Sep2025 03:37:03.992] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:05.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:07.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:09.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:11.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:13.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:15.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:17.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:19.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:21.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:23.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:25.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:27.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:29.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:31.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:33.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:35.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:37.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:39.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:41.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:43.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:45.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:47.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:49.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:51.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:53.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:55.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/161)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 16
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:57.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:37:59.918] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [A Heal Stick]
+[15Sep2025 03:38:01.918] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 1
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:03.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 1
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:05.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 1
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:07.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:09.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:11.919] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:13.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 3
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:15.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 3
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:17.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 3
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:19.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 4
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:21.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 5
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:23.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 5
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:25.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 6
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:27.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 7
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:28.987] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[15Sep2025 03:38:29.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 9
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:31.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 10
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:33.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 11
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:35.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 12
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:37.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 14
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:39.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 15
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:41.917] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:43.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:45.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 19
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:47.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 19
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:49.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 20
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:51.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:53.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:55.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:57.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:38:59.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:01.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:03.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:05.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:07.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:09.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:11.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:13.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:15.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:17.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:19.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:21.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:23.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:24.103] [IO-Worker-154/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[15Sep2025 03:39:24.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 03:39:24.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 03:39:24.228] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 03:39:25.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:27.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:28.665] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 03:39:29.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:31.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:33.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:35.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:37.915] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:39.914] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:41.916] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (29/161)
+packCommandBlockCount: (1/3)
+eliteCommandBlockCount: (0/0)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 47
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 3
+lootedChests: 0
+
+[15Sep2025 03:39:42.031] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[15Sep2025 03:39:42.031] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[15Sep2025 03:39:42.031] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[15Sep2025 03:39:42.031] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[15Sep2025 03:39:42.032] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[15Sep2025 03:39:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to -3544.500000, 308.000000, 2360.500000]
+[15Sep2025 03:39:42.235] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[15Sep2025 03:39:42.493] [Worker-Main-143/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[15Sep2025 03:39:42.658] [Worker-Main-149/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[15Sep2025 03:39:42.905] [Worker-Main-156/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_a
+[15Sep2025 03:39:42.906] [Worker-Main-156/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_small
+[15Sep2025 03:39:43.446] [Worker-Main-155/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[15Sep2025 03:39:43.532] [Worker-Main-155/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[15Sep2025 03:39:45.426] [Worker-Main-144/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[15Sep2025 03:39:45.651] [Worker-Main-145/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/duck
+[15Sep2025 03:39:46.875] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[15Sep2025 03:39:46.875] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[15Sep2025 03:39:46.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -4210.711977048006,251.0,-1191.800000011921
+[15Sep2025 03:39:46.896] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5978ms or 119 ticks
+[15Sep2025 03:39:46.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4835ms or 96 ticks behind
+[15Sep2025 03:39:48.626] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
