@@ -15855,3 +15855,2618 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [15Sep2025 01:45:15.313] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
 [15Sep2025 01:45:15.328] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
 [15Sep2025 01:45:15.350] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[15Sep2025 01:48:04.324] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[15Sep2025 01:48:07.557] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[15Sep2025 01:48:07.558] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[15Sep2025 01:48:07.558] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[15Sep2025 01:48:09.525] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[15Sep2025 01:49:04.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[15Sep2025 01:49:04.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[15Sep2025 01:49:04.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[15Sep2025 01:49:04.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[15Sep2025 01:49:04.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[15Sep2025 01:49:04.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[15Sep2025 01:49:04.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[15Sep2025 01:49:04.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[15Sep2025 01:49:04.435] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3353ms or 67 ticks
+[15Sep2025 01:49:05.268] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[15Sep2025 01:49:05.428] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[15Sep2025 01:49:07.710] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[15Sep2025 01:49:10.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 01:49:10.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 01:49:11.032] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 01:49:23.521] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 01:50:11.292] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[15Sep2025 01:50:11.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[15Sep2025 01:50:11.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[15Sep2025 01:50:11.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[15Sep2025 01:50:11.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[15Sep2025 01:50:15.323] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 01:50:21.954] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[15Sep2025 01:50:21.955] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[15Sep2025 01:50:21.955] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[15Sep2025 01:51:32.156] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[15Sep2025 01:51:41.720] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[15Sep2025 01:52:07.419] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-34
+[15Sep2025 01:52:07.625] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[15Sep2025 01:52:07.974] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[15Sep2025 01:52:07.998] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.998] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.998] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.998] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[15Sep2025 01:52:07.999] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.999] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.999] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:07.999] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:08.000] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.001] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Sep2025 01:52:08.026] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-37
+[15Sep2025 01:52:08.275] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-38
+[15Sep2025 01:52:08.300] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[15Sep2025 01:52:08.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of library_of_exile:dun/barrier
+[15Sep2025 01:52:08.742] [Worker-Main-37/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/straight_hallway/arch is being run through DFU (hash c6dac02fe6a217c1942ab7a9fee90040e4d7523bc3ce0c0ec4208c521d38df12), this will cause launch time delays
+[15Sep2025 01:52:09.524] [Worker-Main-37/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/triple_hallway/pool0 is being run through DFU (hash 32b6a166463ecb1c879f0addac4503d43e2ccadc8804b7fc5482c09eae8dd513), this will cause launch time delays
+[15Sep2025 01:52:09.950] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[15Sep2025 01:52:10.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 664.500000, 55.000000, 3064.500000]
+[15Sep2025 01:52:10.371] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[15Sep2025 01:52:10.469] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[15Sep2025 01:52:10.653] [Worker-Main-34/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/end/prison is being run through DFU (hash 8efda5cb00dfb40d564276fc6e1d311d98f2b6dcfb995b941677141566a2ce12), this will cause launch time delays
+[15Sep2025 01:52:10.711] [Worker-Main-1/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/end/evoker_boss is being run through DFU (hash d259d0e00c4e56d62c2686f15f88e835db76c66d6b8eb54bd06abf4f9d9f8b1b), this will cause launch time delays
+[15Sep2025 01:52:11.092] [Worker-Main-34/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/curved_hallway/prayer_room is being run through DFU (hash 9bb728e0ab078ce9ffcb7f15ae3e406c24654b2fd211ed1924f953adc6ffd7f9), this will cause launch time delays
+[15Sep2025 01:52:11.124] [Worker-Main-34/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/curved_hallway/ice_windows is being run through DFU (hash 3dfde11a9999d1ce1907957aadabc7cd99c8e9d4b6d50aa2b7efb84ba2bfaf63), this will cause launch time delays
+[15Sep2025 01:52:11.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[15Sep2025 01:52:11.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[15Sep2025 01:52:11.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 4207.467592555097,-253.0,704.7843199830704
+[15Sep2025 01:52:11.844] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7059ms or 141 ticks
+[15Sep2025 01:52:11.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[15Sep2025 01:52:12.704] [Worker-Main-37/DEBUG] [ModernFix/]: Structure library_of_exile:dun/it/triple_hallway/fort_trader is being run through DFU (hash 5a3502ba91b6e6de7c4ac75b984a8daa686c23a91f36e9ba6efb7cf1287ad0c0), this will cause launch time delays
+[15Sep2025 01:52:13.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=609, y=55, z=3058} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=609, y=55, z=3058}
+[15Sep2025 01:52:13.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=621, y=55, z=3058} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=621, y=55, z=3058}
+[15Sep2025 01:52:13.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=618, y=55, z=3062} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=618, y=55, z=3062}
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=616, y=55, z=3064} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=616, y=55, z=3064}
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=614, y=55, z=3066} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=55, z=3066}
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=610, y=55, z=3069} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=610, y=55, z=3069}
+[15Sep2025 01:52:13.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=614, y=55, z=3062} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=614, y=55, z=3062}
+[15Sep2025 01:52:13.631] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=621, y=55, z=3069} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.631] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=621, y=55, z=3069}
+[15Sep2025 01:52:13.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=616, y=56, z=3084} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=616, y=56, z=3084}
+[15Sep2025 01:52:13.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=615, y=56, z=3085} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=615, y=56, z=3085}
+[15Sep2025 01:52:13.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=55, z=3083} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=619, y=55, z=3083}
+[15Sep2025 01:52:13.690] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=615, y=55, z=3080} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=615, y=55, z=3080}
+[15Sep2025 01:52:13.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=55, z=3079} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=619, y=55, z=3079}
+[15Sep2025 01:52:13.692] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=616, y=55, z=3077} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.692] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=616, y=55, z=3077}
+[15Sep2025 01:52:13.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=612, y=55, z=3075} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=612, y=55, z=3075}
+[15Sep2025 01:52:13.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=56, z=3079} but found not block entity block Block{minecraft:air} at location
+[15Sep2025 01:52:13.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=56, z=3079}
+[15Sep2025 01:52:13.865] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:15.324] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:17.336] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:19.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:21.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 0
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [To Dust You Shall Return]
+[15Sep2025 01:52:23.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 1
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:25.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:27.322] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:29.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:31.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 2
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:33.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 3
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:35.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 3
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:37.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 5
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:39.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (10/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 11
+eliteSpawnCount: 0
+mobKills: 5
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:41.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 5
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:43.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 6
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:45.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 6
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:47.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 7
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:49.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 8
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:51.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 8
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:53.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 9
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:55.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 9
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:57.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 10
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:52:59.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 11
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:01.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 12
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:03.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 13
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:05.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 14
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:07.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 15
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:09.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:11.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:13.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:15.331] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:17.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:19.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:21.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:23.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:25.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:27.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:29.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 17
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:31.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:33.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:35.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:37.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:39.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:40.817] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[15Sep2025 01:53:40.817] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[15Sep2025 01:53:41.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:43.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:45.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:47.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:49.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:51.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:53.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 18
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:55.220] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[15Sep2025 01:53:55.270] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[15Sep2025 01:53:55.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (18/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 22
+eliteSpawnCount: 0
+mobKills: 19
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:57.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 19
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:53:59.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 20
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:01.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:03.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:05.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:07.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 21
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:09.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 22
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:11.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 22
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:13.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 22
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:15.222] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[15Sep2025 01:54:15.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 01:54:15.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 01:54:15.386] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 23
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:17.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 23
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:19.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 23
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:21.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 23
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:23.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 24
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:23.568] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[15Sep2025 01:54:25.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 25
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:27.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 27
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:29.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 27
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:31.323] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (26/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 31
+eliteSpawnCount: 0
+mobKills: 27
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:33.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 27
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:35.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 27
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:37.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 28
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:39.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 29
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:41.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 29
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:43.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 30
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:45.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 30
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:47.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 31
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:49.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 32
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:51.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 35
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:53.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 36
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:55.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 36
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:57.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 37
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:54:59.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 38
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:01.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 39
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:03.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 39
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:05.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 39
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:07.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 39
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:09.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 40
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:11.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 41
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:13.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 42
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:15.322] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 42
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:15.370] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[15Sep2025 01:55:17.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 42
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:19.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 43
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:21.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:23.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:25.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:27.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:29.316] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (33/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 44
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:31.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:33.322] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:35.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 44
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:37.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 45
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:39.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 48
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:41.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 48
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:43.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 48
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:45.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 51
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:47.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 53
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:49.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 54
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:51.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 55
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:53.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 55
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:55.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:57.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:55:59.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:01.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:03.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:05.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:07.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:09.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (41/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 56
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:11.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:13.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 56
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:15.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 57
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:17.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 58
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:19.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 60
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:21.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 60
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:23.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 60
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:25.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 62
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:27.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 64
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:29.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:31.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:33.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:35.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:37.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:39.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:41.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:43.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:45.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:47.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:49.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:51.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:53.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:53.968] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[15Sep2025 01:56:55.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:57.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:56:59.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:01.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:03.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:05.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:07.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:09.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (49/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 65
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:10.720] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[15Sep2025 01:57:11.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:13.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 65
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:15.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 67
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:17.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 68
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:19.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 69
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:21.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 70
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:23.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 70
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:25.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 70
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:27.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 71
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:29.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 72
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:31.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 72
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:33.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 72
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:35.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 72
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:37.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 73
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:39.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:41.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:43.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:45.323] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:47.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (56/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 74
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:47.746] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[15Sep2025 01:57:49.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 74
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:51.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 75
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:53.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 75
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:55.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 76
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:57.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 77
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:57:59.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 77
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:01.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 77
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:03.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 77
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:05.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 77
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:07.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 78
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:09.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 79
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:11.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 79
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:13.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 79
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:15.321] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 81
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:17.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:19.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:21.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:23.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:25.317] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:27.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:29.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:31.320] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:33.318] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
+[15Sep2025 01:58:35.319] [Server thread/DEBUG] [Exile Log: com.robertx22.dungeon_realm.structure.DungeonMapData/]: mobCommandBlockCount: (61/124)
+packCommandBlockCount: (0/3)
+eliteCommandBlockCount: (0/3)
+elitePackCommandBlockCount: (0/0)
+miniBossCommandBlockCount: (0/0)
+mobSpawnCount: 82
+eliteSpawnCount: 0
+mobKills: 82
+eliteKills: 0
+miniBossKills: 0
+totalChests: 0
+lootedChests: 0
+
