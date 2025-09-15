@@ -40259,3 +40259,15 @@ lootedChests: 3
 [15Sep2025 04:39:28.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Sep2025 04:39:28.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Sep2025 04:39:28.999] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3127ms or 62 ticks
+[15Sep2025 04:44:28.875] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[15Sep2025 04:44:28.875] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[15Sep2025 04:44:28.880] [IO-Worker-228/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[15Sep2025 04:44:28.881] [IO-Worker-229/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[15Sep2025 04:44:28.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 04:44:28.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 04:49:28.874] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[15Sep2025 04:49:28.874] [IO-Worker-232/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[15Sep2025 04:49:28.879] [IO-Worker-232/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[15Sep2025 04:49:28.887] [IO-Worker-234/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[15Sep2025 04:49:28.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 04:49:28.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
