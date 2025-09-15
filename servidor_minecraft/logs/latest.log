@@ -2961,3 +2961,15 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=con
 [15Sep2025 03:45:37.170] [Server thread/WARN] [Exile Log: com.robertx22.library_of_exile.config.map_dimension.ProcessMapChunks/]: Data block with id: SummonEnemy1 matched no processors! BlockPos{x=612, y=62, z=3443}
 [15Sep2025 03:45:37.171] [Server thread/WARN] [Exile Log: com.robertx22.library_of_exile.config.map_dimension.ProcessMapChunks/]: Data block with id: SummonEnemy1 matched no processors! BlockPos{x=618, y=62, z=3443}
 [15Sep2025 03:45:37.171] [Server thread/WARN] [Exile Log: com.robertx22.library_of_exile.config.map_dimension.ProcessMapChunks/]: Data block with id: SummonEnemy1 matched no processors! BlockPos{x=619, y=62, z=3443}
+[15Sep2025 03:58:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 660.500000, -56.000000, 3540.500000]
+[15Sep2025 03:58:57.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 17.051243098862983,-112.0,17.7603855498337
+[15Sep2025 03:59:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 658.500000, -7.000000, 3544.500000]
+[15Sep2025 03:59:27.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -9.35415372740033,48.125,-3.5441572470153915
+[15Sep2025 04:00:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 667.500000, -54.000000, 3548.500000]
+[15Sep2025 04:00:30.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 6.194073291025688,-47.0,6.412253569799759
+[15Sep2025 04:00:37.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 643.500000, 56.000000, 3522.500000]
+[15Sep2025 04:00:37.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -15.894322462112996,112.0,-18.557364629220046
+[15Sep2025 04:00:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 660.500000, -56.000000, 3540.500000]
+[15Sep2025 04:00:40.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! 17.0,-112.0,18.0
+[15Sep2025 04:00:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to 643.500000, 56.000000, 3522.500000]
+[15Sep2025 04:00:47.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -16.339788263863625,111.125,-14.907868016213797
