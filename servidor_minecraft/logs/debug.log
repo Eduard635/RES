@@ -16224,3 +16224,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [16Sep2025 21:06:16.666] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
 [16Sep2025 21:06:16.667] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
 [16Sep2025 21:06:16.667] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[16Sep2025 21:08:07.965] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[16Sep2025 21:08:13.966] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[16Sep2025 21:08:22.464] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[16Sep2025 21:08:22.464] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[16Sep2025 21:08:22.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[16Sep2025 21:08:48.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 21:08:48.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 21:10:05.285] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[16Sep2025 21:10:41.859] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[16Sep2025 21:10:41.859] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[16Sep2025 21:10:59.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6922, l='ServerLevel[world]', x=-3553.10, y=120.48, z=2104.59] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:10:59.060] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[16Sep2025 21:10:59.060] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[16Sep2025 21:11:41.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6974, l='ServerLevel[world]', x=-3552.50, y=120.48, z=2103.50] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:12:21.940] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[16Sep2025 21:12:22.080] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[16Sep2025 21:12:22.081] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[16Sep2025 21:12:46.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9183, l='ServerLevel[world]', x=-3552.81, y=120.51, z=2104.19] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:12:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Sinbuster Armor]
+[16Sep2025 21:13:48.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 21:13:48.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 21:13:53.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9287, l='ServerLevel[world]', x=-3552.76, y=120.33, z=2104.70] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:14:15.915] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[16Sep2025 21:14:16.575] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3024ms or 60 ticks
+[16Sep2025 21:14:17.264] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[16Sep2025 21:14:17.296] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[16Sep2025 21:14:17.363] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[16Sep2025 21:15:11.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11346, l='ServerLevel[world]', x=-3552.30, y=120.15, z=2104.09] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:15:41.910] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[16Sep2025 21:15:41.910] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0e514717-d1b3-47a2-aacd-9589b6dd892c)
+[16Sep2025 21:15:45.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11356, l='ServerLevel[world]', x=-3552.30, y=120.00, z=2104.70] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:16:29.671] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[16Sep2025 21:16:39.812] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[16Sep2025 21:16:39.813] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[16Sep2025 21:16:39.813] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[16Sep2025 21:16:39.813] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[16Sep2025 21:16:39.813] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[16Sep2025 21:17:13.811] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[16Sep2025 21:17:13.811] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Sep2025 21:17:19.913] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@63f87840 for service interface com.blamejared.clumps.platform.IEventHelper
+[16Sep2025 21:17:19.914] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@4b177ee4 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[16Sep2025 21:17:54.714] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80

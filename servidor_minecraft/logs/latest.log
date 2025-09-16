@@ -2407,3 +2407,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [16Sep2025 21:05:43.460] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
 [16Sep2025 21:05:43.461] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [16Sep2025 21:05:43.461] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[16Sep2025 21:10:59.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6922, l='ServerLevel[world]', x=-3553.10, y=120.48, z=2104.59] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:11:41.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6974, l='ServerLevel[world]', x=-3552.50, y=120.48, z=2103.50] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:12:46.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9183, l='ServerLevel[world]', x=-3552.81, y=120.51, z=2104.19] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:12:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Sinbuster Armor]
+[16Sep2025 21:13:53.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9287, l='ServerLevel[world]', x=-3552.76, y=120.33, z=2104.70] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:14:16.575] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3024ms or 60 ticks
+[16Sep2025 21:15:11.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11346, l='ServerLevel[world]', x=-3552.30, y=120.15, z=2104.09] died, message: 'Villager was pulled into hell'
+[16Sep2025 21:15:45.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11356, l='ServerLevel[world]', x=-3552.30, y=120.00, z=2104.70] died, message: 'Villager was pulled into hell'
