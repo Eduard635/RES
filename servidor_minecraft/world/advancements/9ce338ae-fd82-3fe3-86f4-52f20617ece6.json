@@ -857,6 +857,7 @@
       "minecraft:pillager": "2025-08-25 03:14:06 +0000",
       "minecraft:skeleton": "2025-08-03 20:09:16 +0000",
       "minecraft:ravager": "2025-09-08 00:45:49 +0000",
+      "minecraft:hoglin": "2025-09-18 02:51:33 +0000",
       "minecraft:vindicator": "2025-08-28 02:23:07 +0000",
       "minecraft:magma_cube": "2025-09-02 00:41:54 +0000",
       "minecraft:spider": "2025-08-03 19:02:53 +0000",
@@ -867,6 +868,7 @@
       "minecraft:witch": "2025-08-25 02:44:56 +0000",
       "minecraft:husk": "2025-08-28 01:28:34 +0000",
       "minecraft:cave_spider": "2025-08-29 03:37:39 +0000",
+      "minecraft:piglin": "2025-09-18 02:52:33 +0000",
       "minecraft:enderman": "2025-08-12 02:47:06 +0000",
       "minecraft:vex": "2025-09-01 03:39:35 +0000",
       "minecraft:zombie": "2025-08-03 20:32:50 +0000",
@@ -6296,21 +6298,153 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/strawhat_boots": {
     "criteria": {
       "has_white_wool": "2025-09-18 01:19:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "knightquest:recipes/misc/strawhat_helmet": {
     "criteria": {
-      "has_glass": "2025-09-18 02:01:12 +0000"
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador_leggings": {
+  "knightquest:recipes/misc/strawhat_leggings": {
     "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-18 01:21:12 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-09-18 01:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-18 01:21:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-18 01:24:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vitrified_sand": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 01:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-18 01:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-18 02:01:12 +0000"
     },
     "done": true
   },
@@ -6350,57 +6484,15 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-18 01:57:08 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-09-18 02:01:12 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/strawhat_helmet": {
-    "criteria": {
-      "has_white_wool": "2025-09-18 01:19:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_helmet": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/vitrified_sand": {
-    "criteria": {
-      "has_copper_block": "2025-09-18 01:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 02:01:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-09-18 01:57:08 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_sea_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_chestplate": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
     },
     "done": true
   },
@@ -6422,39 +6514,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-09-18 01:21:12 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-09-18 02:01:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_blue_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_boots": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_green_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_red_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
     },
     "done": true
   },
@@ -6476,51 +6538,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador_chestplate": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 02:01:12 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador2_helmet": {
-    "criteria": {
-      "has_iron_nugget": "2025-09-18 01:24:40 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_yellow_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_boots": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 02:01:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/strawhat_leggings": {
-    "criteria": {
-      "has_white_wool": "2025-09-18 01:19:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/strawhat_chestplate": {
-    "criteria": {
-      "has_white_wool": "2025-09-18 01:19:13 +0000"
     },
     "done": true
   },
@@ -6572,33 +6598,87 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-09-18 01:21:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_helmet": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 01:03:39 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-09-18 02:01:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
-      "has_log": "2025-09-18 01:21:12 +0000"
+      "has_any_ingredient": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_jungle_sign": "2025-09-18 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-18 02:33:49 +0000"
     },
     "done": true
   },

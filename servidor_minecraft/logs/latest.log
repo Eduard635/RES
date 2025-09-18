@@ -2423,3 +2423,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [18Sep2025 02:07:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> siempre tengo que usar discord de en la app
 [18Sep2025 02:07:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> malditasea xd
 [18Sep2025 02:07:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[18Sep2025 02:16:16.393] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3047ms or 60 ticks
+[18Sep2025 02:16:56.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[18Sep2025 02:16:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[18Sep2025 02:16:56.935] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[18Sep2025 02:18:05.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:54765] logged in with entity id 21344 at (-973.0588141183032, 122.0, -1634.4051940515612)
+[18Sep2025 02:18:05.728] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[18Sep2025 02:18:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[18Sep2025 02:18:05.757] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[18Sep2025 02:18:07.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[18Sep2025 02:18:07.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[18Sep2025 02:18:07.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[18Sep2025 02:31:31.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[18Sep2025 02:31:31.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[18Sep2025 02:31:31.600] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3236ms or 64 ticks
+[18Sep2025 02:31:34.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[18Sep2025 02:31:34.312] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[18Sep2025 02:35:10.292] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[18Sep2025 02:35:10.307] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[18Sep2025 02:42:12.274] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[18Sep2025 02:42:12.277] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[18Sep2025 02:49:53.179] [Timer-0/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$bnm000$OnaddEntity(ServerLevel.java:1656) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:815) ~[server-1.20.1-20230612.114412-srg.jar%23495!/:?]
+	at net.acetheeldritchking.cataclysm_spellbooks.spells.fire.CometShowerSpell$1.run(CometShowerSpell.java:73) ~[cataclysm_spellbooks-1.2.2-1.20.1-all.jar%23327!/:1.2.2-1.20.1]
+	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
+	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
+[18Sep2025 02:51:31.068] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks
+[18Sep2025 02:51:31.355] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[18Sep2025 02:51:31.355] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[18Sep2025 02:52:38.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[18Sep2025 02:52:38.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
