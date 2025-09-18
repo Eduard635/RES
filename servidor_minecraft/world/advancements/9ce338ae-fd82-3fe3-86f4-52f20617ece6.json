@@ -6296,9 +6296,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_leggings": {
     "criteria": {
       "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
     },
     "done": true
   },
@@ -6317,6 +6329,12 @@
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
       "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-18 01:21:12 +0000"
     },
     "done": true
   },
@@ -6350,6 +6368,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-18 01:24:40 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/tunic_yellow_leggings": {
     "criteria": {
       "has_leather": "2025-09-18 01:03:39 +0000"
@@ -6362,6 +6386,24 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-09-18 01:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-09-18 01:21:12 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_helmet": {
     "criteria": {
       "has_leather": "2025-09-18 01:03:39 +0000"
@@ -6371,6 +6413,12 @@
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2025-09-18 01:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-18 01:21:12 +0000"
     },
     "done": true
   },
