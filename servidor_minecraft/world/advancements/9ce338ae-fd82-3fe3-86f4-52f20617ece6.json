@@ -6604,6 +6604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-18 02:51:36 +0000"
@@ -6613,6 +6619,18 @@
   "knightquest:recipes/misc/blaze_helmet": {
     "criteria": {
       "has_blaze_rod": "2025-09-18 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
     },
     "done": true
   },
@@ -6628,6 +6646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
     "criteria": {
       "hoglin_loin": "2025-09-18 02:51:36 +0000"
@@ -6640,6 +6664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
     "criteria": {
       "has_hoglin_loin": "2025-09-18 02:51:36 +0000"
@@ -6649,6 +6685,24 @@
   "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
     "criteria": {
       "has_any_ingredient": "2025-09-18 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/polished_blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-09-18 02:53:21 +0000"
     },
     "done": true
   },
@@ -6679,6 +6733,18 @@
   "knightquest:recipes/misc/blaze_boots": {
     "criteria": {
       "has_blaze_rod": "2025-09-18 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-18 02:53:21 +0000"
     },
     "done": true
   },
