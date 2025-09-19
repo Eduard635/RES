@@ -2370,3 +2370,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 00:17:30.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
 [19Sep2025 01:04:05.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
 [19Sep2025 02:01:25.732] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3121ms or 62 ticks
+[19Sep2025 02:18:26.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:56737] logged in with entity id 13811 at (-962.4911759725322, 64.0625, 208.7766800165545)
+[19Sep2025 02:18:26.084] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[19Sep2025 02:18:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[19Sep2025 02:18:26.105] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[19Sep2025 02:18:27.644] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[19Sep2025 02:18:27.644] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[19Sep2025 02:18:27.644] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[19Sep2025 02:18:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro mira mi terraplanismo
+[19Sep2025 02:18:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[19Sep2025 02:18:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[19Sep2025 02:19:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> y esto
+[19Sep2025 02:19:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> es terracota con diseño xd
+[19Sep2025 02:19:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> se hace con una mesa especial
+[19Sep2025 02:19:54.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[19Sep2025 02:20:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vamo a mi casa
