@@ -2417,3 +2417,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 02:40:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD???
 [19Sep2025 02:41:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya puedo darte tuto de como asignar un boton para el arbol de habilidades
 [19Sep2025 02:41:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> malcriado
+[19Sep2025 02:41:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[19Sep2025 02:44:54.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21443, l='ServerLevel[world]', x=-2531.30, y=71.00, z=214.26] died, message: 'Villager was slain by Husk'
+[19Sep2025 02:50:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [The Andesite Age]
+[19Sep2025 03:01:25.744] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
