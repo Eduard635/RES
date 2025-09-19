@@ -660,17 +660,6 @@
         "value": 1024
       }
     },
-    "sons_of_sins:cooldown_cap": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 240,
-        "value": 240
-      }
-    },
     "irons_spellbooks:lightning_spell_power": {
       "enabled": false,
       "min": {
@@ -680,6 +669,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "sons_of_sins:cooldown_cap": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 240,
+        "value": 240
       }
     },
     "cataclysm_spellbooks:technomancy_spell_power": {

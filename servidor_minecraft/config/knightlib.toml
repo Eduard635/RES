@@ -2,12 +2,12 @@
 ["Essence Drop Probabilities"]
 	#Chance to drop small essence upon defeating an enemy
 	#
-	#Default: 0.005
+	#Default: 0.125
 	#Range: 0.0 ~ 1.0
-	SMALL_ESSENCE_DROP_RATE = 0.005
+	SMALL_ESSENCE_DROP_RATE = 0.125
 	#Chance to drop great essence upon defeating an enemy
 	#
-	#Default: 0.0001
+	#Default: 0.05
 	#Range: 0.0 ~ 1.0
-	GREAT_ESSENCE_DROP_RATE = 0.0001
+	GREAT_ESSENCE_DROP_RATE = 0.05
 
