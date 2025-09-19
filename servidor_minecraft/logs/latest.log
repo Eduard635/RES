@@ -2421,3 +2421,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 02:44:54.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21443, l='ServerLevel[world]', x=-2531.30, y=71.00, z=214.26] died, message: 'Villager was slain by Husk'
 [19Sep2025 02:50:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [The Andesite Age]
 [19Sep2025 03:01:25.744] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
+[19Sep2025 03:05:58.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[19Sep2025 03:05:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[19Sep2025 03:05:58.526] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[19Sep2025 03:06:07.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:56122] logged in with entity id 27942 at (-3541.020109750705, 308.0, 2367.5763820904067)
+[19Sep2025 03:06:07.271] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[19Sep2025 03:06:07.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[19Sep2025 03:06:07.301] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[19Sep2025 03:06:07.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[19Sep2025 03:06:07.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[19Sep2025 03:06:07.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[19Sep2025 03:06:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> weno vro ya me voy, necesito más cosas para avanzar en mi mod pero ya no tengo time
+[19Sep2025 03:06:44.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[19Sep2025 03:06:51.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> XD
+[19Sep2025 03:07:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> :peped::peped::peped:
+[19Sep2025 03:07:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> :feelsbadman::feelsbadman:
+[19Sep2025 03:07:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> YA PUES
+[19Sep2025 03:07:16.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> BYE BRO
+[19Sep2025 03:07:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> jajajja
+[19Sep2025 03:07:22.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> chao tilin
+[19Sep2025 03:07:24.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[19Sep2025 03:07:24.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[19Sep2025 03:07:24.476] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[19Sep2025 03:19:25.177] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
