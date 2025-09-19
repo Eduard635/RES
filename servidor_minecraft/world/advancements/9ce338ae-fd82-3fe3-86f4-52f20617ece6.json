@@ -6921,12 +6921,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
       "has_ratman_eye": "2025-09-18 04:03:25 +0000"
@@ -6939,27 +6933,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "knightquest:recipes/misc/paladin_sword": {
     "criteria": {
-      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
+      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
     },
     "done": true
   },
-  "endrem:main/wither_eye": {
+  "knightquest:recipes/misc/nether_leggings": {
     "criteria": {
-      "wither_eye": "2025-09-18 04:31:30 +0000"
+      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-18 04:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-09-18 04:04:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2025-09-18 04:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
     },
     "done": true
   },
@@ -6975,21 +6987,9 @@
     },
     "done": true
   },
-  "skilltree:recipes/combat/fiery_quiver": {
-    "criteria": {
-      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2025-09-18 04:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-18 04:04:11 +0000"
     },
     "done": true
   },
@@ -6999,39 +6999,39 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/paladin_sword": {
-    "criteria": {
-      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-09-18 04:21:04 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/nether_leggings": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-09-18 04:04:11 +0000"
+      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/cleaver": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/nether_helmet": {
+  "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
-      "has_ratman_eye": "2025-09-18 04:03:25 +0000"
+      "has_blaze_powder": "2025-09-18 04:23:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-09-18 04:31:30 +0000"
     },
     "done": true
   },
