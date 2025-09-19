@@ -7035,6 +7035,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-09-19 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-19 02:43:41 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-09-19 03:31:26 +0000"
@@ -7052,12 +7064,6 @@
       "log_spam_fixer": "2025-09-19 03:31:26 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-09-19 02:43:41 +0000"
-    },
-    "done": true
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
@@ -7094,12 +7100,6 @@
       "log_spam_fixer": "2025-09-19 03:31:26 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-19 02:43:41 +0000"
-    },
-    "done": true
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
