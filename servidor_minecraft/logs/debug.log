@@ -15805,3 +15805,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 02:30:30.888] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
 [19Sep2025 02:30:44.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18033, l='ServerLevel[world]', x=-2532.59, y=70.00, z=282.68] died, message: 'Fletcher hit the ground too hard whilst trying to escape Husk'
 [19Sep2025 02:30:53.478] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 02:31:11.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18034, l='ServerLevel[world]', x=-2556.50, y=76.00, z=262.56] died, message: 'Fletcher was slain by Husk'
+[19Sep2025 02:31:25.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 02:31:25.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 02:31:25.787] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
+[19Sep2025 02:32:19.787] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[19Sep2025 02:32:19.788] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[19Sep2025 02:32:31.478] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 02:33:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro
+[19Sep2025 02:34:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dime
+[19Sep2025 02:34:03.979] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[19Sep2025 02:34:03.980] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[19Sep2025 02:34:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> como haces para agarrar aldeanos
+[19Sep2025 02:34:05.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[19Sep2025 02:34:05.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:777,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[19Sep2025 02:34:05.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:777,"double/basic_axe_left_material":"basic_axe/netherite","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/netherite","double/handle":"double/basic_handle","double/handle:basic_handle/soot":0,"double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[19Sep2025 02:34:05.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[19Sep2025 02:34:05.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[19Sep2025 02:34:05.675] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:379,EnchantmentMapping:{},Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[19Sep2025 02:34:05.676] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:379,EnchantmentMapping:{},Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[19Sep2025 02:34:05.679] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:379,EnchantmentMapping:{"minecraft:unbreaking":"bow/string"},Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[19Sep2025 02:34:05.679] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:379,EnchantmentMapping:{"minecraft:unbreaking":"bow/string"},Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[19Sep2025 02:34:05.680] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[19Sep2025 02:34:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shift + clik derecho
+[19Sep2025 02:34:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> gracias
+[19Sep2025 02:34:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y no tienes que tener nada en las manos
+[19Sep2025 02:34:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ok
+[19Sep2025 02:35:18.778] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[19Sep2025 02:35:20.338] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[19Sep2025 02:35:53.525] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 02:36:25.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 02:36:25.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 02:37:09.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[19Sep2025 02:37:31.531] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 02:37:42.079] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[19Sep2025 02:38:27.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[19Sep2025 02:38:27.394] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[19Sep2025 02:38:48.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro q me dijiste q usara
+[19Sep2025 02:38:48.277] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[19Sep2025 02:38:48.277] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[19Sep2025 02:38:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[19Sep2025 02:38:58.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[19Sep2025 02:39:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shift + clik derecho
+[19Sep2025 02:39:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no merefiero a lo de las habilidades
+[19Sep2025 02:39:31.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> cual de todas?
+[19Sep2025 02:39:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> magia?
+[19Sep2025 02:39:57.028] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[19Sep2025 02:40:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> olvidalo
+[19Sep2025 02:40:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD???
+[19Sep2025 02:40:53.572] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 02:41:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya puedo darte tuto de como asignar un boton para el arbol de habilidades
+[19Sep2025 02:41:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> malcriado

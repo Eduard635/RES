@@ -2397,3 +2397,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 02:26:47.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pero lo necesito para el mod del create xd
 [19Sep2025 02:28:05.934] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3045ms or 60 ticks
 [19Sep2025 02:30:44.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18033, l='ServerLevel[world]', x=-2532.59, y=70.00, z=282.68] died, message: 'Fletcher hit the ground too hard whilst trying to escape Husk'
+[19Sep2025 02:31:11.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/18034, l='ServerLevel[world]', x=-2556.50, y=76.00, z=262.56] died, message: 'Fletcher was slain by Husk'
+[19Sep2025 02:31:25.787] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
+[19Sep2025 02:33:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro
+[19Sep2025 02:34:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dime
+[19Sep2025 02:34:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> como haces para agarrar aldeanos
+[19Sep2025 02:34:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shift + clik derecho
+[19Sep2025 02:34:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> gracias
+[19Sep2025 02:34:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> y no tienes que tener nada en las manos
+[19Sep2025 02:34:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ok
+[19Sep2025 02:38:48.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> bro q me dijiste q usara
+[19Sep2025 02:38:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[19Sep2025 02:38:58.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[19Sep2025 02:39:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shift + clik derecho
+[19Sep2025 02:39:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no merefiero a lo de las habilidades
+[19Sep2025 02:39:31.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> cual de todas?
+[19Sep2025 02:39:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> magia?
+[19Sep2025 02:40:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> olvidalo
+[19Sep2025 02:40:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD???
+[19Sep2025 02:41:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya puedo darte tuto de como asignar un boton para el arbol de habilidades
+[19Sep2025 02:41:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> malcriado
