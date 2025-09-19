@@ -15348,3 +15348,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 23:22:29.848] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [19Sep2025 23:22:29.849] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [19Sep2025 23:23:40.889] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[19Sep2025 23:24:36.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:24:36.280] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:24:42.344] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:24:44.130] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[19Sep2025 23:25:01.877] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[19Sep2025 23:25:08.171] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[19Sep2025 23:25:08.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:25:08.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:27:28.224] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 23:27:28.225] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:27:57.125] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[19Sep2025 23:28:36.570] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[19Sep2025 23:30:08.164] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[19Sep2025 23:30:08.164] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[19Sep2025 23:30:08.165] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[19Sep2025 23:30:08.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:30:08.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:30:41.883] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5217a036 for service interface com.blamejared.clumps.platform.IEventHelper
+[19Sep2025 23:30:41.883] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5be36e5b for service interface com.blamejared.clumps.platform.IPlatformHelper
+[19Sep2025 23:31:31.136] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[19Sep2025 23:31:39.325] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:31:39.375] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:31:39.610] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:32:28.227] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 23:32:40.868] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[19Sep2025 23:32:40.868] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:33:09.429] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[19Sep2025 23:33:32.069] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
