@@ -15376,3 +15376,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [19Sep2025 23:32:40.868] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
 [19Sep2025 23:33:09.429] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
 [19Sep2025 23:33:32.069] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[19Sep2025 23:34:52.703] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3896ms or 77 ticks
+[19Sep2025 23:34:52.732] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[19Sep2025 23:34:52.980] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[19Sep2025 23:34:53.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[19Sep2025 23:34:53.200] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.201] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.201] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.201] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[19Sep2025 23:34:53.202] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.202] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.202] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.203] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.203] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Sep2025 23:34:53.204] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.204] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.204] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.204] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.204] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.205] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.205] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.205] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.205] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.205] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Sep2025 23:34:53.249] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-39
+[19Sep2025 23:34:53.250] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-40
+[19Sep2025 23:34:54.169] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Sep2025 23:34:54.170] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Sep2025 23:34:54.170] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Sep2025 23:34:54.170] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[19Sep2025 23:34:54.177] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Sep2025 23:34:54.177] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Sep2025 23:34:54.241] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[19Sep2025 23:35:08.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:35:08.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:36:50.349] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[19Sep2025 23:36:50.349] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[19Sep2025 23:36:50.350] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[19Sep2025 23:36:54.026] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[19Sep2025 23:36:54.026] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[19Sep2025 23:36:54.788] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[19Sep2025 23:37:28.276] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 23:37:40.876] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:38:04.529] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[19Sep2025 23:40:08.166] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[19Sep2025 23:40:08.169] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[19Sep2025 23:40:08.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:40:08.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:40:23.811] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[19Sep2025 23:40:23.813] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[19Sep2025 23:41:16.077] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[19Sep2025 23:41:16.077] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[19Sep2025 23:41:16.108] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[19Sep2025 23:41:16.126] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[19Sep2025 23:41:16.143] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[19Sep2025 23:41:16.180] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[19Sep2025 23:41:16.181] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[19Sep2025 23:42:28.324] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[19Sep2025 23:42:40.876] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[19Sep2025 23:42:59.627] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[19Sep2025 23:42:59.628] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[19Sep2025 23:42:59.732] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[19Sep2025 23:43:26.518] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[19Sep2025 23:44:01.179] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
