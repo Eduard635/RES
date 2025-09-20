@@ -130,3 +130,44 @@ java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 55
 [20Sep2025 00:56:56.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17348, l='ServerLevel[world]', x=-2565.49, y=64.00, z=297.30] died, message: 'Fisherman was slain by Husk'
 [20Sep2025 00:57:02.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17364, l='ServerLevel[world]', x=-2556.60, y=70.00, z=265.67] died, message: 'Fisherman was shot by Pillager'
 [20Sep2025 01:00:31.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/17381, l='ServerLevel[world]', x=-2509.45, y=63.00, z=309.91] died, message: 'Armorer was shot by Chagrin Sentry'
+[20Sep2025 01:09:33.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[20Sep2025 01:09:33.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[20Sep2025 01:09:33.185] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[20Sep2025 01:10:51.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel_ANT_25[/100.125.237.60:55978] logged in with entity id 21723 at (-38.42919671353332, 87.0, 138.72873262914405)
+[20Sep2025 01:10:51.962] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Daniel_ANT_25
+[20Sep2025 01:10:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 joined the game
+[20Sep2025 01:10:51.987] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Daniel_ANT_25
+[20Sep2025 01:10:53.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was loaded
+[20Sep2025 01:10:53.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[20Sep2025 01:10:53.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[20Sep2025 01:11:59.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[20Sep2025 01:11:59.760] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[20Sep2025 01:19:01.041] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[20Sep2025 01:19:01.047] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[20Sep2025 01:19:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Mob Spirit
+[20Sep2025 01:19:29.149] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Sep2025 01:19:29.209] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3092ms or 61 ticks
+[20Sep2025 01:19:29.341] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[20Sep2025 01:19:29.341] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[20Sep2025 01:19:40.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[20Sep2025 01:19:40.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[20Sep2025 01:19:40.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[20Sep2025 01:20:46.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:50002] logged in with entity id 24921 at (-485.258911778764, 82.0, -148.51643089602464)
+[20Sep2025 01:20:46.560] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[20Sep2025 01:20:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[20Sep2025 01:20:46.614] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[20Sep2025 01:20:47.965] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[20Sep2025 01:20:47.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[20Sep2025 01:20:47.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[20Sep2025 01:24:25.479] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[20Sep2025 01:24:25.482] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[20Sep2025 01:24:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Mob Spirit
+[20Sep2025 01:24:32.787] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Sep2025 01:24:32.923] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[20Sep2025 01:24:32.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[20Sep2025 01:24:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 01:24:47.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/27794, l='ServerLevel[world]', x=-2571.29, y=69.00, z=295.83] died, message: 'Butcher was slain by Mob Spirit'
+[20Sep2025 01:25:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> BRP
+[20Sep2025 01:25:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dimer
+[20Sep2025 01:26:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ayuda
+[20Sep2025 01:26:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
