@@ -2356,6 +2356,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-09-20 02:25:41 +0000",
       "minecraft:chicken": "2025-08-25 01:57:03 +0000",
       "minecraft:wolf": "2025-09-03 04:57:45 +0000"
     },
@@ -7053,6 +7054,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-09-20 02:31:54 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/phantom_boots": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
@@ -7098,6 +7105,12 @@
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate3_helmet": {
+    "criteria": {
+      "has_black_candle": "2025-09-20 02:38:55 +0000"
     },
     "done": true
   },
