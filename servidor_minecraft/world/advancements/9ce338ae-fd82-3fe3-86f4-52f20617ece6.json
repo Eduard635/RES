@@ -7035,6 +7035,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-09-20 01:32:27 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/phantom_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
@@ -7062,6 +7068,12 @@
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-09-20 01:34:31 +0000"
     },
     "done": true
   },

@@ -171,3 +171,15 @@ java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 55
 [20Sep2025 01:25:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> dimer
 [20Sep2025 01:26:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ayuda
 [20Sep2025 01:26:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 01:26:20.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> acepta
+[20Sep2025 01:26:32.029] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[20Sep2025 01:26:32.037] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[20Sep2025 01:26:32.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> cojetelo
+[20Sep2025 01:27:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 01:27:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[20Sep2025 01:27:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> como llego hasta aqui?
+[20Sep2025 01:27:43.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> nose
+[20Sep2025 01:32:27.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/30397, l='ServerLevel[world]', x=-2570.70, y=74.00, z=266.47] died, message: 'Fisherman was slain by 1FANT4SMA using [Scythe]'
+[20Sep2025 01:32:27.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Neighborhood Brawl]
+[20Sep2025 01:32:57.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/29901, l='ServerLevel[world]', x=-2519.90, y=70.00, z=228.31] died, message: 'Shepherd was slain by Zombie'
+[20Sep2025 01:33:07.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/29916, l='ServerLevel[world]', x=-2531.70, y=70.00, z=225.29] died, message: 'Shepherd was slain by Zombie'
