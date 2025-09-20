@@ -240,3 +240,4 @@ java.lang.IndexOutOfBoundsException: Index -19 out of bounds for length 17
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23493!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [20Sep2025 01:45:10.455] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[20Sep2025 01:47:41.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Local Brewery]

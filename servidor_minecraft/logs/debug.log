@@ -17326,3 +17326,26 @@ java.lang.IndexOutOfBoundsException: Index -19 out of bounds for length 17
 [20Sep2025 01:45:10.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 01:45:10.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Sep2025 01:45:10.455] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[20Sep2025 01:46:52.640] [Netty Epoll Server IO #7/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[20Sep2025 01:46:55.631] [Worker-Main-40/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-40 shutdown
+[20Sep2025 01:46:58.289] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-138
+[20Sep2025 01:47:28.880] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[20Sep2025 01:47:41.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Local Brewery]
+[20Sep2025 01:47:41.576] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[20Sep2025 01:50:10.330] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[20Sep2025 01:50:10.330] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[20Sep2025 01:50:10.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 01:50:10.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 01:50:34.476] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[20Sep2025 01:50:34.476] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[20Sep2025 01:50:34.476] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[20Sep2025 01:50:42.198] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[20Sep2025 01:51:32.330] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[20Sep2025 01:51:38.930] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[20Sep2025 01:52:21.723] [Worker-Main-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-141
+[20Sep2025 01:52:28.927] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[20Sep2025 01:52:41.578] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[20Sep2025 01:55:10.326] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[20Sep2025 01:55:10.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 01:55:10.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 01:55:59.517] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)

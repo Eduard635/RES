@@ -7041,6 +7041,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-20 01:47:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/phantom_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
