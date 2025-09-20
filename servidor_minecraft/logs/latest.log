@@ -241,3 +241,13 @@ java.lang.IndexOutOfBoundsException: Index -19 out of bounds for length 17
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [20Sep2025 01:45:10.455] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
 [20Sep2025 01:47:41.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Local Brewery]
+[20Sep2025 02:02:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> bueno vro ya me voy xd
+[20Sep2025 02:02:16.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> listo bro
+[20Sep2025 02:02:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hasta mañana tilin
+[20Sep2025 02:02:24.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[20Sep2025 02:02:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[20Sep2025 02:02:24.783] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[20Sep2025 02:02:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> dscansa
+[20Sep2025 02:02:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si
+[20Sep2025 02:13:38.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39703, l='ServerLevel[world]', x=-617.35, y=74.00, z=268.43] died, message: 'Villager was slain by Zombie'
+[20Sep2025 02:15:46.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-765, y=75, z=242} BlockPos{x=-765, y=74, z=243}
