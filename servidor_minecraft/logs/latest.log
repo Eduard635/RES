@@ -85,3 +85,48 @@ java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 55
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23493!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23493!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Sep2025 00:47:48.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3269f161[id=<null>,name=1FANT4SMA,properties={},legacy=false] (/100.97.39.17:65217) lost connection: Disconnected
+[20Sep2025 00:48:43.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@183485f3[id=<null>,name=1FANT4SMA,properties={},legacy=false] (/100.97.39.17:65244) lost connection: Disconnected
+[20Sep2025 00:49:53.228] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:betrayed_guzzler is
+[20Sep2025 00:49:53.228] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:sickle_of_struggle is
+[20Sep2025 00:49:53.228] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:ether_ashes is
+[20Sep2025 00:49:53.229] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:flesh_of_demise is
+[20Sep2025 00:49:53.229] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:osseous_sword is
+[20Sep2025 00:49:53.230] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:flesh_of_demise is
+[20Sep2025 00:49:53.230] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:osseous_sword is
+[20Sep2025 00:49:53.230] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:ether_ashes is
+[20Sep2025 00:49:53.231] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json: Don't know what sons_of_sins:blud_aggressive is
+[20Sep2025 00:49:53.238] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'sons_of_sins:lazarus_pit' in progress file ./world/advancements/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json - it doesn't exist anymore?
+[20Sep2025 00:49:53.238] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'sons_of_sins:to_dust_you_shall_return' in progress file ./world/advancements/9ce338ae-fd82-3fe3-86f4-52f20617ece6.json - it doesn't exist anymore?
+[20Sep2025 00:49:53.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:65309] logged in with entity id 11067 at (265.4665799801145, 224.62000000476837, -3205.497275887999)
+[20Sep2025 00:49:53.324] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[20Sep2025 00:49:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[20Sep2025 00:49:53.339] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[20Sep2025 00:49:54.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[20Sep2025 00:49:54.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[20Sep2025 00:49:54.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[20Sep2025 00:50:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hola vro
+[20Sep2025 00:50:14.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[20Sep2025 00:50:19.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> holA XD
+[20Sep2025 00:50:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 00:50:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que paso?
+[20Sep2025 00:50:36.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> NADA
+[20Sep2025 00:50:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> como¿
+[20Sep2025 00:50:46.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 00:50:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> no entendi
+[20Sep2025 00:51:02.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pero si
+[20Sep2025 00:51:08.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> :peped::peped:
+[20Sep2025 00:51:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[20Sep2025 00:51:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> estuve peleando con wardens y casi me rompen toda la armor de netherite
+[20Sep2025 00:51:45.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[20Sep2025 00:52:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[20Sep2025 00:54:00.348] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3040ms or 60 ticks
+[20Sep2025 00:54:25.572] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[20Sep2025 00:54:25.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[20Sep2025 00:54:25.821] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[20Sep2025 00:54:47.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -1.6116700562660355,7.712983364694431,-6.462542685306651
+[20Sep2025 00:54:47.816] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3178ms or 63 ticks
+[20Sep2025 00:56:37.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/17379, l='ServerLevel[world]', x=-2522.27, y=72.77, z=238.45] died, message: 'Armorer was slain by Vindicator'
+[20Sep2025 00:56:56.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17348, l='ServerLevel[world]', x=-2565.49, y=64.00, z=297.30] died, message: 'Fisherman was slain by Husk'
+[20Sep2025 00:57:02.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17364, l='ServerLevel[world]', x=-2556.60, y=70.00, z=265.67] died, message: 'Fisherman was shot by Pillager'
+[20Sep2025 01:00:31.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/17381, l='ServerLevel[world]', x=-2509.45, y=63.00, z=309.91] died, message: 'Armorer was shot by Chagrin Sentry'
