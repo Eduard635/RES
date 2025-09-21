@@ -7036,27 +7036,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-09-20 01:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-09-20 01:47:41 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/phantom_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/toxic_quiver": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-09-20 02:31:54 +0000"
     },
     "done": true
   },
@@ -7084,12 +7066,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/jungle_cabinet": {
-    "criteria": {
-      "has_jungle_trapdoor": "2025-09-20 01:34:31 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/sea_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
@@ -7105,6 +7081,30 @@
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-09-20 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-09-20 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-09-20 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-20 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-09-20 02:31:54 +0000"
     },
     "done": true
   },
