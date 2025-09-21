@@ -10594,6 +10594,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-09-21 21:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-09-21 21:03:46 +0000"
@@ -10666,6 +10672,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-09-21 21:33:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-09-21 21:03:46 +0000"
@@ -10684,9 +10696,28 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-09-21 21:46:53 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-09-21 21:26:20 +0000",
+      "1": "2025-09-21 21:25:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-09-21 21:03:46 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2025-09-21 21:47:18 +0000"
     },
     "done": true
   },

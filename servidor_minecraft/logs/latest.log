@@ -2382,3 +2382,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 21:28:42.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
 [21Sep2025 21:28:42.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
 [21Sep2025 21:28:42.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-919, y=131, z=-1663} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:34:33.872] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
+[21Sep2025 21:47:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Perfectly Stressed]
+[21Sep2025 21:47:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[21Sep2025 21:47:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> WAJAJAJAJJA
+[21Sep2025 21:48:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que lindo es ver qe funcionen las cosas xd
