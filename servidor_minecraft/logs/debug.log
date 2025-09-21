@@ -15028,3 +15028,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 17:26:28.922] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
 [21Sep2025 17:27:17.338] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-60
 [21Sep2025 17:27:17.622] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[21Sep2025 17:28:53.973] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[21Sep2025 17:28:57.057] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Sep2025 17:28:57.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 17:28:57.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 17:29:23.881] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-63
+[21Sep2025 17:29:48.480] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Sep2025 17:29:56.044] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 17:29:56.044] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[21Sep2025 17:31:21.619] [Worker-Main-63/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-63 shutdown
+[21Sep2025 17:31:21.619] [Worker-Main-60/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-60 shutdown
+[21Sep2025 17:32:19.711] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-65
+[21Sep2025 17:32:19.711] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-66
+[21Sep2025 17:33:57.051] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Sep2025 17:33:57.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 17:33:57.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 17:34:25.369] [Worker-Main-66/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-66 shutdown
+[21Sep2025 17:34:27.525] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-68
+[21Sep2025 17:35:42.033] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[21Sep2025 17:35:46.831] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[21Sep2025 17:35:46.966] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[21Sep2025 17:36:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has reached the goal [Zombie Doctor]
