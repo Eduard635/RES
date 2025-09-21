@@ -15049,3 +15049,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 17:35:46.831] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
 [21Sep2025 17:35:46.966] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
 [21Sep2025 17:36:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has reached the goal [Zombie Doctor]
+[21Sep2025 17:38:57.049] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[21Sep2025 17:38:57.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 17:38:57.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 17:41:15.027] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[21Sep2025 17:42:54.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_warn_temple
+[21Sep2025 17:43:57.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 17:43:57.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 17:44:09.130] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[21Sep2025 17:44:09.130] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[21Sep2025 17:44:09.130] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[21Sep2025 17:44:09.342] [Worker-Main-29/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.342] [Worker-Main-29/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.343] [Worker-Main-29/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.343] [Worker-Main-29/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Sep2025 17:44:09.344] [Worker-Main-29/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.344] [Worker-Main-29/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.344] [Worker-Main-29/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.344] [Worker-Main-29/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.344] [Worker-Main-29/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 17:44:09.346] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.346] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.346] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.346] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.347] [Worker-Main-29/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 17:44:09.384] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[21Sep2025 17:44:09.443] [Worker-Main-29/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[21Sep2025 17:44:09.486] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[21Sep2025 17:44:09.519] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[21Sep2025 17:44:09.570] [Worker-Main-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-77
+[21Sep2025 17:44:09.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_quad
+[21Sep2025 17:44:09.669] [Worker-Main-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-78
+[21Sep2025 17:44:09.822] [Worker-Main-77/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 17:44:09.823] [Worker-Main-77/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 17:44:09.823] [Worker-Main-77/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 17:44:09.823] [Worker-Main-77/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 17:44:09.830] [Worker-Main-77/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Sep2025 17:44:09.830] [Worker-Main-77/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Sep2025 17:45:28.544] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[21Sep2025 17:47:40.522] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[21Sep2025 17:48:34.093] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[21Sep2025 17:48:50.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14846, l='ServerLevel[world]', x=-2534.17, y=70.00, z=279.00] died, message: 'Farmer was slain by 1FANT4SMA using [Scythe]'
+[21Sep2025 17:48:57.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 17:48:57.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

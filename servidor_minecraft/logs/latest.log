@@ -2360,3 +2360,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 17:21:07.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10718, l='ServerLevel[world]', x=-2561.11, y=74.00, z=252.14] died, message: 'Librarian was slain by Zombie'
 [21Sep2025 17:21:12.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10716, l='ServerLevel[world]', x=-2569.41, y=74.00, z=251.43] died, message: 'Librarian was slain by Zombie'
 [21Sep2025 17:36:42.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has reached the goal [Zombie Doctor]
+[21Sep2025 17:48:50.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14846, l='ServerLevel[world]', x=-2534.17, y=70.00, z=279.00] died, message: 'Farmer was slain by 1FANT4SMA using [Scythe]'
