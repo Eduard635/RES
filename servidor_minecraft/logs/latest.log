@@ -2361,3 +2361,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 21:15:56.976] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
 [21Sep2025 21:15:56.976] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
 [21Sep2025 21:16:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hola vro
+[21Sep2025 21:19:33.838] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3147ms or 62 ticks
+[21Sep2025 21:19:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[21Sep2025 21:19:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[21Sep2025 21:19:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> hola
+[21Sep2025 21:20:02.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q hace
+[21Sep2025 21:21:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> estoy inmersandome en el mod create
+[21Sep2025 21:22:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hora de industrializarce
+[21Sep2025 21:22:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q
+[21Sep2025 21:22:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> wtf
+[21Sep2025 21:27:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si
+[21Sep2025 21:27:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[21Sep2025 21:28:24.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-922, y=132, z=-1670} BlockPos{x=-925, y=131, z=-1669}
+[21Sep2025 21:28:26.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-926, y=133, z=-1668} BlockPos{x=-926, y=131, z=-1666}
+[21Sep2025 21:28:30.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-933, y=131, z=-1675} BlockPos{x=-932, y=131, z=-1675}
+[21Sep2025 21:28:30.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-933, y=131, z=-1675} BlockPos{x=-932, y=131, z=-1675}
+[21Sep2025 21:28:42.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-919, y=131, z=-1663} BlockPos{x=-917, y=130, z=-1661}

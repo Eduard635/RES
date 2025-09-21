@@ -15371,3 +15371,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 21:17:15.329] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
 [21Sep2025 21:17:48.093] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
 [21Sep2025 21:18:15.983] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 21:19:33.702] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[21Sep2025 21:19:33.705] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[21Sep2025 21:19:33.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 21:19:33.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 21:19:33.838] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3147ms or 62 ticks
+[21Sep2025 21:19:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> a
+[21Sep2025 21:19:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[21Sep2025 21:19:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> hola
+[21Sep2025 21:20:02.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q hace
+[21Sep2025 21:21:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> estoy inmersandome en el mod create
+[21Sep2025 21:22:03.654] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[21Sep2025 21:22:14.623] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[21Sep2025 21:22:14.624] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[21Sep2025 21:22:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> hora de industrializarce
+[21Sep2025 21:22:16.326] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[21Sep2025 21:22:16.326] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[21Sep2025 21:22:16.383] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[21Sep2025 21:22:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> q
+[21Sep2025 21:22:22.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[21Sep2025 21:22:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> wtf
+[21Sep2025 21:22:39.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[21Sep2025 21:22:40.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[21Sep2025 21:22:48.143] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 21:22:56.818] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 21:23:04.989] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 21:23:04.990] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 21:23:05.321] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 21:23:26.520] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 21:23:26.520] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 21:23:26.520] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[21Sep2025 21:23:53.298] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[21Sep2025 21:24:33.703] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[21Sep2025 21:24:33.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 21:24:33.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 21:25:47.445] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Sep2025 21:25:47.446] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Sep2025 21:26:34.289] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[21Sep2025 21:26:34.290] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[21Sep2025 21:26:58.100] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Sep2025 21:27:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> si
+[21Sep2025 21:27:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[21Sep2025 21:27:48.144] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 21:28:24.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-922, y=132, z=-1670} BlockPos{x=-925, y=131, z=-1669}
+[21Sep2025 21:28:26.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-926, y=133, z=-1668} BlockPos{x=-926, y=131, z=-1666}
+[21Sep2025 21:28:30.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-933, y=131, z=-1675} BlockPos{x=-932, y=131, z=-1675}
+[21Sep2025 21:28:30.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-933, y=131, z=-1675} BlockPos{x=-932, y=131, z=-1675}
+[21Sep2025 21:28:42.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-917, y=132, z=-1662} BlockPos{x=-917, y=130, z=-1661}
+[21Sep2025 21:28:42.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-919, y=131, z=-1663} BlockPos{x=-917, y=130, z=-1661}
