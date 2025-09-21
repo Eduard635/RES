@@ -17204,3 +17204,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 23:31:18.446] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
 [21Sep2025 23:31:18.724] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
 [21Sep2025 23:31:18.743] [IO-Worker-184/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[21Sep2025 23:32:48.893] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:33:01.341] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:34:27.344] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[21Sep2025 23:34:33.693] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[21Sep2025 23:34:33.694] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[21Sep2025 23:34:33.696] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[21Sep2025 23:34:33.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:34:33.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:35:12.775] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 23:35:18.641] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:36:03.293] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[21Sep2025 23:36:04.850] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[21Sep2025 23:36:22.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[21Sep2025 23:36:22.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[21Sep2025 23:36:29.049] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[21Sep2025 23:37:42.666] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[21Sep2025 23:37:48.897] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:38:01.351] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:38:11.048] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[21Sep2025 23:38:11.048] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:1224,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[21Sep2025 23:38:11.048] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1224,EnchantmentMapping:{},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[21Sep2025 23:38:11.049] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:1224,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[21Sep2025 23:38:11.049] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1224,EnchantmentMapping:{"minecraft:fortune":"double/handle"},Enchantments:[{id:"minecraft:fortune",lvl:4s}],"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[21Sep2025 23:38:11.049] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:38:11.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -1.6006192782428457,-10.0,-0.6011974006108893
+[21Sep2025 23:39:33.702] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[21Sep2025 23:39:33.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:39:33.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:40:36.271] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 23:40:36.273] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:40:36.354] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[21Sep2025 23:40:36.354] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[21Sep2025 23:40:36.354] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[21Sep2025 23:40:36.355] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[21Sep2025 23:40:36.355] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[21Sep2025 23:40:36.767] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[21Sep2025 23:40:36.768] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[21Sep2025 23:40:45.962] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
