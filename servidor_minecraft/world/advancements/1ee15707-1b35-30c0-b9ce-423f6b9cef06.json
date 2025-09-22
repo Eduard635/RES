@@ -10955,6 +10955,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-09-22 00:12:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-09-21 23:48:23 +0000"
@@ -10988,6 +10994,12 @@
   "create:deployer": {
     "criteria": {
       "0": "2025-09-21 23:48:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-22 00:10:08 +0000"
     },
     "done": true
   },
