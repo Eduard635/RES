@@ -17242,3 +17242,179 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [21Sep2025 23:40:36.767] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [21Sep2025 23:40:36.768] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [21Sep2025 23:40:45.962] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[21Sep2025 23:42:43.488] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[21Sep2025 23:42:48.941] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:43:01.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:44:33.692] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[21Sep2025 23:44:33.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:44:33.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:45:55.115] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 23:45:55.116] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:46:15.205] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[21Sep2025 23:46:20.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[21Sep2025 23:46:20.020] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:46:20.020] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0afc7ad7-c71c-41f8-84cf-c253ca2a706e)
+[21Sep2025 23:46:23.790] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:46:23.791] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:46:35.668] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3212ms or 64 ticks
+[21Sep2025 23:46:35.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic1
+[21Sep2025 23:46:36.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/weaponsmith1
+[21Sep2025 23:46:36.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic4
+[21Sep2025 23:46:36.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/fisherman1
+[21Sep2025 23:46:36.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/library1
+[21Sep2025 23:46:36.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/generic3
+[21Sep2025 23:46:36.282] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[21Sep2025 23:46:36.918] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[21Sep2025 23:46:43.977] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:46:54.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[21Sep2025 23:46:59.144] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[21Sep2025 23:47:48.944] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:48:01.394] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:49:33.708] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[21Sep2025 23:49:33.712] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[21Sep2025 23:49:33.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:49:33.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:49:49.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[21Sep2025 23:51:32.383] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:51:32.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:51:32.393] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:51:32.393] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[21Sep2025 23:52:20.103] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[21Sep2025 23:52:27.762] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 23:52:48.946] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:53:01.445] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:53:22.674] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:53:37.198] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[21Sep2025 23:53:47.660] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 23:53:58.814] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 23:54:33.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:54:33.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:55:39.944] [IO-Worker-197/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[21Sep2025 23:55:57.116] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 23:56:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Howling Blades]
+[21Sep2025 23:56:57.013] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[21Sep2025 23:57:03.733] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:57:03.747] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:57:03.747] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[21Sep2025 23:57:32.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[21Sep2025 23:57:48.992] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[21Sep2025 23:58:01.495] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[21Sep2025 23:59:07.345] [IO-Worker-204/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[21Sep2025 23:59:10.075] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[21Sep2025 23:59:33.701] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[21Sep2025 23:59:33.702] [IO-Worker-204/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[21Sep2025 23:59:33.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 23:59:33.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 23:59:52.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[21Sep2025 23:59:52.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_04
+[21Sep2025 23:59:52.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[21Sep2025 23:59:52.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_01
+[21Sep2025 23:59:52.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_02
+[21Sep2025 23:59:52.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1
+[21Sep2025 23:59:52.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1
+[21Sep2025 23:59:52.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1
+[21Sep2025 23:59:52.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1
+[21Sep2025 23:59:52.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_03
+[21Sep2025 23:59:52.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1
+[21Sep2025 23:59:52.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_03
+[21Sep2025 23:59:52.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1
+[21Sep2025 23:59:52.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_02
+[21Sep2025 23:59:52.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_03
+[21Sep2025 23:59:52.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1
+[21Sep2025 23:59:52.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_05
+[21Sep2025 23:59:52.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_02
+[21Sep2025 23:59:52.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1
+[21Sep2025 23:59:52.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/turn_01
+[21Sep2025 23:59:52.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5
+[21Sep2025 23:59:52.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1
+[21Sep2025 23:59:52.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_01
+[21Sep2025 23:59:52.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_06
+[21Sep2025 23:59:52.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_04
+[21Sep2025 23:59:52.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_05
+[21Sep2025 23:59:52.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2
+[21Sep2025 23:59:52.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_01
+[21Sep2025 23:59:52.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_02
+[21Sep2025 23:59:52.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1
+[21Sep2025 23:59:52.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_04
+[21Sep2025 23:59:52.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_03
+[21Sep2025 23:59:52.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[21Sep2025 23:59:52.459] [Worker-Main-45/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.460] [Worker-Main-45/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.460] [Worker-Main-45/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.461] [Worker-Main-45/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Sep2025 23:59:52.462] [Worker-Main-45/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.464] [Worker-Main-45/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.464] [Worker-Main-45/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.465] [Worker-Main-45/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.465] [Worker-Main-45/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.470] [Worker-Main-45/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Sep2025 23:59:52.538] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-210
+[21Sep2025 23:59:52.552] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-211
+[21Sep2025 23:59:52.613] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-212
+[21Sep2025 23:59:52.902] [Worker-Main-212/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 23:59:52.903] [Worker-Main-212/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 23:59:52.904] [Worker-Main-212/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 23:59:52.904] [Worker-Main-212/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[21Sep2025 23:59:52.936] [Worker-Main-212/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Sep2025 23:59:52.936] [Worker-Main-212/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Sep2025 23:59:53.014] [Worker-Main-212/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[22Sep2025 00:00:09.386] [Worker-Main-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-213
+[22Sep2025 00:00:09.887] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[22Sep2025 00:00:09.916] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[22Sep2025 00:00:09.934] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[22Sep2025 00:00:23.558] [Worker-Main-211/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22Sep2025 00:00:29.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/villager/bandit
+[22Sep2025 00:00:43.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/floating_islands
+[22Sep2025 00:00:59.174] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[22Sep2025 00:00:59.527] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[22Sep2025 00:01:01.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[22Sep2025 00:01:01.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower
+[22Sep2025 00:01:06.282] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[22Sep2025 00:02:46.866] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[22Sep2025 00:02:46.867] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[22Sep2025 00:02:46.868] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[22Sep2025 00:02:47.902] [Worker-Main-211/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[22Sep2025 00:02:48.181] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[22Sep2025 00:02:48.995] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[22Sep2025 00:03:01.548] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[22Sep2025 00:04:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro te sobra redstone?
+[22Sep2025 00:04:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> si
+[22Sep2025 00:04:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ve a mi casa
+[22Sep2025 00:04:24.030] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[22Sep2025 00:04:25.770] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[22Sep2025 00:04:25.771] [IO-Worker-214/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[22Sep2025 00:04:33.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 00:04:33.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 00:04:38.576] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[22Sep2025 00:04:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ya vro gracias
+[22Sep2025 00:05:06.017] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[22Sep2025 00:05:06.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[22Sep2025 00:05:06.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[22Sep2025 00:05:06.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[22Sep2025 00:05:06.018] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f69d88f1-588a-4d14-8e36-b90083c679bd)
+[22Sep2025 00:07:34.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 1FANT4SMA) moved wrongly! 0.2598723298456207
+[22Sep2025 00:07:34.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 1FANT4SMA) moved wrongly! 0.6162064507773266
+[22Sep2025 00:07:34.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of 1FANT4SMA) moved wrongly! 0.98222140306234
+[22Sep2025 00:07:47.999] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[22Sep2025 00:07:49.045] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[22Sep2025 00:07:55.763] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_single)
+[22Sep2025 00:07:55.763] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[22Sep2025 00:08:01.595] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
+[22Sep2025 00:09:32.075] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (939062da-7579-44dc-b24c-d9ebf0cba739)
+[22Sep2025 00:09:33.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 00:09:33.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 00:10:06.469] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4cd376b8-1319-42f2-a3f8-27f7b31984c2)
+[22Sep2025 00:10:06.469] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (64f26b11-becd-4eb5-b2d7-df23c8e42cd1)
+[22Sep2025 00:11:28.595] [IO-Worker-208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[22Sep2025 00:11:28.596] [IO-Worker-208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[22Sep2025 00:12:49.096] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[22Sep2025 00:13:01.644] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2043288e-47da-4255-8a51-dfe0cdb434b4)
