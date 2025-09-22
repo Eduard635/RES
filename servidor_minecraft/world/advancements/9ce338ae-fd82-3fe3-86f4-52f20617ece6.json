@@ -7599,75 +7599,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-09-22 00:52:34 +0000"
+      "log_spam_fixer": "2025-09-22 01:11:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-09-22 00:54:35 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
